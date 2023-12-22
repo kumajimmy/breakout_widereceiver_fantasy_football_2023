@@ -1,0 +1,423 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Todd Gurley,1.62,RB,LAR,2018
+2,Le'Veon Bell,2.55,RB,PIT,2018
+3,Ezekiel Elliott,3.90,RB,DAL,2018
+4,David Johnson,4.33,RB,ARI,2018
+5,Antonio Brown,5.69,WR,PIT,2018
+6,Saquon Barkley,5.92,RB,NYG,2018
+7,Alvin Kamara,8.81,RB,NOS,2018
+8,DeAndre Hopkins,9.54,WR,HOU,2018
+9,Leonard Fournette,10.03,RB,JAC,2018
+10,Odell Beckham,10.91,WR,NYG,2018
+11,Melvin Gordon,10.98,RB,LAC,2018
+12,Kareem FA* RBHunt,11.82,RB,FA*,2018
+13,Dalvin Cook,12.74,RB,MIN,2018
+14,Julio Jones,13.05,WR,ATL,2018
+15,Christian McCaffrey,14.61,RB,CAR,2018
+16,Michael Thomas,16.43,WR,NOS,2018
+17,Keenan Allen,17.51,WR,LAC,2018
+18,Davante Adams,18.19,WR,GBP,2018
+19,Devonta Freeman,19.63,RB,ATL,2018
+20,A.J. Green,20.45,WR,CIN,2018
+21,Rob Gronkowski,20.63,TE,NEP,2018
+22,Joe Mixon,22.70,RB,CIN,2018
+23,Mike Evans,23.66,WR,TBB,2018
+24,Aaron Rodgers,24.82,QB,GBP,2018
+25,Jordan Howard,25.49,RB,CHI,2018
+26,Tyreek Hill,25.54,WR,KCC,2018
+27,Travis Kelce,25.62,TE,KCC,2018
+28,T.Y. Hilton,28.97,WR,IND,2018
+29,LeSean McCoy,29.16,RB,BUF,2018
+30,Stefon Diggs,29.31,WR,MIN,2018
+31,Jarvis Landry,34.48,WR,CLE,2018
+32,Amari Cooper,34.91,WR,DAL,2018
+33,Larry Fitzgerald,35.14,WR,ARI,2018
+34,Adam Thielen,35.84,WR,MIN,2018
+35,Zach Ertz,38.74,TE,PHI,2018
+36,Doug Baldwin,39.15,WR,SEA,2018
+37,Kenyan Drake,39.53,RB,MIA,2018
+38,Alex Collins,40.21,RB,BAL,2018
+39,JuJu Smith-Schuster,40.33,WR,PIT,2018
+40,Brandin Cooks,40.45,WR,LAR,2018
+41,Royce Freeman,41.58,RB,DEN,2018
+42,Deshaun Watson,41.85,QB,HOU,2018
+43,Jay Ajayi,43.71,RB,PHI,2018
+44,Tom Brady,45.02,QB,NEP,2018
+45,Lamar Miller,45.27,RB,HOU,2018
+46,Allen Robinson,45.59,WR,CHI,2018
+47,Demaryius Thomas,45.84,WR,HOU,2018
+48,Russell Wilson,47.13,QB,SEA,2018
+49,Derrick Henry,47.79,RB,TEN,2018
+50,Chris Hogan,49.16,WR,NEP,2018
+51,Kerryon Johnson,50.06,RB,DET,2018
+52,Golden Tate,51.69,WR,PHI,2018
+53,Marvin Jones,52.63,WR,DET,2018
+54,Jimmy Graham,54.52,TE,GBP,2018
+55,Josh Gordon,55.72,WR,NEP,2018
+56,Alshon Jeffery,56.32,WR,PHI,2018
+57,Mark Ingram,57.53,RB,NOS,2018
+58,Greg Olsen,57.54,TE,CAR,2018
+59,Marshawn Lynch,57.71,RB,OAK,2018
+60,Sony Michel,58.57,RB,NEP,2018
+61,Corey Davis,58.95,WR,TEN,2018
+62,Cam Newton,59.85,QB,CAR,2018
+63,Evan Engram,62.46,TE,NYG,2018
+64,Drew Brees,64.79,QB,NOS,2018
+65,Jamaal Williams,65.53,RB,GBP,2018
+66,Dion Lewis,67.76,RB,TEN,2018
+67,Julian Edelman,67.89,WR,NEP,2018
+68,Michael Crabtree,68.38,WR,BAL,2018
+69,Rex Burkhead,68.79,RB,NEP,2018
+70,Sammy Watkins,69.36,WR,KCC,2018
+71,Carson Wentz,70.02,QB,PHI,2018
+72,Carlos Hyde,70.45,RB,JAC,2018
+73,Marquise Goodwin,70.48,WR,SFO,2018
+74,Rashaad Penny,70.55,RB,SEA,2018
+75,Tevin Coleman,73.91,RB,ATL,2018
+76,Jordy Nelson,74.29,WR,OAK,2018
+77,Emmanuel Sanders,74.77,WR,DEN,2018
+78,Trey Burton,76.04,TE,CHI,2018
+79,Luke Kuechly,76.34,LB,CAR,2018
+80,Kyle Rudolph,77.96,TE,MIN,2018
+81,Delanie Walker,78.11,TE,TEN,2018
+82,Robert Woods,80.86,WR,LAR,2018
+83,Tarik Cohen,82.29,RB,CHI,2018
+84,Roquan Smith,84.15,LB,CHI,2018
+85,Ronald Jones,84.69,RB,TBB,2018
+86,Andrew Luck,84.78,QB,IND,2018
+87,Bobby Wagner,84.86,LB,SEA,2018
+88,Kirk Cousins,85.16,QB,MIN,2018
+89,Cooper Kupp,85.95,WR,LAR,2018
+90,Duke Johnson,86.71,RB,CLE,2018
+91,Devin Funchess,86.85,WR,CAR,2018
+92,J.J. Watt,87.58,DE,HOU,2018
+93,"Jaguars, Jacksonville JAC Def",87.70,Def,JAC,2018
+94,C.J. Mosley,88.06,LB,BAL,2018
+95,Will Fuller,88.18,WR,HOU,2018
+96,Robby Anderson,89.21,WR,NYJ,2018
+97,Chris Carson,89.78,RB,SEA,2018
+98,Jordan Reed,90.05,TE,WAS,2018
+99,Telvin Smith,90.54,LB,JAC,2018
+100,Marlon Mack,90.69,RB,IND,2018
+101,Tremaine Edmunds,92.04,LB,BUF,2018
+102,Matthew Stafford,92.28,QB,DET,2018
+103,Chris Thompson,93.52,RB,WAS,2018
+104,Philip Rivers,93.76,QB,LAC,2018
+105,Jack Doyle,94.00,TE,IND,2018
+106,Joey Bosa,94.28,DE,LAC,2018
+107,Ben Roethlisberger,94.46,QB,PIT,2018
+108,Landon NYG SCollins,94.62,S,NYG,2018
+109,Pierre Garcon,95.10,WR,SFO,2018
+110,Jamison Crowder,96.15,WR,WAS,2018
+111,Peyton Barber,96.35,RB,TBB,2018
+112,Jimmy Garoppolo,97.41,QB,SFO,2018
+113,DeVante Parker,97.71,WR,MIA,2018
+114,Randall Cobb,98.51,WR,GBP,2018
+115,Deion Jones,98.96,LB,ATL,2018
+116,Kwon Alexander,99.15,LB,TBB,2018
+117,Matt Ryan,99.23,QB,ATL,2018
+118,Isaiah Crowell,100.36,RB,NYJ,2018
+119,Adrian Peterson,102.99,RB,WAS,2018
+120,Zach Brown,103.54,LB,WAS,2018
+121,Reshad MIA SJones,103.59,S,MIA,2018
+122,Nick Chubb,103.63,RB,CLE,2018
+123,Blake Martinez,103.73,LB,GBP,2018
+124,David Njoku,104.11,TE,CLE,2018
+125,James White,104.77,RB,NEP,2018
+126,Nelson Agholor,105.29,WR,PHI,2018
+127,Sean Lee,105.75,LB,DAL,2018
+128,"Rams, Los Angeles LAR Def",106.47,Def,LAR,2018
+129,Sterling Shepard,106.56,WR,NYG,2018
+130,D.J. Moore,107.65,WR,CAR,2018
+131,Kenny Stills,107.87,WR,MIA,2018
+132,Calvin Ridley,107.99,WR,ATL,2018
+133,Khalil Mack,108.53,LB,CHI,2018
+134,Jared Goff,109.70,QB,LAR,2018
+135,Keanu ATL SNeal,110.16,S,ATL,2018
+136,"Eagles, Philadelphia PHI Def",110.27,Def,PHI,2018
+137,Patrick Mahomes,111.15,QB,KCC,2018
+138,Calais Campbell,112.61,DE,JAC,2018
+139,Aaron Donald,112.88,DE,LAR,2018
+140,"Vikings, Minnesota MIN Def",113.39,Def,MIN,2018
+141,Dante Pettis,113.69,WR,SFO,2018
+142,Demarcus Lawrence,116.56,DE,DAL,2018
+143,Chandler Jones,116.76,DE,ARI,2018
+144,Rashaan Evans,116.91,LB,TEN,2018
+145,Josh Rosen,117.14,QB,ARI,2018
+146,Alec Ogletree,117.24,LB,NYG,2018
+147,Kelvin Benjamin,118.27,WR,KCC,2018
+148,Lamar Jackson,118.29,QB,BAL,2018
+149,Bradley Chubb,118.65,LB,DEN,2018
+150,Keelan Cole,119.01,WR,JAC,2018
+151,Lavonte David,119.17,LB,TBB,2018
+152,Budda ARI SBaker,119.34,S,ARI,2018
+153,Derwin LAC SJames,120.53,S,LAC,2018
+154,Aaron Jones,120.55,RB,GBP,2018
+155,Baker Mayfield,120.83,QB,CLE,2018
+156,Michael Gallup,121.37,WR,DAL,2018
+157,Courtland Sutton,121.50,WR,DEN,2018
+158,Mike Williams,121.85,WR,LAC,2018
+159,Giovani Bernard,121.87,RB,CIN,2018
+160,Leighton Vander Esch,122.45,LB,DAL,2018
+161,D.J. Chark,122.48,WR,JAC,2018
+162,"Chargers, Los Angeles LAC Def",122.59,Def,LAC,2018
+163,Anthony Miller,122.84,WR,CHI,2018
+164,Sam Darnold,122.87,QB,NYJ,2018
+165,O.J. Howard,123.10,TE,TBB,2018
+166,Christian Kirk,123.37,WR,ARI,2018
+167,Justin Tucker,123.58,PK,BAL,2018
+168,George Kittle,124.56,TE,SFO,2018
+169,Cameron Jordan,124.95,DE,NOS,2018
+170,Tyler Eifert,125.63,TE,CIN,2018
+171,Christian Kirksey,125.86,LB,CLE,2018
+172,Josh Allen,126.12,QB,BUF,2018
+173,Eric Kendricks,126.61,LB,MIN,2018
+174,Marcus Davenport,127.44,DE,NOS,2018
+175,Bilal Powell,127.54,RB,NYJ,2018
+176,Allen Hurns,127.58,WR,DAL,2018
+177,Alex Smith,127.72,QB,WAS,2018
+178,Latavius Murray,127.83,RB,MIN,2018
+179,Myles Garrett,127.88,DE,CLE,2018
+180,Devontae Booker,127.91,RB,DEN,2018
+181,Melvin Ingram,128.59,DE,LAC,2018
+182,J'Mon Moore,129.23,WR,GBP,2018
+183,Dak Prescott,129.24,QB,DAL,2018
+184,James Washington,129.38,WR,PIT,2018
+185,Harrison MIN SSmith,129.50,S,MIN,2018
+186,Antonio Callaway,129.90,WR,CLE,2018
+187,C.J. Anderson,129.92,RB,LAR,2018
+188,Marcus Mariota,130.17,QB,TEN,2018
+189,Kenny Golladay,130.62,WR,DET,2018
+190,Josh Doctson,130.70,WR,WAS,2018
+191,Kalen Ballage,132.05,RB,MIA,2018
+192,Kevin TEN SByard,132.13,S,TEN,2018
+193,Mike Gesicki,132.66,TE,MIA,2018
+194,Jordan Wilkins,132.90,RB,IND,2018
+195,Myles Jack,133.25,LB,JAC,2018
+196,Hayden Hurst,133.60,TE,BAL,2018
+197,Tre'Quan Smith,133.91,WR,NOS,2018
+198,Nyheim Hines,133.98,RB,IND,2018
+199,Dallas Goedert,134.17,TE,PHI,2018
+200,Minkah MIA SFitzpatrick,134.23,S,MIA,2018
+201,Keke Coutee,134.46,WR,HOU,2018
+202,Stephen Gostkowski,134.48,PK,NEP,2018
+203,"Ravens, Baltimore BAL Def",134.49,Def,BAL,2018
+204,Darius Leonard,134.77,LB,IND,2018
+205,Derek Carr,134.79,QB,OAK,2018
+206,Ted Ginn Jr.,134.98,WR,NOS,2018
+207,Everson Griffen,135.05,DE,MIN,2018
+208,Ty Montgomery,135.52,RB,BAL,2018
+209,Greg Zuerlein,135.61,PK,LAR,2018
+210,Mohamed Sanu,136.49,WR,ATL,2018
+211,Tyler Lockett,137.50,WR,SEA,2018
+212,Corey Clement,138.95,RB,PHI,2018
+213,DaeSean Hamilton,139.22,WR,DEN,2018
+214,"Texans, Houston HOU Def",139.31,Def,HOU,2018
+215,Marqise Lee,139.69,WR,JAC,2018
+216,"Broncos, Denver DEN Def",140.25,Def,DEN,2018
+217,Mark Walton,140.54,RB,CIN,2018
+218,Chris Godwin,142.46,WR,TBB,2018
+219,Mark Barron,142.60,LB,LAR,2018
+220,Deon Cain,142.74,WR,IND,2018
+221,"Panthers, Carolina CAR Def",143.06,Def,CAR,2018
+222,Jalen Ramsey,143.31,CB,JAC,2018
+223,DeSean Jackson,143.34,WR,TBB,2018
+224,Rishard Matthews,144.03,WR,NYJ,2018
+225,Kurt NOS SColeman,144.29,S,NOS,2018
+226,Chase Edmonds,144.54,RB,ARI,2018
+227,Ito Smith,144.63,RB,ATL,2018
+228,Wesley Woodyard,144.75,LB,TEN,2018
+229,Jameis Winston,144.97,QB,TBB,2018
+230,Mason Rudolph,145.54,QB,PIT,2018
+231,John Brown,145.61,WR,BAL,2018
+232,Dez Bryant,145.61,WR,NOS,2018
+233,Justin Jackson,146.06,RB,LAC,2018
+234,John Kelly,146.90,RB,LAR,2018
+235,Vance McDonald,146.93,TE,PIT,2018
+236,Danielle Hunter,147.17,DE,MIN,2018
+237,Cameron Meredith,147.46,WR,NOS,2018
+238,Equanimeous St. Brown,147.64,WR,GBP,2018
+239,Jared Cook,148.02,TE,OAK,2018
+240,Rob Kelley,148.06,RB,WAS,2018
+241,John Ross,148.08,WR,CIN,2018
+242,Jaylen Samuels,148.15,RB,PIT,2018
+243,Marshon Lattimore,148.19,CB,NOS,2018
+244,Joe Schobert,148.26,LB,CLE,2018
+245,Geronimo Allison,148.89,WR,GBP,2018
+246,Tyrell Williams,148.92,WR,LAC,2018
+247,Jordan BUF SPoyer,148.96,S,BUF,2018
+248,Marquez Valdes-Scantling,149.22,WR,GBP,2018
+249,Matt Breida,149.34,RB,SFO,2018
+250,Eric Ebron,149.36,TE,IND,2018
+251,Jarrad Davis,149.43,LB,DET,2018
+252,Chris Warren,149.62,RB,OAK,2018
+253,Javorius Allen,149.93,RB,BAL,2018
+254,"Saints, New Orleans NOS Def",150.39,Def,NOS,2018
+255,Jason Pierre-Paul,150.70,DE,TBB,2018
+256,Harrison Butker,151.19,PK,KCC,2018
+257,Theo Riddick,151.52,RB,DET,2018
+258,James Conner,151.52,RB,PIT,2018
+259,Yannick Ngakoue,151.54,DE,JAC,2018
+260,Mitchell Trubisky,151.67,QB,CHI,2018
+261,Blake Bortles,151.93,QB,JAC,2018
+262,Micah BUF SHyde,152.38,S,BUF,2018
+263,Eli Manning,152.85,QB,NYG,2018
+264,Case Keenum,153.39,QB,DEN,2018
+265,Demario Davis,153.43,LB,NOS,2018
+266,Austin Seferian-Jenkins,153.72,TE,JAC,2018
+267,Bo Scarbrough,153.82,RB,SEA,2018
+268,Austin Ekeler,154.85,RB,LAC,2018
+269,Dede Westbrook,154.99,WR,JAC,2018
+270,Von Miller,155.28,LB,DEN,2018
+271,Andy Dalton,155.71,QB,CIN,2018
+272,Trey Flowers,156.10,DE,NEP,2018
+273,Avery Williamson,156.37,LB,NYJ,2018
+274,"Steelers, Pittsburgh PIT Def",156.50,Def,PIT,2018
+275,D'Onta Foreman,156.76,RB,HOU,2018
+276,Deone Bucannon,156.88,LB,ARI,2018
+277,Wil Lutz,157.61,PK,NOS,2018
+278,T.J. Yeldon,157.80,RB,JAC,2018
+279,LeGarrette Blount,157.84,RB,DET,2018
+280,Mark Andrews,158.41,TE,BAL,2018
+281,Spencer Ware,158.86,RB,KCC,2018
+282,Chris Boswell,158.91,PK,PIT,2018
+283,Charles Clay,159.69,TE,BUF,2018
+284,"Patriots, New England NEP Def",159.83,Def,NEP,2018
+285,Anthony Hitchens,160.84,LB,KCC,2018
+286,Clayton IND SGeathers,161.04,S,IND,2018
+287,Doug Martin,161.82,RB,OAK,2018
+288,Ezekiel Ansah,161.93,DE,DET,2018
+289,Terrance Williams,162.07,WR,DAL,2018
+290,Austin Hooper,162.33,TE,ATL,2018
+291,"Bears, Chicago CHI Def",162.50,Def,CHI,2018
+292,Robbie Gould,162.63,PK,SFO,2018
+293,Cameron Brate,162.66,TE,TBB,2018
+294,Robert Quinn,163.29,DE,MIA,2018
+295,Vince Williams,163.58,LB,PIT,2018
+296,Ryan Tannehill,163.58,QB,MIA,2018
+297,Tyrod Taylor,163.89,QB,CLE,2018
+298,"Chiefs, Kansas City KCC Def",163.92,Def,KCC,2018
+299,Eric KCC SBerry,164.12,S,KCC,2018
+300,"Seahawks, Seattle SEA Def",164.39,Def,SEA,2018
+301,Reuben Foster,164.44,LB,WAS,2018
+302,Danny Amendola,164.46,WR,MIA,2018
+303,Alfred Morris,164.47,RB,SFO,2018
+304,Taywan Taylor,164.82,WR,TEN,2018
+305,Jamal NYJ SAdams,165.10,S,NYJ,2018
+306,Ha Ha WAS SClinton-Dix,165.15,S,WAS,2018
+307,Jake Elliott,165.18,PK,PHI,2018
+308,Ricky Seals-Jones,165.26,TE,ARI,2018
+309,Matt Bryant,165.60,PK,ATL,2018
+310,Paul Richardson,166.64,WR,WAS,2018
+311,Ben Watson,166.64,TE,NOS,2018
+312,Cairo Santos,166.68,PK,TBB,2018
+313,Martavis Bryant,166.98,WR,OAK,2018
+314,Donte Moncrief,167.33,WR,JAC,2018
+315,Dan Bailey,167.43,PK,MIN,2018
+316,Preston Brown,167.64,LB,CIN,2018
+317,Chris Ivory,168.45,RB,BUF,2018
+318,Ryan Grant,168.46,WR,IND,2018
+319,Jordan Akins,168.75,TE,HOU,2018
+320,Joe Flacco,169.08,QB,BAL,2018
+321,Vic Beasley,169.43,DE,ATL,2018
+322,Morgan PIT SBurnett,169.44,S,PIT,2018
+323,Frank Gore,169.75,RB,MIA,2018
+324,Danny Trevathan,169.80,LB,CHI,2018
+325,Geoff Swaim,169.83,TE,DAL,2018
+326,"Browns, Cleveland CLE Def",171.26,Def,CLE,2018
+327,Brandon Marshall,172.41,LB,DEN,2018
+328,"Cardinals, Arizona ARI Def",172.49,Def,ARI,2018
+329,Daniel Carlson,172.52,PK,OAK,2018
+330,"Titans, Tennessee TEN Def",172.71,Def,TEN,2018
+331,Marcus Peters,172.89,CB,LAR,2018
+332,Matt Prater,172.98,PK,DET,2018
+333,Samaje Perine,173.38,RB,WAS,2018
+334,K.J. Wright,174.04,LB,SEA,2018
+335,Karl OAK SJoseph,174.33,S,OAK,2018
+336,Sam Bradford,174.36,QB,FA,2018
+337,"Lions, Detroit DET Def",174.88,Def,DET,2018
+338,"Bills, Buffalo BUF Def",175.03,Def,BUF,2018
+339,Tyrann HOU SMathieu,175.30,S,HOU,2018
+340,"Cowboys, Dallas DAL Def",175.78,Def,DAL,2018
+341,"Falcons, Atlanta ATL Def",175.96,Def,ATL,2018
+342,Eric Decker,176.00,WR,FA,2018
+343,Roberto Aguayo,176.03,PK,FA,2018
+344,Sebastian Janikowski,176.21,PK,SEA,2018
+345,Mason Crosby,176.28,PK,GBP,2018
+346,Adam Vinatieri,177.14,PK,IND,2018
+347,Graham Gano,177.27,PK,CAR,2018
+348,Carlos Dunlap,177.31,DE,CIN,2018
+349,Corey Grant,178.05,RB,JAC,2018
+350,"49ers, San Francisco SFO Def",178.32,Def,SFO,2018
+351,Cordarrelle Patterson,178.33,WR,NEP,2018
+352,Benardrick McKinney,178.44,LB,HOU,2018
+353,Brandon Graham,178.82,DE,PHI,2018
+354,Jaquiski SFO STartt,178.83,S,SFO,2018
+355,Rod Smith,178.90,RB,DAL,2018
+356,Quincy Enunwa,179.17,WR,NYJ,2018
+357,Cole Beasley,179.19,WR,DAL,2018
+358,Jamie Collins,179.44,LB,CLE,2018
+359,Mason Foster,180.09,LB,WAS,2018
+360,Phillip Dorsett,180.71,WR,NEP,2018
+361,Phillip Lindsay,181.11,RB,DEN,2018
+362,Geno Atkins,181.28,DT,CIN,2018
+363,Jonathan Williams,181.32,RB,IND,2018
+364,Brandon McManus,181.42,PK,DEN,2018
+365,"Redskins, Washington WAS Def",181.94,Def,WAS,2018
+366,"Packers, Green Bay GBP Def",182.90,Def,GBP,2018
+367,Barry FA SChurch,182.99,S,FA,2018
+368,Jordan Hicks,183.55,LB,PHI,2018
+369,Josh Lambo,184.85,PK,JAC,2018
+370,"Buccaneers, Tampa Bay TBB Def",184.90,Def,TBB,2018
+371,Darren Sproles,185.09,RB,PHI,2018
+372,Jake Butt,185.15,TE,DEN,2018
+373,Sean PIT SDavis,185.29,S,PIT,2018
+374,Kenneth Dixon,185.46,RB,BAL,2018
+375,Kiko Alonso,185.48,LB,MIA,2018
+376,Jeremy Hill,186.11,RB,NEP,2018
+377,Adrian CHI SAmos,186.66,S,CHI,2018
+378,Dustin Hopkins,187.52,PK,WAS,2018
+379,"Giants, New York NYG Def",188.25,Def,NYG,2018
+380,Antonio Gates,189.21,TE,LAC,2018
+381,Ryan Succop,189.27,PK,TEN,2018
+382,Adam Humphries,189.44,WR,TBB,2018
+383,Vernon Davis,190.38,TE,WAS,2018
+384,Jermaine Kearse,190.48,WR,NYJ,2018
+385,Steven Hauschka,190.50,PK,BUF,2018
+386,Brandon Marshall,191.19,WR,FA,2018
+387,Ameer Abdullah,191.86,RB,MIN,2018
+388,Mike Wallace,192.68,WR,PHI,2018
+389,Virgil Green,193.38,TE,LAC,2018
+390,Phil Dawson,195.44,PK,ARI,2018
+391,"Bengals, Cincinnati CIN Def",195.60,Def,CIN,2018
+392,Tavon Austin,195.83,WR,DAL,2018
+393,Luke Willson,196.14,TE,DET,2018
+394,Kevin White,196.19,WR,CHI,2018
+395,Nick Foles,196.89,QB,PHI,2018
+396,Jonathan Stewart,197.99,RB,NYG,2018
+397,Frank Clark,198.00,DE,SEA,2018
+398,Malcolm PHI SJenkins,198.74,S,PHI,2018
+399,Teddy Bridgewater,199.25,QB,NOS,2018
+400,Ed Dickson,199.49,TE,SEA,2018
+401,Trent Taylor,199.51,WR,SFO,2018
+402,Corey Coleman,200.03,WR,NYG,2018
+403,Leonard Williams,200.71,DE,NYJ,2018
+404,Wayne Gallman,201.62,RB,NYG,2018
+405,Tyler Boyd,201.86,WR,CIN,2018
+406,Curtis Samuel,203.79,WR,CAR,2018
+407,Jesse James,204.61,TE,PIT,2018
+408,Albert Wilson,205.17,WR,MIA,2018
+409,Nick Vannett,205.25,TE,SEA,2018
+410,Jaron Brown,205.35,WR,SEA,2018
+411,Taylor Gabriel,205.48,WR,CHI,2018
+412,Terrelle Pryor,206.06,WR,FA,2018
+413,Ryan Griffin,208.82,TE,HOU,2018
+414,Willie Snead,209.66,WR,BAL,2018
+415,Akiem Hicks,209.96,DE,CHI,2018
+416,Christine Michael,211.11,RB,FA,2018
+417,Travis Benjamin,212.60,WR,LAC,2018
+418,Gerald Everett,216.14,TE,LAR,2018
+419,Laquon Treadwell,221.07,WR,MIN,2018
+420,C.J. Prosise,224.51,RB,SEA,2018
+421,Alfred Blue,225.82,RB,HOU,2018
+422,Tyler Kroft,230.10,TE,CIN,2018

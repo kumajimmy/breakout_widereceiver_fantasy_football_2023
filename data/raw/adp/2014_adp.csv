@@ -1,0 +1,402 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,LeSean McCoy,4.52,RB,PHI,2014
+2,Jamaal Charles,5.42,RB,KCC,2014
+3,Calvin Johnson,7.19,WR,DET,2014
+4,Matt Forte,8.02,RB,CHI,2014
+5,Eddie Lacy,11.32,RB,GBP,2014
+6,Jimmy Graham,11.41,TE,NOS,2014
+7,Demaryius Thomas,11.47,WR,DEN,2014
+8,Dez Bryant,12.74,WR,DAL,2014
+9,A.J. Green,13.90,WR,CIN,2014
+10,Julio Jones,16.31,WR,ATL,2014
+11,Brandon Marshall,16.82,WR,CHI,2014
+12,Peyton Manning,17.33,QB,DEN,2014
+13,Marshawn Lynch,18.59,RB,SEA,2014
+14,Montee Ball,19.83,RB,DEN,2014
+15,DeMarco Murray,20.19,RB,DAL,2014
+16,Giovani Bernard,21.27,RB,CIN,2014
+17,Aaron Rodgers,22.47,QB,GBP,2014
+18,Antonio Brown,23.27,WR,PIT,2014
+19,Jordy Nelson,23.42,WR,GBP,2014
+20,Drew Brees,24.36,QB,NOS,2014
+21,Doug Martin,26.03,RB,TBB,2014
+22,Arian Foster,26.11,RB,HOU,2014
+23,Le'Veon Bell,26.34,RB,PIT,2014
+24,Alshon Jeffery,27.41,WR,CHI,2014
+25,Randall Cobb,29.07,WR,GBP,2014
+26,Rob Gronkowski,29.19,TE,NEP,2014
+27,Julius Thomas,34.40,TE,DEN,2014
+28,Andre Ellington,36.47,RB,ARI,2014
+29,Keenan Allen,36.69,WR,SDC,2014
+30,Alfred Morris,36.91,RB,WAS,2014
+31,Reggie Bush,37.35,RB,DET,2014
+32,Pierre Garcon,37.60,WR,WAS,2014
+33,Zac Stacy,37.80,RB,STL,2014
+34,Andre Johnson,39.67,WR,HOU,2014
+35,Vincent Jackson,40.39,WR,TBB,2014
+36,C.J. Spiller,40.45,RB,BUF,2014
+37,Victor Cruz,40.73,WR,NYG,2014
+38,Larry Fitzgerald,42.64,WR,ARI,2014
+39,Cordarrelle Patterson,44.54,WR,MIN,2014
+40,Andrew Luck,44.97,QB,IND,2014
+41,Shane Vereen,45.05,RB,NEP,2014
+42,Roddy White,45.67,WR,ATL,2014
+43,Matthew Stafford,46.60,QB,DET,2014
+44,Michael Floyd,50.14,WR,ARI,2014
+45,Michael Crabtree,50.71,WR,SFO,2014
+46,Percy Harvin,50.72,WR,NYJ,2014
+47,Ryan Mathews,51.84,RB,SDC,2014
+48,DeSean Jackson,52.74,WR,WAS,2014
+49,Bishop Sankey,53.51,RB,TEN,2014
+50,Jordan Cameron,53.73,TE,CLE,2014
+51,Toby Gerhart,54.16,RB,JAC,2014
+52,T.Y. Hilton,55.65,WR,IND,2014
+53,Wes Welker,58.54,WR,DEN,2014
+54,Torrey Smith,60.03,WR,BAL,2014
+55,Rashad Jennings,60.35,RB,NYG,2014
+56,Julian Edelman,60.49,WR,NEP,2014
+57,Vernon Davis,61.31,TE,SFO,2014
+58,Ben Tate,62.10,RB,PIT,2014
+59,Sammy Watkins,62.59,WR,BUF,2014
+60,Chris Johnson,64.01,RB,NYJ,2014
+61,Joique Bell,65.09,RB,DET,2014
+62,Trent Richardson,65.40,RB,IND,2014
+63,Frank Gore,65.40,RB,SFO,2014
+64,Nick Foles,66.11,QB,PHI,2014
+65,Jeremy Maclin,67.42,WR,PHI,2014
+66,Emmanuel Sanders,69.43,WR,DEN,2014
+67,Kendall Wright,70.41,WR,TEN,2014
+68,Jason Witten,70.45,TE,DAL,2014
+69,Luke Kuechly,71.60,LB,CAR,2014
+70,Mike Wallace,72.10,WR,MIA,2014
+71,Tom Brady,72.29,QB,NEP,2014
+72,Brandin Cooks,72.72,WR,NOS,2014
+73,Matt Ryan,73.32,QB,ATL,2014
+74,Marques Colston,74.02,WR,NOS,2014
+75,Eric Decker,74.87,WR,NYJ,2014
+76,J.J. Watt,74.96,DE,HOU,2014
+77,Jadeveon Clowney,75.50,LB,HOU,2014
+78,Cam Newton,75.57,QB,CAR,2014
+79,Jordan Reed,79.50,TE,WAS,2014
+80,C.J. Mosley,80.52,LB,BAL,2014
+81,Pierre Thomas,80.91,RB,NOS,2014
+82,Mike Evans,81.13,WR,TBB,2014
+83,Ryan Shazier,81.51,LB,PIT,2014
+84,Lavonte David,81.64,LB,TBB,2014
+85,Kyle Rudolph,83.62,TE,MIN,2014
+86,Golden Tate,83.85,WR,DET,2014
+87,Reggie Wayne,84.41,WR,IND,2014
+88,Khalil Mack,85.00,LB,OAK,2014
+89,Greg Olsen,85.93,TE,CAR,2014
+90,Terrance Williams,86.02,WR,DAL,2014
+91,"Seahawks, Seattle SEA Def",87.80,Def,SEA,2014
+92,Robert Griffin III,88.08,QB,WAS,2014
+93,Kelvin Benjamin,88.52,WR,CAR,2014
+94,Dennis Pitta,89.00,TE,BAL,2014
+95,Carlos Hyde,89.28,RB,SFO,2014
+96,Vontaze Burfict,89.83,LB,CIN,2014
+97,Maurice Jones-Drew,90.01,RB,OAK,2014
+98,Colin Kaepernick,90.05,QB,SFO,2014
+99,Robert Quinn,91.08,DE,STL,2014
+100,Stevan Ridley,92.92,RB,NEP,2014
+101,Paul Posluszny,93.45,LB,JAC,2014
+102,Jay Cutler,93.58,QB,CHI,2014
+103,Lamar Miller,93.79,RB,MIA,2014
+104,Steven Jackson,96.09,RB,ATL,2014
+105,Demarcus Lawrence,96.09,DE,DAL,2014
+106,Tony Romo,96.18,QB,DAL,2014
+107,Darren Sproles,96.48,RB,PHI,2014
+108,Russell Wilson,96.90,QB,SEA,2014
+109,DeAndre Hopkins,97.47,WR,HOU,2014
+110,Zach Ertz,98.03,TE,PHI,2014
+111,Aaron Donald,98.89,DT,STL,2014
+112,Knowshon Moreno,98.93,RB,MIA,2014
+113,Bobby Wagner,100.14,LB,SEA,2014
+114,Anthony Barr,100.41,LB,MIN,2014
+115,Danny Woodhead,100.46,RB,SDC,2014
+116,Telvin Smith,100.47,LB,JAC,2014
+117,Devonta Freeman,101.05,RB,ATL,2014
+118,Patrick Willis,101.80,LB,SFO,2014
+119,Chandler Jones,103.63,DE,NEP,2014
+120,Christian Kirksey,104.16,LB,CLE,2014
+121,Rueben Randle,104.29,WR,NYG,2014
+122,Dwayne Bowe,105.21,WR,KCC,2014
+123,Jeremy Hill,106.16,RB,CIN,2014
+124,Calvin NYJ SPryor,106.36,S,NYJ,2014
+125,Fred Jackson,107.41,RB,BUF,2014
+126,Terrance West,107.76,RB,CLE,2014
+127,Justin Hunter,109.41,WR,TEN,2014
+128,Jordan Matthews,109.55,WR,PHI,2014
+129,Philip Rivers,110.74,QB,SDC,2014
+130,Riley Cooper,111.55,WR,PHI,2014
+131,Ha Ha GBP SClinton-Dix,112.23,S,GBP,2014
+132,Bernard Pierce,112.95,RB,BAL,2014
+133,Alec Ogletree,113.17,LB,STL,2014
+134,Josh Huff,113.24,WR,PHI,2014
+135,Cecil Shorts,114.75,WR,JAC,2014
+136,Eric Ebron,115.19,TE,DET,2014
+137,Tavon Austin,115.31,WR,STL,2014
+138,Troy Niklas,115.59,TE,ARI,2014
+139,Martellus Bennett,116.11,TE,CHI,2014
+140,Deone ARI SBucannon,116.19,S,ARI,2014
+141,James Laurinaitis,117.38,LB,STL,2014
+142,Ladarius Green,118.03,TE,SDC,2014
+143,Anquan Boldin,118.14,WR,SFO,2014
+144,Tom Savage,118.75,QB,HOU,2014
+145,Derrick Johnson,118.77,LB,KCC,2014
+146,"49ers, San Francisco SFO Def",119.03,Def,SFO,2014
+147,Logan Thomas,119.25,QB,ARI,2014
+148,Von Miller,120.23,LB,DEN,2014
+149,Marion Grice,120.28,RB,ARI,2014
+150,Andy Dalton,120.41,QB,CIN,2014
+151,Karlos Dansby,121.31,LB,CLE,2014
+152,Mychal Kendricks,121.36,LB,PHI,2014
+153,Hakeem Nicks,121.41,WR,IND,2014
+154,Greg Hardy,121.43,DE,CAR,2014
+155,Zach Mettenberger,121.48,QB,TEN,2014
+156,Bruce Ellington,121.78,WR,SFO,2014
+157,Jared Abbrederis,122.00,WR,GBP,2014
+158,Harrison MIN SSmith,122.58,S,MIN,2014
+159,Jerod Mayo,124.54,LB,NEP,2014
+160,Brandon Coleman,124.63,WR,FA,2014
+161,Jeff Janis,124.88,WR,GBP,2014
+162,"Panthers, Carolina CAR Def",125.51,Def,CAR,2014
+163,Andre Williams,125.69,RB,NYG,2014
+164,Colt Lyerla,125.95,TE,FA,2014
+165,Jason Pierre-Paul,125.95,DE,NYG,2014
+166,Ben Roethlisberger,126.11,QB,PIT,2014
+167,Charles Clay,126.55,TE,MIA,2014
+168,Jimmy Garoppolo,126.81,QB,NEP,2014
+169,Earl SEA SThomas,127.08,S,SEA,2014
+170,Danny Amendola,127.13,WR,NEP,2014
+171,Storm Johnson,127.48,RB,JAC,2014
+172,Darren McFadden,127.74,RB,OAK,2014
+173,Christine Michael,128.66,RB,SEA,2014
+174,Lache Seastrunk,129.25,RB,TEN,2014
+175,Mark Ingram,129.92,RB,NOS,2014
+176,Barry DAL SChurch,130.46,S,DAL,2014
+177,Marqise Lee,130.47,WR,JAC,2014
+178,Martavis Bryant,130.67,WR,PIT,2014
+179,Markus Wheaton,130.85,WR,PIT,2014
+180,Tre Mason,132.18,RB,STL,2014
+181,Paul Worrilow,132.20,LB,ATL,2014
+182,DeAngelo Williams,132.75,RB,CAR,2014
+183,Tyler Gaffney,132.98,RB,NEP,2014
+184,Kenny Stills,133.27,WR,NOS,2014
+185,Derek Carr,133.94,QB,OAK,2014
+186,"Rams, St. Louis STL Def",135.40,Def,STL,2014
+187,Khiry Robinson,135.97,RB,NOS,2014
+188,C.J. Fiedorowicz,136.04,TE,HOU,2014
+189,Eric KCC SBerry,136.53,S,KCC,2014
+190,Odell Beckham,136.65,WR,NYG,2014
+191,Donte Moncrief,136.66,WR,IND,2014
+192,Paul Richardson,136.99,WR,SEA,2014
+193,Jarvis Landry,137.10,WR,MIA,2014
+194,Johnny Manziel,137.21,QB,CLE,2014
+195,Greg Jennings,138.37,WR,MIN,2014
+196,Muhammad Wilkerson,138.79,DE,NYJ,2014
+197,Isaiah Crowell,138.87,RB,CLE,2014
+198,Stephen Gostkowski,138.98,PK,NEP,2014
+199,"Broncos, Denver DEN Def",139.51,Def,DEN,2014
+200,Devin Street,139.54,WR,DAL,2014
+201,Jerick McKinnon,139.60,RB,MIN,2014
+202,Cody Latimer,139.98,WR,DEN,2014
+203,Allen Robinson,140.09,WR,JAC,2014
+204,Cameron Jordan,140.22,DE,NOS,2014
+205,Eric SDC SWeddle,140.25,S,SDC,2014
+206,Charles Sims,141.19,RB,TBB,2014
+207,Jarrett Boykin,141.58,WR,GBP,2014
+208,Blake Bortles,142.51,QB,JAC,2014
+209,Davante Adams,143.02,WR,GBP,2014
+210,Lorenzo Taliaferro,143.17,RB,BAL,2014
+211,"Chiefs, Kansas City KCC Def",143.46,Def,KCC,2014
+212,Antonio Gates,143.69,TE,SDC,2014
+213,Jerrell Freeman,143.77,LB,IND,2014
+214,Heath Miller,143.85,TE,PIT,2014
+215,Marvin Jones,144.22,WR,CIN,2014
+216,De'Anthony Thomas,144.87,RB,KCC,2014
+217,Brian Cushing,144.92,LB,HOU,2014
+218,James White,145.26,RB,NEP,2014
+219,Cameron Wake,145.43,DE,MIA,2014
+220,Ka'Deem Carey,145.45,RB,CHI,2014
+221,Demarcus Ware,145.50,DE,DEN,2014
+222,Austin Seferian-Jenkins,145.73,TE,TBB,2014
+223,Brian Hartline,145.85,WR,MIA,2014
+224,"Bengals, Cincinnati CIN Def",146.20,Def,CIN,2014
+225,Chad Greenway,146.39,LB,MIN,2014
+226,T.J. DEN SWard,146.67,S,DEN,2014
+227,Teddy Bridgewater,146.96,QB,MIN,2014
+228,Carson Palmer,147.06,QB,ARI,2014
+229,Ryan Tannehill,147.14,QB,MIA,2014
+230,Johnathan JAC SCyprien,147.29,S,JAC,2014
+231,Jace Amaro,147.33,TE,NYJ,2014
+232,Steve Smith,147.46,WR,BAL,2014
+233,Tyler Eifert,147.87,TE,CIN,2014
+234,Aaron Dobson,147.98,WR,NEP,2014
+235,Richard Sherman,148.47,CB,SEA,2014
+236,"Patriots, New England NEP Def",148.60,Def,NEP,2014
+237,Dwayne Allen,149.42,TE,IND,2014
+238,Calais Campbell,150.85,DE,ARI,2014
+239,Patrick Peterson,151.33,CB,ARI,2014
+240,Travis Kelce,151.39,TE,KCC,2014
+241,Rob Ninkovich,151.53,DE,NEP,2014
+242,James Jones,152.11,WR,OAK,2014
+243,Dri Archer,152.30,RB,PIT,2014
+244,Alex Smith,152.63,QB,KCC,2014
+245,Morgan GBP SBurnett,152.84,S,GBP,2014
+246,"Cardinals, Arizona ARI Def",153.51,Def,ARI,2014
+247,Delanie Walker,154.32,TE,TEN,2014
+248,Matt Prater,154.35,PK,DET,2014
+249,Kenny Britt,154.39,WR,STL,2014
+250,John Brown,154.40,WR,ARI,2014
+251,Mario Williams,155.21,DE,BUF,2014
+252,Alfred Blue,156.16,RB,HOU,2014
+253,Knile Davis,156.71,RB,KCC,2014
+254,Kenny NOS SVaccaro,158.03,S,NOS,2014
+255,David Wilson,158.86,RB,FA,2014
+256,Lance Dunbar,159.37,RB,DAL,2014
+257,Eli Manning,159.53,QB,NYG,2014
+258,Chris Ivory,159.70,RB,NYJ,2014
+259,Joe Flacco,160.13,QB,BAL,2014
+260,Andrew Hawkins,160.18,WR,CLE,2014
+261,Doug Baldwin,161.81,WR,SEA,2014
+262,LeGarrette Blount,162.33,RB,NEP,2014
+263,Justin Tucker,162.34,PK,BAL,2014
+264,Steven Hauschka,162.94,PK,SEA,2014
+265,Jonathan Stewart,163.21,RB,CAR,2014
+266,Ahmad Bradshaw,164.02,RB,IND,2014
+267,Richard Rodgers,164.10,TE,GBP,2014
+268,"Texans, Houston HOU Def",165.32,Def,HOU,2014
+269,Geno Atkins,165.82,DT,CIN,2014
+270,Tyvon OAK SBranch,166.59,S,OAK,2014
+271,Jonathan Grimes,167.12,RB,HOU,2014
+272,Jared Allen,167.49,DE,CHI,2014
+273,Robert Woods,168.41,WR,BUF,2014
+274,Kam SEA SChancellor,169.75,S,SEA,2014
+275,Josh McCown,171.21,QB,TBB,2014
+276,Antrel NYG SRolle,171.40,S,NYG,2014
+277,Shonn Greene,173.15,RB,TEN,2014
+278,Coby Fleener,173.77,TE,IND,2014
+279,Sam Bradford,174.91,QB,STL,2014
+280,Miles Austin,174.96,WR,CLE,2014
+281,Mason Crosby,175.00,PK,GBP,2014
+282,Garrett Graham,175.82,TE,HOU,2014
+283,Allen Hurns,176.12,WR,JAC,2014
+284,Jared Cook,176.38,TE,STL,2014
+285,Phil Dawson,176.75,PK,SFO,2014
+286,"Bears, Chicago CHI Def",176.97,Def,CHI,2014
+287,Dan Bailey,177.30,PK,DAL,2014
+288,"Browns, Cleveland CLE Def",179.06,Def,CLE,2014
+289,Tim Wright,180.00,TE,NEP,2014
+290,Dexter McCluster,180.84,RB,TEN,2014
+291,Harry Douglas,181.44,WR,ATL,2014
+292,Marquess Wilson,181.48,WR,CHI,2014
+293,"Buccaneers, Tampa Bay TBB Def",181.56,Def,TBB,2014
+294,Bryce Brown,182.78,RB,BUF,2014
+295,"Saints, New Orleans NOS Def",182.82,Def,NOS,2014
+296,C.J. Anderson,183.32,RB,DEN,2014
+297,Adam Vinatieri,184.32,PK,IND,2014
+298,Andre Brown,184.40,RB,FA,2014
+299,"Bills, Buffalo BUF Def",185.02,Def,BUF,2014
+300,Marcus Lattimore,185.49,RB,FA,2014
+301,Ronnie Hillman,185.62,RB,DEN,2014
+302,Malcom Floyd,186.54,WR,SDC,2014
+303,Roy Helu,186.65,RB,WAS,2014
+304,Rod Streater,187.12,WR,OAK,2014
+305,Jake Locker,187.85,QB,TEN,2014
+306,James Starks,188.15,RB,GBP,2014
+307,"Ravens, Baltimore BAL Def",188.68,Def,BAL,2014
+308,Benny Cunningham,189.05,RB,STL,2014
+309,Adrien Robinson,189.80,TE,NYG,2014
+310,Shaun Hill,190.21,QB,STL,2014
+311,Mohamed Sanu,190.32,WR,CIN,2014
+312,"Steelers, Pittsburgh PIT Def",190.41,Def,PIT,2014
+313,Blair Walsh,190.51,PK,MIN,2014
+314,Stevie Johnson,190.53,WR,SFO,2014
+315,Charles Johnson,191.44,WR,MIN,2014
+316,Latavius Murray,192.18,RB,OAK,2014
+317,Donald Brown,192.74,RB,SDC,2014
+318,Brandon LaFell,193.43,WR,NEP,2014
+319,Matt Cassel,193.68,QB,MIN,2014
+320,Geno Smith,193.80,QB,NYJ,2014
+321,"Packers, Green Bay GBP Def",194.11,Def,GBP,2014
+322,E.J. Manuel,194.62,QB,BUF,2014
+323,Jacquizz Rodgers,194.71,RB,ATL,2014
+324,Robbie Gould,195.00,PK,CHI,2014
+325,Matt Bryant,195.60,PK,ATL,2014
+326,Shayne Graham,196.01,PK,NOS,2014
+327,Kenbrell Thompkins,196.13,WR,OAK,2014
+328,Jerricho Cotchery,196.18,WR,CAR,2014
+329,Cody Parkey,196.58,PK,PHI,2014
+330,Theo Riddick,197.37,RB,DET,2014
+331,Andre Holmes,199.25,WR,OAK,2014
+332,Andre Caldwell,199.53,WR,DEN,2014
+333,Nick Novak,200.33,PK,SDC,2014
+334,Mike Williams,200.91,WR,FA,2014
+335,Ryan Fitzpatrick,203.34,QB,HOU,2014
+336,Jerrel Jernigan,203.60,WR,NYG,2014
+337,Denarius Moore,203.69,WR,OAK,2014
+338,Da'Rick Rogers,204.21,WR,KCC,2014
+339,Stepfan Taylor,204.34,RB,ARI,2014
+340,Robert Turbin,204.85,RB,SEA,2014
+341,Andrew Quarless,204.99,TE,GBP,2014
+342,Chris Polk,205.40,RB,PHI,2014
+343,"Jets, New York NYJ Def",205.81,Def,NYJ,2014
+344,Brent Celek,207.05,TE,PHI,2014
+345,Jermaine Kearse,207.11,WR,SEA,2014
+346,Chad Henne,207.47,QB,JAC,2014
+347,Brian Hoyer,208.09,QB,CLE,2014
+348,Levine Toilolo,208.43,TE,ATL,2014
+349,"Eagles, Philadelphia PHI Def",208.94,Def,PHI,2014
+350,Matt Schaub,209.90,QB,OAK,2014
+351,Greg Zuerlein,210.21,PK,STL,2014
+352,Nate Freese,210.22,PK,FA,2014
+353,Brian Quick,210.88,WR,STL,2014
+354,Marcedes Lewis,212.45,TE,JAC,2014
+355,Marlon Brown,212.84,WR,BAL,2014
+356,Michael Vick,213.35,QB,NYJ,2014
+357,"Giants, New York NYG Def",213.80,Def,NYG,2014
+358,Sebastian Janikowski,214.65,PK,OAK,2014
+359,Jordan Todman,214.99,RB,JAC,2014
+360,"Lions, Detroit DET Def",215.04,Def,DET,2014
+361,BenJarvus FA* RBGreen-Ellis,216.87,RB,FA*,2014
+362,"Colts, Indianapolis IND Def",217.90,Def,IND,2014
+363,Joseph Fauria,217.98,TE,DET,2014
+364,Jermichael FA* TEFinley,218.22,TE,FA*,2014
+365,Bobby Rainey,218.44,RB,TBB,2014
+366,Gavin Escobar,218.61,TE,DAL,2014
+367,Jermaine Gresham,219.71,TE,CIN,2014
+368,Mike Tolbert,220.01,RB,CAR,2014
+369,Owen Daniels,220.77,TE,BAL,2014
+370,Stedman Bailey,221.44,WR,STL,2014
+371,Alex FA* PKHenery,221.94,PK,FA*,2014
+372,Kirk Cousins,222.12,QB,WAS,2014
+373,"Dolphins, Miami MIA Def",222.28,Def,MIA,2014
+374,"Cowboys, Dallas DAL Def",222.31,Def,DAL,2014
+375,Brandon Bostick,222.41,TE,GBP,2014
+376,Nate Washington,223.75,WR,TEN,2014
+377,Lance Moore,224.00,WR,PIT,2014
+378,"Vikings, Minnesota MIN Def",224.91,Def,MIN,2014
+379,Nick Folk,225.49,PK,NYJ,2014
+380,Mychal Rivera,226.03,TE,OAK,2014
+381,"Redskins, Washington WAS Def",227.21,Def,WAS,2014
+382,Dan Carpenter,228.62,PK,BUF,2014
+383,Scott Chandler,229.54,TE,BUF,2014
+384,"Chargers, San Diego SDC Def",230.49,Def,SDC,2014
+385,Andre Roberts,230.58,WR,WAS,2014
+386,Shaun Suisham,230.71,PK,PIT,2014
+387,Mike Nugent,232.70,PK,CIN,2014
+388,Stephen Hill,232.89,WR,CAR,2014
+389,Graham Gano,234.66,PK,CAR,2014
+390,"Titans, Tennessee TEN Def",234.66,Def,TEN,2014
+391,"Raiders, Oakland OAK Def",235.67,Def,OAK,2014
+392,Chris Givens,236.83,WR,STL,2014
+393,Ryan Succop,236.98,PK,TEN,2014
+394,"Jaguars, Jacksonville JAC Def",237.70,Def,JAC,2014
+395,Jay Feely,241.25,PK,CHI,2014
+396,Connor Barth,241.35,PK,DEN,2014
+397,Jeremy Kerley,242.10,WR,NYJ,2014
+398,Josh Brown,244.80,PK,NYG,2014
+399,Caleb Sturgis,245.22,PK,MIA,2014
+400,Randy Bullock,246.60,PK,HOU,2014
+401,Kai Forbath,248.24,PK,WAS,2014

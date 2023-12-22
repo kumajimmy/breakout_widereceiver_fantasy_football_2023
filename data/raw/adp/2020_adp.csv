@@ -1,0 +1,366 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Christian McCaffrey,1.13,RB,CAR,2020
+2,Saquon Barkley,2.40,RB,NYG,2020
+3,Ezekiel Elliott,3.32,RB,DAL,2020
+4,Michael Thomas,5.67,WR,NOS,2020
+5,Alvin Kamara,5.99,RB,NOS,2020
+6,Dalvin Cook,6.60,RB,MIN,2020
+7,Derrick Henry,7.22,RB,TEN,2020
+8,Clyde Edwards-Helaire,7.96,RB,KCC,2020
+9,Davante Adams,10.97,WR,GBP,2020
+10,Patrick Mahomes,13.05,QB,KCC,2020
+11,Lamar Jackson,13.75,QB,BAL,2020
+12,Josh Jacobs,14.13,RB,LVR,2020
+13,Aaron Jones,14.70,RB,GBP,2020
+14,Julio Jones,14.92,WR,ATL,2020
+15,Joe Mixon,14.95,RB,CIN,2020
+16,Austin Ekeler,15.41,RB,LAC,2020
+17,Travis Kelce,16.57,TE,KCC,2020
+18,Tyreek Hill,16.76,WR,KCC,2020
+19,Nick Chubb,17.57,RB,CLE,2020
+20,DeAndre Hopkins,17.81,WR,ARI,2020
+21,Miles Sanders,18.16,RB,PHI,2020
+22,Kenyan Drake,18.29,RB,ARI,2020
+23,George Kittle,23.36,TE,SFO,2020
+24,Chris Godwin,24.01,WR,TBB,2020
+25,Mike Evans,27.32,WR,TBB,2020
+26,Kenny Golladay,28.23,WR,DET,2020
+27,Todd Gurley,28.73,RB,ATL,2020
+28,Amari Cooper,31.32,WR,DAL,2020
+29,James Conner,32.56,RB,PIT,2020
+30,Odell Beckham,33.14,WR,CLE,2020
+31,Jonathan Taylor,33.57,RB,IND,2020
+32,Adam Thielen,34.18,WR,MIN,2020
+33,JuJu Smith-Schuster,34.38,WR,PIT,2020
+34,Allen Robinson,35.00,WR,CHI,2020
+35,David Johnson,35.47,RB,HOU,2020
+36,Chris Carson,36.25,RB,SEA,2020
+37,Leonard Fournette,36.42,RB,TBB,2020
+38,Cooper Kupp,37.53,WR,LAR,2020
+39,D.J. Moore,38.04,WR,CAR,2020
+40,Le'Veon Bell,38.15,RB,KCC,2020
+41,Deshaun Watson,40.09,QB,HOU,2020
+42,Raheem Mostert,41.59,RB,SFO,2020
+43,Dak Prescott,43.85,QB,DAL,2020
+44,Calvin Ridley,43.92,WR,ATL,2020
+45,Cam Akers,44.15,RB,LAR,2020
+46,Robert Woods,44.46,WR,LAR,2020
+47,Zach Ertz,45.11,TE,PHI,2020
+48,Mark Andrews,45.22,TE,BAL,2020
+49,Melvin Gordon,46.47,RB,DEN,2020
+50,Mark Ingram,46.63,RB,FA,2020
+51,A.J. Brown,46.82,WR,TEN,2020
+52,Tyler Lockett,47.74,WR,SEA,2020
+53,Keenan Allen,48.46,WR,LAC,2020
+54,Russell Wilson,49.45,QB,SEA,2020
+55,Devin Singletary,53.43,RB,BUF,2020
+56,DK Metcalf,54.16,WR,SEA,2020
+57,Courtland Sutton,55.69,WR,DEN,2020
+58,D.J. Chark,55.77,WR,JAC,2020
+59,Terry McLaurin,57.05,WR,WAS,2020
+60,Kyler Murray,57.11,QB,ARI,2020
+61,Stefon Diggs,57.70,WR,BUF,2020
+62,Kareem Hunt,58.23,RB,CLE,2020
+63,DeVante Parker,61.60,WR,MIA,2020
+64,Darren Waller,61.82,TE,LVR,2020
+65,A.J. Green,61.90,WR,CIN,2020
+66,T.Y. Hilton,62.09,WR,IND,2020
+67,Jarvis Landry,67.20,WR,CLE,2020
+68,D'Andre Swift,67.29,RB,DET,2020
+69,Darius Leonard,69.84,LB,IND,2020
+70,J.K. Dobbins,69.98,RB,BAL,2020
+71,Tyler Boyd,69.98,WR,CIN,2020
+72,Michael Gallup,70.36,WR,DAL,2020
+73,Marquise Brown,72.57,WR,BAL,2020
+74,Julian Edelman,72.68,WR,NEP,2020
+75,David Montgomery,74.75,RB,CHI,2020
+76,James White,76.21,RB,NEP,2020
+77,Evan Engram,76.32,TE,NYG,2020
+78,Matt Ryan,76.37,QB,ATL,2020
+79,Rob Gronkowski,77.35,TE,TBB,2020
+80,Brandin Cooks,77.60,WR,HOU,2020
+81,Antonio Gibson,78.07,RB,WAS,2020
+82,Drew Brees,78.73,QB,NOS,2020
+83,Will Fuller,80.35,WR,HOU,2020
+84,Josh Allen,81.05,QB,BUF,2020
+85,Tom Brady,81.63,QB,TBB,2020
+86,Tarik Cohen,83.75,RB,CHI,2020
+87,Jared Cook,84.43,TE,NOS,2020
+88,Jordan Howard,86.97,RB,PHI,2020
+89,Marvin Jones,87.27,WR,DET,2020
+90,CeeDee Lamb,87.33,WR,DAL,2020
+91,Aaron Rodgers,87.70,QB,GBP,2020
+92,Bobby Wagner,89.42,LB,SEA,2020
+93,Ronald Jones,89.93,RB,TBB,2020
+94,Hayden Hurst,90.85,TE,ATL,2020
+95,Chase Young,90.96,DE,WAS,2020
+96,Hunter Henry,93.17,TE,LAC,2020
+97,Zack Moss,93.61,RB,BUF,2020
+98,Jerry Jeudy,93.79,WR,DEN,2020
+99,Carson Wentz,95.14,QB,PHI,2020
+100,Patrick Queen,95.23,LB,BAL,2020
+101,Tyler Higbee,95.51,TE,LAR,2020
+102,Kerryon Johnson,95.60,RB,DET,2020
+103,Deebo Samuel,97.38,WR,SFO,2020
+104,Jaylon Smith,98.02,LB,DAL,2020
+105,Diontae Johnson,98.47,WR,PIT,2020
+106,Marlon Mack,98.68,RB,IND,2020
+107,Phillip Lindsay,99.32,RB,DEN,2020
+108,Austin Hooper,99.61,TE,CLE,2020
+109,Sterling Shepard,99.74,WR,NYG,2020
+110,Christian Kirk,99.85,WR,ARI,2020
+111,Budda ARI SBaker,100.80,S,ARI,2020
+112,Nick Bosa,101.52,DE,SFO,2020
+113,Emmanuel Sanders,101.57,WR,NOS,2020
+114,Henry Ruggs,101.59,WR,LVR,2020
+115,Isaiah Simmons,104.53,LB,ARI,2020
+116,Joey Bosa,104.90,DE,LAC,2020
+117,Aaron Donald,106.01,DT,LAR,2020
+118,"Steelers, Pittsburgh PIT Def",106.85,Def,PIT,2020
+119,Golden Tate,107.09,WR,NYG,2020
+120,Jordan Love,107.37,QB,GBP,2020
+121,Danielle Hunter,107.98,DE,MIN,2020
+122,Jamison Crowder,108.01,WR,NYJ,2020
+123,Antoine TBB SWinfield,108.14,S,TBB,2020
+124,Jacob Eason,108.70,QB,IND,2020
+125,T.J. Watt,108.76,LB,PIT,2020
+126,Matthew Stafford,108.77,QB,LAR,2020
+127,Myles Garrett,108.93,DE,CLE,2020
+128,Blake Martinez,110.11,LB,NYG,2020
+129,Darius Slayton,110.42,WR,NYG,2020
+130,Justin Jefferson,110.68,WR,MIN,2020
+131,"49ers, San Francisco SFO Def",110.75,Def,SFO,2020
+132,Cory Littleton,112.12,LB,LVR,2020
+133,Latavius Murray,112.44,RB,NOS,2020
+134,Jordan Hicks,112.57,LB,ARI,2020
+135,Kenneth Murray,112.72,LB,LAC,2020
+136,Matt Breida,114.38,RB,MIA,2020
+137,Joe Schobert,115.27,LB,JAC,2020
+138,Daniel Jones,115.38,QB,NYG,2020
+139,Chandler Jones,115.69,LB,ARI,2020
+140,Jamal SEA SAdams,116.69,S,SEA,2020
+141,"Ravens, Baltimore BAL Def",117.46,Def,BAL,2020
+142,Cam Newton,117.94,QB,NEP,2020
+143,Noah Fant,118.27,TE,DEN,2020
+144,Sony Michel,118.88,RB,NEP,2020
+145,Justin Tucker,120.63,PK,BAL,2020
+146,Jeremy CAR SChinn,121.66,S,CAR,2020
+147,Fred Warner,121.82,LB,SFO,2020
+148,Alexander Mattison,121.82,RB,MIN,2020
+149,Adam Trautman,122.03,TE,NOS,2020
+150,Tyler Johnson,122.06,WR,TBB,2020
+151,Albert Okwuegbunam,122.18,TE,DEN,2020
+152,Joe Burrow,122.49,QB,CIN,2020
+153,Jalen Hurts,122.76,QB,PHI,2020
+154,Chris Thompson,122.78,RB,JAC,2020
+155,John Brown,123.23,WR,BUF,2020
+156,Justin Herbert,123.68,QB,LAC,2020
+157,Jalen Reagor,124.16,WR,PHI,2020
+158,Ben Roethlisberger,124.37,QB,PIT,2020
+159,Duke Johnson,124.45,RB,HOU,2020
+160,Donovan Peoples-Jones,124.51,WR,CLE,2020
+161,Ke'Shawn Vaughn,124.63,RB,TBB,2020
+162,Joe Reed,125.18,WR,LAC,2020
+163,Roquan Smith,125.20,LB,CHI,2020
+164,James Robinson,125.21,RB,JAC,2020
+165,Anthony Miller,125.32,WR,CHI,2020
+166,Antonio Gandy-Golden,125.56,WR,WAS,2020
+167,Mecole Hardman,125.66,WR,KCC,2020
+168,Lavonte David,125.74,LB,TBB,2020
+169,Tevin Coleman,125.88,RB,SFO,2020
+170,KJ Hamler,126.00,WR,DEN,2020
+171,Blake Jarwin,126.11,TE,DAL,2020
+172,Jared Goff,126.18,QB,DET,2020
+173,Cole Kmet,126.21,TE,CHI,2020
+174,Micah Kiser,126.61,LB,LAR,2020
+175,T.J. Hockenson,126.83,TE,DET,2020
+176,Landon WAS SCollins,127.10,S,WAS,2020
+177,Harrison Butker,127.22,PK,KCC,2020
+178,Lamical Perine,127.68,RB,NYJ,2020
+179,Gabriel Davis,127.76,WR,BUF,2020
+180,Baker Mayfield,127.83,QB,CLE,2020
+181,Mike Gesicki,127.87,TE,MIA,2020
+182,Dalton Keene,127.90,TE,NEP,2020
+183,Devin Duvernay,128.22,WR,BAL,2020
+184,Tua Tagovailoa,128.24,QB,MIA,2020
+185,Devin White,128.33,LB,TBB,2020
+186,DeeJay Dallas,128.37,RB,SEA,2020
+187,"Bills, Buffalo BUF Def",129.00,Def,BUF,2020
+188,Leighton Vander Esch,129.52,LB,DAL,2020
+189,Preston Williams,129.65,WR,MIA,2020
+190,Khalil Mack,130.52,LB,CHI,2020
+191,Boston Scott,131.10,RB,PHI,2020
+192,Devin Bush,131.18,LB,PIT,2020
+193,Adrian Peterson,131.40,RB,DET,2020
+194,Tee Higgins,132.09,WR,CIN,2020
+195,Devin Asiasi,132.43,TE,NEP,2020
+196,Quintez Cephus,133.50,WR,DET,2020
+197,Chase Edmonds,134.72,RB,ARI,2020
+198,Wil Lutz,134.81,PK,NOS,2020
+199,AJ Dillon,135.04,RB,GBP,2020
+200,J.J. Watt,135.09,DE,HOU,2020
+201,Eno Benjamin,136.17,RB,ARI,2020
+202,Brandon Aiyuk,137.22,WR,SFO,2020
+203,Michael Pittman,137.88,WR,IND,2020
+204,Van Jefferson,139.31,WR,LAR,2020
+205,Cameron Heyward,139.43,DE,PIT,2020
+206,Demario Davis,139.56,LB,NOS,2020
+207,Chase Claypool,139.91,WR,PIT,2020
+208,Jonnu Smith,140.09,TE,TEN,2020
+209,Breshad Perriman,140.22,WR,NYJ,2020
+210,DeSean Jackson,140.31,WR,PHI,2020
+211,John LAR SJohnson,140.32,S,LAR,2020
+212,Damien Harris,141.30,RB,NEP,2020
+213,Ryan Tannehill,141.72,QB,TEN,2020
+214,Anthony McFarland,141.92,RB,PIT,2020
+215,Denzel Mims,142.04,WR,NYJ,2020
+216,Jack Doyle,142.29,TE,IND,2020
+217,N'Keal Harry,142.40,WR,NEP,2020
+218,Bryan Edwards,142.77,WR,LVR,2020
+219,Allen Lazard,143.41,WR,GBP,2020
+220,Tony Pollard,143.43,RB,DAL,2020
+221,Sammy Watkins,144.28,WR,KCC,2020
+222,Bryce Love,144.56,RB,WAS,2020
+223,Lynn Bowden,144.67,RB,MIA,2020
+224,Kirk Cousins,144.75,QB,MIN,2020
+225,Jimmy Garoppolo,145.29,QB,SFO,2020
+226,"Patriots, New England NEP Def",145.57,Def,NEP,2020
+227,Joshua Kelley,145.60,RB,LAC,2020
+228,Laviska Shenault,145.60,WR,JAC,2020
+229,"Saints, New Orleans NOS Def",145.78,Def,NOS,2020
+230,Philip Rivers,146.84,QB,FA,2020
+231,Justin Jackson,147.18,RB,LAC,2020
+232,Nyheim Hines,147.21,RB,IND,2020
+233,Darrell Henderson,147.48,RB,LAR,2020
+234,Greg Zuerlein,147.93,PK,DAL,2020
+235,Dallas Goedert,147.96,TE,PHI,2020
+236,"Chiefs, Kansas City KCC Def",148.01,Def,KCC,2020
+237,Greg Olsen,148.67,TE,FA,2020
+238,Tracy DET SWalker,148.88,S,DET,2020
+239,Ryquell Armstead,149.04,RB,JAC,2020
+240,Jordan BUF SPoyer,149.09,S,BUF,2020
+241,"Bears, Chicago CHI Def",149.19,Def,CHI,2020
+242,Chris Herndon,149.33,TE,NYJ,2020
+243,Drew Lock,150.25,QB,DEN,2020
+244,Mike Williams,150.30,WR,LAC,2020
+245,Darrynton Evans,150.44,RB,TEN,2020
+246,Robby Anderson,150.57,WR,CAR,2020
+247,Robbie Gould,151.50,PK,SFO,2020
+248,Minkah PIT SFitzpatrick,151.76,S,PIT,2020
+249,Curtis Samuel,151.94,WR,CAR,2020
+250,Tyrann KCC SMathieu,152.32,S,KCC,2020
+251,Sam Darnold,153.20,QB,NYJ,2020
+252,Derek Carr,153.65,QB,LVR,2020
+253,Gardner Minshew,154.43,QB,JAC,2020
+254,Teddy Bridgewater,155.12,QB,CAR,2020
+255,"Vikings, Minnesota MIN Def",155.26,Def,MIN,2020
+256,"Rams, Los Angeles LAR Def",157.71,Def,LAR,2020
+257,Parris Campbell,158.91,WR,IND,2020
+258,"Titans, Tennessee TEN Def",159.69,Def,TEN,2020
+259,Tyrod Taylor,159.91,QB,LAC,2020
+260,Harrison MIN SSmith,160.73,S,MIN,2020
+261,Hunter Renfrow,161.58,WR,LVR,2020
+262,Larry Fitzgerald,161.62,WR,ARI,2020
+263,Eric Ebron,161.83,TE,PIT,2020
+264,Darrel Williams,161.90,RB,KCC,2020
+265,"Buccaneers, Tampa Bay TBB Def",162.62,Def,TBB,2020
+266,Ian Thomas,164.92,TE,CAR,2020
+267,"Colts, Indianapolis IND Def",165.35,Def,IND,2020
+268,Kyle Rudolph,166.49,TE,MIN,2020
+269,Ka'imi Fairbairn,166.74,PK,HOU,2020
+270,Jaylen Samuels,166.80,RB,PIT,2020
+271,Carlos Hyde,167.96,RB,SEA,2020
+272,"Chargers, Los Angeles LAC Def",168.34,Def,LAC,2020
+273,Irv Smith Jr.,168.79,TE,MIN,2020
+274,"Broncos, Denver DEN Def",168.93,Def,DEN,2020
+275,Dan Bailey,169.48,PK,MIN,2020
+276,Dwayne Haskins,169.62,QB,PIT,2020
+277,C.J. Uzomah,169.66,TE,CIN,2020
+278,Justin Rohrwasser,170.45,PK,NEP,2020
+279,Jabrill NYG SPeppers,170.65,S,NYG,2020
+280,Devine Ozigbo,170.75,RB,JAC,2020
+281,Younghoe Koo,171.00,PK,ATL,2020
+282,Matt Prater,171.35,PK,DET,2020
+283,Benny Snell,171.59,RB,PIT,2020
+284,O.J. Howard,171.82,TE,TBB,2020
+285,"Seahawks, Seattle SEA Def",172.60,Def,SEA,2020
+286,LeSean McCoy,172.61,RB,TBB,2020
+287,Jace Sternberger,172.75,TE,GBP,2020
+288,"Eagles, Philadelphia PHI Def",173.09,Def,PHI,2020
+289,Alshon Jeffery,173.78,WR,PHI,2020
+290,Cole Beasley,173.80,WR,BUF,2020
+291,Jamaal Williams,173.86,RB,GBP,2020
+292,"Cowboys, Dallas DAL Def",173.87,Def,DAL,2020
+293,Matt Gay,173.99,PK,LAR,2020
+294,Ryan Fitzpatrick,174.71,QB,MIA,2020
+295,Jerick McKinnon,174.88,RB,SFO,2020
+296,Dede Westbrook,175.64,WR,JAC,2020
+297,Mason Crosby,176.11,PK,GBP,2020
+298,J.D. McKissic,176.23,RB,WAS,2020
+299,DeAndre Washington,176.25,RB,MIA,2020
+300,Josh Lambo,176.79,PK,JAC,2020
+301,"Packers, Green Bay GBP Def",177.40,Def,GBP,2020
+302,Corey Davis,177.51,WR,TEN,2020
+303,Will Dissly,177.92,TE,SEA,2020
+304,Steven Sims,178.48,WR,WAS,2020
+305,Chris Boswell,178.53,PK,PIT,2020
+306,Brandon McManus,178.53,PK,DEN,2020
+307,Stephen Gostkowski,178.57,PK,TEN,2020
+308,Josh Reynolds,178.58,WR,LAR,2020
+309,Zane Gonzalez,178.89,PK,ARI,2020
+310,Jake Elliott,178.94,PK,PHI,2020
+311,"Texans, Houston HOU Def",179.11,Def,HOU,2020
+312,Randall Cobb,179.15,WR,HOU,2020
+313,Ryan Succop,179.64,PK,TBB,2020
+314,Sam Sloman,179.76,PK,TEN,2020
+315,Malcolm Brown,180.11,RB,LAR,2020
+316,Antonio Brown,180.44,WR,TBB,2020
+317,Rodrigo Blankenship,180.57,PK,IND,2020
+318,Chris Conley,181.93,WR,JAC,2020
+319,Devonta Freeman,182.51,RB,FA,2020
+320,James Washington,182.89,WR,PIT,2020
+321,Mitchell Trubisky,182.93,QB,CHI,2020
+322,Tyler Eifert,182.98,TE,JAC,2020
+323,Jason Myers,183.02,PK,SEA,2020
+324,"Browns, Cleveland CLE Def",183.85,Def,CLE,2020
+325,Gerald Everett,184.81,TE,LAR,2020
+326,"Jaguars, Jacksonville JAC Def",185.98,Def,JAC,2020
+327,Brian Hill,186.08,RB,ATL,2020
+328,Giovani Bernard,186.22,RB,CIN,2020
+329,Nick Foles,186.71,QB,CHI,2020
+330,Mohamed Sanu,188.19,WR,DET,2020
+331,Mike Badgley,188.93,PK,LAC,2020
+332,"FootballTeam, Washington WAS Def",189.52,Def,WAS,2020
+333,Randy Bullock,190.17,PK,CIN,2020
+334,Joey Slye,190.28,PK,CAR,2020
+335,Rashaad Penny,190.32,RB,SEA,2020
+336,Austin Seibert,190.41,PK,CIN,2020
+337,"Jets, New York NYJ Def",192.41,Def,NYJ,2020
+338,Jason Witten,193.89,TE,FA,2020
+339,"Falcons, Atlanta ATL Def",195.93,Def,ATL,2020
+340,Marquez Valdes-Scantling,196.76,WR,GBP,2020
+341,Frank Gore,196.79,RB,NYJ,2020
+342,Dawson Knox,197.28,TE,BUF,2020
+343,Rex Burkhead,197.79,RB,NEP,2020
+344,Scott Miller,198.61,WR,TBB,2020
+345,Jameis Winston,199.19,QB,NOS,2020
+346,Darwin Thompson,199.71,RB,KCC,2020
+347,Russell Gage,200.38,WR,ATL,2020
+348,Ito Smith,200.40,RB,ATL,2020
+349,Jalen Richard,200.77,RB,LVR,2020
+350,Jimmy Graham,200.98,TE,CHI,2020
+351,John Ross,201.76,WR,CIN,2020
+352,Tre'Quan Smith,202.13,WR,NOS,2020
+353,Miles Boykin,204.02,WR,BAL,2020
+354,Dan Arnold,205.53,TE,ARI,2020
+355,Josh Gordon,205.56,WR,SEA,2020
+356,Mike Davis,206.45,RB,CAR,2020
+357,Dion Lewis,206.80,RB,NYG,2020
+358,JJ Arcega-Whiteside,213.37,WR,PHI,2020
+359,Kendrick Bourne,213.49,WR,SFO,2020
+360,Kenny Stills,214.05,WR,BUF,2020
+361,Darren Fells,214.56,TE,HOU,2020
+362,Danny Amendola,215.17,WR,DET,2020
+363,Auden Tate,219.10,WR,CIN,2020
+364,Gus Edwards,223.03,RB,BAL,2020
+365,Royce Freeman,224.75,RB,DEN,2020

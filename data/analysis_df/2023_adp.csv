@@ -1,0 +1,91 @@
+Rank,Player,Avg Pick,Pos,Tm,Season,rookie_season,No.,Round,Pick,College,current_yr
+2,Ja'Marr Chase,4.47,WR,CIN,2023,2021.0,1,1,5,Louisiana State,3.0
+4,Tyreek Hill,7.33,WR,MIA,2023,2016.0,18,5,28,West Alabama,8.0
+7,Stefon Diggs,11.12,WR,BUF,2023,2015.0,20,5,10,Maryland,9.0
+9,CeeDee Lamb,13.03,WR,DAL,2023,2020.0,3,1,17,Oklahoma,4.0
+11,Cooper Kupp,13.99,WR,LAR,2023,2017.0,7,3,5,Eastern Washington,7.0
+13,Davante Adams,16.19,WR,LVR,2023,2014.0,9,2,21,Fresno State,10.0
+14,A.J. Brown,16.59,WR,PHI,2023,2019.0,4,2,19,Mississippi,5.0
+17,Amon-Ra St. Brown,17.14,WR,DET,2023,2021.0,17,4,7,USC,3.0
+20,Garrett Wilson,19.52,WR,NYJ,2023,2022.0,2,1,10,Ohio State,2.0
+21,Jaylen Waddle,23.76,WR,MIA,2023,2021.0,2,1,6,Alabama,3.0
+24,Chris Olave,27.9,WR,NOS,2023,2022.0,3,1,11,Ohio State,2.0
+26,Calvin Ridley,29.03,WR,JAC,2023,2018.0,2,1,26,Alabama,6.0
+27,DeVonta Smith,29.6,WR,PHI,2023,2021.0,3,1,10,Alabama,3.0
+31,Tee Higgins,32.11,WR,CIN,2023,2020.0,7,2,1,Clemson,4.0
+33,Deebo Samuel,33.09,WR,SFO,2023,2019.0,3,2,4,South Carolina,5.0
+35,Keenan Allen,33.91,WR,LAC,2023,2013.0,8,3,14,California,11.0
+39,Amari Cooper,40.43,WR,CLE,2023,2015.0,1,1,4,Alabama,9.0
+42,Christian Watson,45.38,WR,GBP,2023,2022.0,7,2,2,North Dakota State,2.0
+44,DeAndre Hopkins,47.59,WR,TEN,2023,2013.0,2,1,27,Clemson,11.0
+47,D.J. Moore,50.03,WR,CHI,2023,2018.0,1,1,24,Maryland,6.0
+51,Chris Godwin,52.88,WR,TBB,2023,2017.0,11,3,20,Penn State,7.0
+54,Drake London,57.26,WR,ATL,2023,2022.0,1,1,8,USC,2.0
+58,Tyler Lockett,60.51,WR,SEA,2023,2015.0,10,3,5,Kansas State,9.0
+59,Terry McLaurin,61.18,WR,WAS,2023,2019.0,12,3,12,Ohio State,5.0
+60,Mike Evans,61.28,WR,TBB,2023,2014.0,2,1,7,Texas A&M,10.0
+61,Christian Kirk,62.19,WR,JAC,2023,2018.0,5,2,15,Texas A&M,6.0
+62,Brandon Aiyuk,62.39,WR,SFO,2023,2020.0,6,1,25,Arizona State,4.0
+63,Diontae Johnson,62.92,WR,PIT,2023,2019.0,10,3,2,Toledo,5.0
+69,Michael Pittman,70.3,WR,IND,2023,2020.0,8,2,2,USC,4.0
+72,George Pickens,71.21,WR,PIT,2023,2022.0,11,2,20,Georgia,2.0
+76,Jordan Addison,73.18,WR,MIN,2023,2023.0,4,1,23,USC,1.0
+77,Jerry Jeudy,73.91,WR,DEN,2023,2020.0,2,1,15,Alabama,4.0
+81,Jaxon Smith-Njigba,78.69,WR,SEA,2023,2023.0,1,1,20,Ohio State,1.0
+82,Jahan Dotson,78.96,WR,WAS,2023,2022.0,5,1,16,Penn State,2.0
+83,Zay Flowers,79.6,WR,BAL,2023,2023.0,3,1,22,Boston College,1.0
+87,Marquise Brown,83.22,WR,ARI,2023,2019.0,1,1,25,Oklahoma,5.0
+89,Courtland Sutton,83.9,WR,DEN,2023,2018.0,3,2,8,Southern Methodist,6.0
+90,Brandin Cooks,84.2,WR,DAL,2023,2014.0,4,1,20,Oregon State,10.0
+96,Gabriel Davis,88.79,WR,BUF,2023,2020.0,18,4,22,Central Florida,4.0
+106,JuJu Smith-Schuster,96.24,WR,NEP,2023,2017.0,6,2,30,USC,7.0
+108,Quentin Johnston,98.65,WR,LAC,2023,2023.0,2,1,21,Texas Christian,1.0
+114,Odell Beckham,100.87,WR,BAL,2023,2014.0,3,1,12,Louisiana State,10.0
+125,Charlie Jones,104.8,WR,CIN,2023,2023.0,16,4,29,Purdue,1.0
+127,A.T. Perry,105.22,WR,NOS,2023,2023.0,24,6,18,Wake Forest,1.0
+128,Skyy Moore,105.96,WR,KCC,2023,2022.0,13,2,22,Western Michigan,2.0
+129,Cedric Tillman,106.09,WR,CLE,2023,2023.0,11,3,11,Tennessee,1.0
+130,Tyler Scott,107.08,WR,CHI,2023,2023.0,17,4,31,Cincinnati,1.0
+136,Kadarius Toney,109.28,WR,KCC,2023,2021.0,4,1,20,Florida,3.0
+138,Josh Downs,109.76,WR,IND,2023,2023.0,12,3,16,North Carolina,1.0
+141,Kayshon Boutte,110.51,WR,NEP,2023,2023.0,22,6,10,Louisiana State,1.0
+148,Elijah Moore,112.36,WR,CLE,2023,2021.0,6,2,2,Mississippi,3.0
+152,Michael Wilson,115.46,WR,ARI,2023,2023.0,13,3,31,Stanford,1.0
+156,Trey Palmer,116.32,WR,TBB,2023,2023.0,23,6,14,Nebraska,1.0
+157,Nico Collins,116.38,WR,HOU,2023,2021.0,14,3,25,Michigan,3.0
+164,Treylon Burks,117.47,WR,TEN,2023,2022.0,6,1,18,Arkansas,2.0
+176,Romeo Doubs,121.68,WR,GBP,2023,2022.0,19,4,27,Nevada,2.0
+177,Marvin Mims,122.47,WR,DEN,2023,2023.0,8,2,32,Oklahoma,1.0
+180,Zay Jones,124.38,WR,JAC,2023,2017.0,4,2,5,East Carolina,7.0
+183,Jonathan Mingo,125.23,WR,CAR,2023,2023.0,5,2,8,Mississippi,1.0
+185,Jalin Hyatt,125.99,WR,NYG,2023,2023.0,10,3,10,Tennessee,1.0
+188,Rashee Rice,126.8,WR,KCC,2023,2023.0,7,2,24,Southern Methodist,1.0
+189,Puka Nacua,127.32,WR,LAR,2023,2023.0,20,5,42,Brigham Young,1.0
+192,Jayden Reed,128.65,WR,GBP,2023,2023.0,6,2,19,Michigan State,1.0
+193,Rashod Bateman,129.06,WR,BAL,2023,2021.0,5,1,27,Minnesota,3.0
+198,Marquez Valdes-Scantling,131.34,WR,KCC,2023,2018.0,19,5,37,South Florida,6.0
+227,Jameson Williams,142.22,WR,DET,2023,2022.0,4,1,12,Alabama,2.0
+240,Van Jefferson,145.45,WR,ATL,2023,2020.0,12,2,25,Florida,4.0
+241,Tyler Boyd,145.53,WR,CIN,2023,2016.0,7,2,24,Pittsburgh,8.0
+249,Rondale Moore,149.78,WR,ARI,2023,2021.0,7,2,17,Purdue,3.0
+254,K.J. Osborn,152.19,WR,MIN,2023,2020.0,27,5,30,Miami (FL),4.0
+262,Darnell Mooney,155.2,WR,CHI,2023,2020.0,26,5,27,Tulane,4.0
+276,DeVante Parker,159.6,WR,NEP,2023,2015.0,3,1,14,Louisville,9.0
+285,Donovan Peoples-Jones,162.52,WR,DET,2023,2020.0,28,6,8,Michigan,4.0
+286,Isaiah Hodgins,162.7,WR,NYG,2023,2020.0,31,6,28,Oregon State,4.0
+295,Darius Slayton,166.09,WR,NYG,2023,2019.0,19,5,33,Auburn,5.0
+296,Michael Gallup,166.2,WR,DAL,2023,2018.0,9,3,17,Colorado State,6.0
+299,Curtis Samuel,166.95,WR,WAS,2023,2017.0,5,2,8,Ohio State,7.0
+308,Hunter Renfrow,169.83,WR,LVR,2023,2019.0,17,5,11,Clemson,5.0
+311,Parris Campbell,170.9,WR,NYG,2023,2019.0,7,2,27,Ohio State,5.0
+313,Wan'Dale Robinson,171.29,WR,NYG,2023,2022.0,8,2,11,Kentucky,2.0
+324,John Metchie,173.1,WR,HOU,2023,2022.0,9,2,12,Alabama,2.0
+325,Alec Pierce,173.25,WR,IND,2023,2022.0,12,2,21,Cincinnati,2.0
+335,Richie James,176.74,WR,KCC,2023,2018.0,30,7,22,Middle Tennessee,6.0
+339,Robert Woods,178.9,WR,HOU,2023,2013.0,5,2,9,USC,11.0
+340,Chase Claypool,180.74,WR,MIA,2023,2020.0,11,2,17,Notre Dame,4.0
+346,Marvin Jones,183.28,WR,FA,2023,2012.0,23,5,31,California,12.0
+348,Josh Reynolds,184.29,WR,DET,2023,2017.0,16,4,10,Texas A&M,7.0
+350,Allen Robinson,185.02,WR,PIT,2023,2014.0,11,2,29,Penn State,10.0
+351,Mecole Hardman,187.04,WR,KCC,2023,2019.0,5,2,24,Georgia,5.0
+357,Mack Hollins,191.95,WR,ATL,2023,2017.0,17,4,12,North Carolina,7.0

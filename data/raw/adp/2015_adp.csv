@@ -1,0 +1,398 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Adrian Peterson,8.65,RB,MIN,2015
+2,Eddie Lacy,9.99,RB,GBP,2015
+3,Jamaal Charles,10.13,RB,KCC,2015
+4,Le'Veon Bell,10.20,RB,PIT,2015
+5,Antonio Brown,10.64,WR,PIT,2015
+6,Dez Bryant,12.75,WR,DAL,2015
+7,Julio Jones,12.98,WR,ATL,2015
+8,Marshawn Lynch,14.67,RB,SEA,2015
+9,Demaryius Thomas,15.58,WR,DEN,2015
+10,Rob Gronkowski,17.42,TE,NEP,2015
+11,Calvin Johnson,17.57,WR,DET,2015
+12,Matt Forte,17.73,RB,CHI,2015
+13,Andrew Luck,18.93,QB,IND,2015
+14,A.J. Green,21.05,WR,CIN,2015
+15,Aaron Rodgers,21.62,QB,GBP,2015
+16,DeMarco Murray,21.68,RB,PHI,2015
+17,Randall Cobb,24.02,WR,GBP,2015
+18,LeSean McCoy,24.20,RB,BUF,2015
+19,Melvin Gordon,28.90,RB,SDC,2015
+20,T.Y. Hilton,29.03,WR,IND,2015
+21,C.J. Anderson,29.73,RB,DEN,2015
+22,Brandin Cooks,30.05,WR,NOS,2015
+23,Odell Beckham,30.09,WR,NYG,2015
+24,Alshon Jeffery,31.04,WR,CHI,2015
+25,Jeremy Hill,32.29,RB,CIN,2015
+26,Mike Evans,32.54,WR,TBB,2015
+27,Frank Gore,32.65,RB,IND,2015
+28,Jimmy Graham,32.94,TE,SEA,2015
+29,Lamar Miller,32.95,RB,MIA,2015
+30,Amari Cooper,33.42,WR,OAK,2015
+31,Emmanuel Sanders,35.81,WR,DEN,2015
+32,Justin Forsett,36.30,RB,BAL,2015
+33,DeAndre Hopkins,36.93,WR,HOU,2015
+34,Ameer Abdullah,37.72,RB,DET,2015
+35,Jordan Matthews,40.10,WR,PHI,2015
+36,Todd Gurley,40.30,RB,STL,2015
+37,Mark Ingram,40.68,RB,NOS,2015
+38,Alfred Morris,42.77,RB,WAS,2015
+39,Andre Johnson,44.46,WR,IND,2015
+40,Carlos Hyde,44.71,RB,SFO,2015
+41,Golden Tate,45.13,WR,DET,2015
+42,Keenan Allen,46.44,WR,SDC,2015
+43,Joseph FA* RBRandle,46.77,RB,FA*,2015
+44,Latavius Murray,46.86,RB,OAK,2015
+45,Julian Edelman,47.19,WR,NEP,2015
+46,T.J. Yeldon,47.90,RB,JAC,2015
+47,Peyton Manning,48.45,QB,DEN,2015
+48,Andre Ellington,50.49,RB,ARI,2015
+49,Greg Olsen,50.85,TE,CAR,2015
+50,Russell Wilson,51.47,QB,SEA,2015
+51,Sammy Watkins,53.21,WR,BUF,2015
+52,Jarvis Landry,54.09,WR,MIA,2015
+53,C.J. Spiller,54.38,RB,NOS,2015
+54,Nelson Agholor,54.62,WR,PHI,2015
+55,Brandon Marshall,54.85,WR,NYJ,2015
+56,J.J. Watt,54.92,DE,HOU,2015
+57,Jeremy Maclin,55.27,WR,KCC,2015
+58,Drew Brees,55.64,QB,NOS,2015
+59,Doug Martin,56.71,RB,TBB,2015
+60,Jonathan Stewart,56.75,RB,CAR,2015
+61,Travis Kelce,57.10,TE,KCC,2015
+62,Ben Roethlisberger,59.36,QB,PIT,2015
+63,Allen Robinson,62.44,WR,JAC,2015
+64,Davante Adams,62.98,WR,GBP,2015
+65,DeSean Jackson,63.12,WR,WAS,2015
+66,Arian Foster,64.36,RB,HOU,2015
+67,Martavis Bryant,66.86,WR,PIT,2015
+68,Martellus Bennett,66.97,TE,CHI,2015
+69,Giovani Bernard,66.97,RB,CIN,2015
+70,Vincent Jackson,68.14,WR,TBB,2015
+71,Matt Ryan,68.70,QB,ATL,2015
+72,Luke Kuechly,70.35,LB,CAR,2015
+73,Chris Ivory,71.26,RB,NYJ,2015
+74,Tevin Coleman,73.23,RB,ATL,2015
+75,Charles Johnson,73.77,WR,MIN,2015
+76,Mike Wallace,73.82,WR,MIN,2015
+77,LeGarrette Blount,75.06,RB,NEP,2015
+78,Tony Romo,76.23,QB,DAL,2015
+79,Larry Fitzgerald,79.37,WR,ARI,2015
+80,Lavonte David,79.99,LB,TBB,2015
+81,Matthew Stafford,82.36,QB,DET,2015
+82,Joique Bell,82.39,RB,DET,2015
+83,Victor Cruz,82.76,WR,NYG,2015
+84,Roddy White,84.41,WR,ATL,2015
+85,Tom Brady,84.59,QB,NEP,2015
+86,Jason Witten,85.31,TE,DAL,2015
+87,Shane Vereen,85.47,RB,NYG,2015
+88,Julius Thomas,85.59,TE,JAC,2015
+89,John Brown,85.63,WR,ARI,2015
+90,Rashad Jennings,86.68,RB,NYG,2015
+91,Jordan Cameron,87.76,TE,MIA,2015
+92,Ryan Tannehill,88.82,QB,MIA,2015
+93,Steve Smith,89.55,WR,BAL,2015
+94,Cam Newton,91.58,QB,CAR,2015
+95,Devin Funchess,91.84,WR,CAR,2015
+96,Duke Johnson,92.43,RB,CLE,2015
+97,Alfred Blue,94.16,RB,HOU,2015
+98,Bobby Wagner,95.05,LB,SEA,2015
+99,Isaiah Crowell,95.19,RB,CLE,2015
+100,Ryan Mathews,95.96,RB,PHI,2015
+101,Eric Decker,97.00,WR,NYJ,2015
+102,Robert Quinn,97.06,DE,STL,2015
+103,Torrey Smith,97.12,WR,SFO,2015
+104,Anquan Boldin,97.33,WR,SFO,2015
+105,"Seahawks, Seattle SEA Def",98.37,Def,SEA,2015
+106,C.J. Mosley,98.43,LB,BAL,2015
+107,Eli Manning,98.68,QB,NYG,2015
+108,Navorro Bowman,99.66,LB,SFO,2015
+109,Devonta Freeman,100.41,RB,ATL,2015
+110,Sam Bradford,102.30,QB,PHI,2015
+111,Zach Ertz,102.43,TE,PHI,2015
+112,DeVante Parker,103.16,WR,MIA,2015
+113,Tre Mason,103.23,RB,STL,2015
+114,Danny Woodhead,104.20,RB,SDC,2015
+115,Tyler Eifert,104.30,TE,CIN,2015
+116,Kendall Wright,104.50,WR,TEN,2015
+117,Philip Rivers,104.92,QB,SDC,2015
+118,Brandon LaFell,105.85,WR,NEP,2015
+119,Breshad Perriman,106.61,WR,BAL,2015
+120,Michael Floyd,106.68,WR,ARI,2015
+121,Chandler Jones,106.81,DE,NEP,2015
+122,Darren McFadden,106.95,RB,DAL,2015
+123,Stephone Anthony,107.07,LB,NOS,2015
+124,David Cobb,107.28,RB,TEN,2015
+125,Paul Posluszny,107.49,LB,JAC,2015
+126,Bishop Sankey,107.56,RB,TEN,2015
+127,Delanie Walker,108.04,TE,TEN,2015
+128,Justin Houston,109.23,LB,KCC,2015
+129,Eric Kendricks,109.32,LB,MIN,2015
+130,Eddie Royal,111.18,WR,CHI,2015
+131,Marques Colston,111.39,WR,NOS,2015
+132,Harrison MIN SSmith,113.48,S,MIN,2015
+133,DeAndre Levy,113.81,LB,DET,2015
+134,David Johnson,114.99,RB,ARI,2015
+135,"Bills, Buffalo BUF Def",115.02,Def,BUF,2015
+136,Morgan GBP SBurnett,115.32,S,GBP,2015
+137,Pierre Garcon,116.16,WR,WAS,2015
+138,Mario Williams,116.70,DE,BUF,2015
+139,"Texans, Houston HOU Def",117.85,Def,HOU,2015
+140,Leonard Williams,118.23,DE,NYJ,2015
+141,Markus Wheaton,118.38,WR,PIT,2015
+142,Landon NYG SCollins,118.57,S,NYG,2015
+143,Teddy Bridgewater,119.14,QB,MIN,2015
+144,Kyle Rudolph,119.56,TE,MIN,2015
+145,Alec Ogletree,123.15,LB,STL,2015
+146,Vic Beasley,123.66,DE,ATL,2015
+147,Kiko Alonso,124.05,LB,PHI,2015
+148,Owen Daniels,124.44,TE,DEN,2015
+149,Ndamukong Suh,125.02,DT,MIA,2015
+150,Brian Quick,125.07,WR,STL,2015
+151,Stephen Gostkowski,125.33,PK,NEP,2015
+152,Terrance Williams,125.60,WR,DAL,2015
+153,Stefon Diggs,125.62,WR,MIN,2015
+154,Bryce Petty,125.89,QB,NYJ,2015
+155,Dorial Green-Beckham,126.18,WR,TEN,2015
+156,Khalil Mack,126.46,LB,OAK,2015
+157,Knile Davis,126.91,RB,KCC,2015
+158,Eric SDC SWeddle,127.08,S,SDC,2015
+159,"Rams, St. Louis STL Def",127.17,Def,STL,2015
+160,Randy Gregory,127.29,DE,DAL,2015
+161,Dwayne Allen,127.48,TE,IND,2015
+162,Stevie Johnson,127.69,WR,SDC,2015
+163,Matt Jones,128.14,RB,WAS,2015
+164,Von Miller,128.58,LB,DEN,2015
+165,Darren Sproles,128.74,RB,PHI,2015
+166,Sean Lee,128.75,LB,DAL,2015
+167,Devin Smith,128.76,WR,NYJ,2015
+168,Jameis Winston,129.71,QB,TBB,2015
+169,Antonio Gates,129.82,TE,SDC,2015
+170,Jamie Collins,130.10,LB,NEP,2015
+171,DeAndre Smelter,130.83,WR,SFO,2015
+172,Everson Griffen,130.90,DE,MIN,2015
+173,Phillip Dorsett,131.24,WR,IND,2015
+174,Marcus Mariota,131.80,QB,TEN,2015
+175,Paul Worrilow,133.56,LB,ATL,2015
+176,Calais Campbell,133.90,DE,ARI,2015
+177,Reshad MIA SJones,134.36,S,MIA,2015
+178,Josh Hill,134.55,TE,NOS,2015
+179,Reggie Bush,134.86,RB,SFO,2015
+180,Kwon Alexander,135.39,LB,TBB,2015
+181,Johnathan JAC SCyprien,137.03,S,JAC,2015
+182,Carson Palmer,137.23,QB,ARI,2015
+183,Derrick Johnson,137.56,LB,KCC,2015
+184,Joe Flacco,138.18,QB,BAL,2015
+185,Austin Seferian-Jenkins,138.32,TE,TBB,2015
+186,Colin Kaepernick,138.64,QB,SFO,2015
+187,Mike Davis,138.67,RB,SFO,2015
+188,Sammie Coates,138.94,WR,PIT,2015
+189,Carlos Dunlap,139.27,DE,CIN,2015
+190,Michael Crabtree,140.21,WR,OAK,2015
+191,Justin Hardy,140.35,WR,ATL,2015
+192,D'Qwell Jackson,140.40,LB,IND,2015
+193,Rob Ninkovich,141.28,DE,NEP,2015
+194,Mychal Kendricks,141.87,LB,PHI,2015
+195,Kenny Stills,142.05,WR,MIA,2015
+196,Adam Vinatieri,142.50,PK,IND,2015
+197,"Eagles, Philadelphia PHI Def",143.00,Def,PHI,2015
+198,"Dolphins, Miami MIA Def",143.21,Def,MIA,2015
+199,Charles Sims,143.22,RB,TBB,2015
+200,Jay Ajayi,143.75,RB,MIA,2015
+201,Brandon Coleman,143.91,WR,NOS,2015
+202,Clive Walford,144.31,TE,OAK,2015
+203,Cameron Wake,144.51,DE,MIA,2015
+204,Ty Montgomery,144.56,WR,GBP,2015
+205,Ronnie Hillman,144.91,RB,DEN,2015
+206,Cameron Artis-Payne,144.93,RB,CAR,2015
+207,"Jets, New York NYJ Def",145.04,Def,NYJ,2015
+208,T.J. STL SMcDonald,145.37,S,STL,2015
+209,Kenny Bell,145.69,WR,TBB,2015
+210,Tyler Lockett,146.63,WR,SEA,2015
+211,Ezekiel Ansah,149.77,DE,DET,2015
+212,Rueben Randle,150.02,WR,NYG,2015
+213,DeAngelo Williams,150.19,RB,PIT,2015
+214,Marvin Jones,150.36,WR,CIN,2015
+215,Roy Helu,150.57,RB,OAK,2015
+216,Andre Williams,150.57,RB,NYG,2015
+217,Jeremy Langford,150.97,RB,CHI,2015
+218,Thomas Rawls,151.15,RB,SEA,2015
+219,Chris Conley,151.72,WR,KCC,2015
+220,Maxx Williams,152.01,TE,BAL,2015
+221,Javorius Allen,152.02,RB,BAL,2015
+222,Ryan Shazier,152.15,LB,PIT,2015
+223,Earl SEA SThomas,152.63,S,SEA,2015
+224,"Broncos, Denver DEN Def",152.74,Def,DEN,2015
+225,Jonas Gray,152.81,RB,JAC,2015
+226,Vernon Davis,152.89,TE,DEN,2015
+227,Coby Fleener,153.03,TE,IND,2015
+228,Cody Latimer,153.26,WR,DEN,2015
+229,Steven Hauschka,153.39,PK,SEA,2015
+230,"Cardinals, Arizona ARI Def",153.58,Def,ARI,2015
+231,Doug Baldwin,153.60,WR,SEA,2015
+232,Jaelen Strong,153.96,WR,HOU,2015
+233,Jay Cutler,154.43,QB,CHI,2015
+234,James Laurinaitis,154.90,LB,STL,2015
+235,Josh Robinson,154.90,RB,FA,2015
+236,Ha Ha GBP SClinton-Dix,155.68,S,GBP,2015
+237,Justin Tucker,156.41,PK,BAL,2015
+238,Brandon Marshall,157.22,LB,DEN,2015
+239,Tyrann ARI SMathieu,157.48,S,ARI,2015
+240,Eric Ebron,157.61,TE,DET,2015
+241,Clay Matthews,157.65,LB,GBP,2015
+242,Gerald McCoy,157.98,DT,TBB,2015
+243,Mason Crosby,158.04,PK,GBP,2015
+244,Jelani Jenkins,158.16,LB,MIA,2015
+245,Barry DAL SChurch,158.20,S,DAL,2015
+246,Andy Dalton,158.31,QB,CIN,2015
+247,Derek Carr,158.53,QB,OAK,2015
+248,Richard Rodgers,158.53,TE,GBP,2015
+249,Lawrence Timmons,159.17,LB,PIT,2015
+250,Heath Miller,159.62,TE,PIT,2015
+251,Percy Harvin,160.09,WR,BUF,2015
+252,Jason Pierre-Paul,160.53,DE,NYG,2015
+253,Jason McCourty,160.69,CB,TEN,2015
+254,Telvin Smith,161.80,LB,JAC,2015
+255,Cody Parkey,161.81,PK,PHI,2015
+256,Fred Jackson,161.89,RB,SEA,2015
+257,Reggie FA* WRWayne,162.26,WR,FA*,2015
+258,Muhammad Wilkerson,162.38,DE,NYJ,2015
+259,Keenan Robinson,162.73,LB,WAS,2015
+260,Aaron Donald,162.75,DT,STL,2015
+261,Dan Bailey,163.28,PK,DAL,2015
+262,Charles Clay,163.99,TE,BUF,2015
+263,Larry Donnell,164.16,TE,NYG,2015
+264,Cameron Jordan,164.50,DE,NOS,2015
+265,"Panthers, Carolina CAR Def",164.51,Def,CAR,2015
+266,Jeff Janis,164.61,WR,GBP,2015
+267,"Packers, Green Bay GBP Def",164.68,Def,GBP,2015
+268,Greg Hardy,165.90,DE,DAL,2015
+269,Connor Barth,165.91,PK,TBB,2015
+270,Jordan Reed,165.95,TE,WAS,2015
+271,Fletcher Cox,166.27,DE,PHI,2015
+272,Karlos Williams,166.52,RB,BUF,2015
+273,Montee FA* RBBall,166.55,RB,FA*,2015
+274,"Patriots, New England NEP Def",167.84,Def,NEP,2015
+275,Zach Zenner,168.59,RB,DET,2015
+276,Donte Moncrief,168.91,WR,IND,2015
+277,Jerry Hughes,169.30,DE,BUF,2015
+278,Alex Smith,169.42,QB,KCC,2015
+279,Geno Atkins,169.74,DT,CIN,2015
+280,Allen Hurns,170.15,WR,JAC,2015
+281,Curtis Lofton,170.71,LB,OAK,2015
+282,Blake Bortles,171.22,QB,JAC,2015
+283,Antoine SFO SBethea,172.01,S,SFO,2015
+284,Ladarius Green,172.03,TE,SDC,2015
+285,"Ravens, Baltimore BAL Def",172.11,Def,BAL,2015
+286,Denard Robinson,172.52,RB,JAC,2015
+287,Kam SEA SChancellor,172.54,S,SEA,2015
+288,Karlos Dansby,172.93,LB,CLE,2015
+289,"Chiefs, Kansas City KCC Def",172.93,Def,KCC,2015
+290,Jerick McKinnon,172.98,RB,MIN,2015
+291,Matt Bryant,174.36,PK,ATL,2015
+292,Marcell Dareus,174.38,DT,BUF,2015
+293,Tyrod Taylor,174.81,QB,BUF,2015
+294,Brandon McManus,175.25,PK,DEN,2015
+295,Matt Prater,176.57,PK,DET,2015
+296,Dan Herron,176.91,RB,IND,2015
+297,Nick Foles,177.08,QB,STL,2015
+298,Garrett FA* PKHartley,178.51,PK,FA*,2015
+299,Jarryd Hayne,179.07,RB,SFO,2015
+300,James Starks,179.28,RB,GBP,2015
+301,Kenny Britt,179.47,WR,STL,2015
+302,Khiry Robinson,180.16,RB,NOS,2015
+303,Cole Beasley,180.31,WR,DAL,2015
+304,Chris Johnson,180.59,RB,ARI,2015
+305,James White,180.81,RB,NEP,2015
+306,Dwayne Bowe,180.91,WR,CLE,2015
+307,"Lions, Detroit DET Def",181.14,Def,DET,2015
+308,Brock Osweiler,181.36,QB,DEN,2015
+309,Sebastian Janikowski,181.77,PK,OAK,2015
+310,Blair Walsh,182.57,PK,MIN,2015
+311,Leonard Hankerson,182.64,WR,BUF,2015
+312,Virgil Green,182.64,TE,DEN,2015
+313,Dan Carpenter,182.68,PK,BUF,2015
+314,Jimmy Garoppolo,183.07,QB,NEP,2015
+315,Rashad ARI SJohnson,183.13,S,ARI,2015
+316,Charles OAK SWoodson,183.59,S,OAK,2015
+317,"Vikings, Minnesota MIN Def",184.00,Def,MIN,2015
+318,"Bengals, Cincinnati CIN Def",184.48,Def,CIN,2015
+319,Cecil Shorts,186.19,WR,HOU,2015
+320,Malcom Floyd,186.34,WR,SDC,2015
+321,Christine Michael,186.47,RB,SEA,2015
+322,Prince Amukamara,186.74,CB,NYG,2015
+323,"Colts, Indianapolis IND Def",187.20,Def,IND,2015
+324,Terrance West,187.56,RB,BAL,2015
+325,Damien Williams,188.20,RB,MIA,2015
+326,Cordarrelle Patterson,188.39,WR,MIN,2015
+327,Vontaze Burfict,188.95,LB,CIN,2015
+328,Greg Zuerlein,189.43,PK,STL,2015
+329,Dion Lewis,189.93,RB,NEP,2015
+330,Ray FA* RBRice,190.03,RB,FA*,2015
+331,Chris Polk,190.12,RB,HOU,2015
+332,Tavon Austin,190.20,WR,STL,2015
+333,Nick Novak,190.60,PK,HOU,2015
+334,Michael TEN SGriffin,190.60,S,TEN,2015
+335,Robert Griffin III,190.88,QB,WAS,2015
+336,Brian Hoyer,191.49,QB,HOU,2015
+337,Ben Watson,191.56,TE,NOS,2015
+338,Danny Amendola,191.71,WR,NEP,2015
+339,Lorenzo Taliaferro,192.20,RB,BAL,2015
+340,Ryan Fitzpatrick,192.29,QB,NYJ,2015
+341,Robert Turbin,192.29,RB,DAL,2015
+342,Josh Brown,192.41,PK,NYG,2015
+343,Robbie Gould,192.42,PK,CHI,2015
+344,Dustin Hopkins,193.38,PK,WAS,2015
+345,Chandler Catanzaro,193.69,PK,ARI,2015
+346,Branden Oliver,193.73,RB,SDC,2015
+347,Eric KCC SBerry,193.83,S,KCC,2015
+348,Kirk Cousins,193.96,QB,WAS,2015
+349,Lance Dunbar,194.27,RB,DAL,2015
+350,Corey Brown,194.43,WR,CAR,2015
+351,James DET SIhedigbo,195.35,S,DET,2015
+352,Phil Dawson,195.49,PK,SFO,2015
+353,Johnny Manziel,196.01,QB,CLE,2015
+354,Mohamed Sanu,196.13,WR,CIN,2015
+355,Jacob Tamme,196.14,TE,ATL,2015
+356,"Cowboys, Dallas DAL Def",196.34,Def,DAL,2015
+357,Jared Cook,196.89,TE,STL,2015
+358,Caleb Sturgis,197.08,PK,PHI,2015
+359,Theo Riddick,197.55,RB,DET,2015
+360,Antrel CHI SRolle,197.63,S,CHI,2015
+361,James Jones,198.18,WR,GBP,2015
+362,Matt Asiata,198.44,RB,MIN,2015
+363,"Steelers, Pittsburgh PIT Def",198.91,Def,PIT,2015
+364,Brandon Bolden,199.40,RB,NEP,2015
+365,Jace Amaro,199.49,TE,NYJ,2015
+366,Josh Huff,199.65,WR,PHI,2015
+367,Marqise Lee,199.86,WR,JAC,2015
+368,"Browns, Cleveland CLE Def",199.92,Def,CLE,2015
+369,Stedman Bailey,200.29,WR,STL,2015
+370,Randy Bullock,202.54,PK,NYJ,2015
+371,Kamar Aiken,202.67,WR,BAL,2015
+372,"49ers, San Francisco SFO Def",203.96,Def,SFO,2015
+373,Mark Sanchez,204.61,QB,PHI,2015
+374,Josh Scobee,204.68,PK,FA,2015
+375,Mike IND SAdams,204.86,S,IND,2015
+376,Graham Gano,205.09,PK,CAR,2015
+377,Greg Jennings,205.25,WR,MIA,2015
+378,Mychal Rivera,205.51,TE,OAK,2015
+379,Marquess Wilson,205.62,WR,CHI,2015
+380,Brian Hartline,206.03,WR,CLE,2015
+381,Scott Chandler,206.19,TE,NEP,2015
+382,Robert Woods,207.61,WR,BUF,2015
+383,Stevan Ridley,208.80,RB,NYJ,2015
+384,Justin Hunter,209.09,WR,TEN,2015
+385,Crockett Gillmore,209.61,TE,BAL,2015
+386,"Buccaneers, Tampa Bay TBB Def",209.76,Def,TBB,2015
+387,Nick Folk,211.05,PK,NYJ,2015
+388,"Giants, New York NYG Def",212.63,Def,NYG,2015
+389,"Bears, Chicago CHI Def",214.91,Def,CHI,2015
+390,Harry Douglas,215.81,WR,TEN,2015
+391,"Jaguars, Jacksonville JAC Def",216.09,Def,JAC,2015
+392,Andrew Hawkins,217.58,WR,CLE,2015
+393,"Chargers, San Diego SDC Def",217.81,Def,SDC,2015
+394,"Raiders, Oakland OAK Def",218.86,Def,OAK,2015
+395,"Falcons, Atlanta ATL Def",219.03,Def,ATL,2015
+396,"Saints, New Orleans NOS Def",222.49,Def,NOS,2015
+397,"Titans, Tennessee TEN Def",224.74,Def,TEN,2015

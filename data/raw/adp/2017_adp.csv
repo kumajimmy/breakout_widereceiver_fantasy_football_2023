@@ -1,0 +1,367 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Le'Veon Bell,4.98,RB,PIT,2017
+2,Antonio Brown,6.12,WR,PIT,2017
+3,Julio Jones,7.33,WR,ATL,2017
+4,David Johnson,9.21,RB,ARI,2017
+5,Mike Evans,10.58,WR,TBB,2017
+6,LeSean McCoy,10.78,RB,BUF,2017
+7,A.J. Green,11.39,WR,CIN,2017
+8,Odell Beckham,11.89,WR,NYG,2017
+9,Devonta Freeman,13.88,RB,ATL,2017
+10,Melvin Gordon,14.29,RB,LAC,2017
+11,Jordy Nelson,17.09,WR,GBP,2017
+12,Ezekiel Elliott,19.15,RB,DAL,2017
+13,Amari Cooper,19.24,WR,OAK,2017
+14,DeMarco Murray,19.78,RB,TEN,2017
+15,Todd Gurley,20.97,RB,LAR,2017
+16,Dez Bryant,21.00,WR,DAL,2017
+17,Leonard Fournette,21.21,RB,JAC,2017
+18,Michael Thomas,21.87,WR,NOS,2017
+19,Rob Gronkowski,22.07,TE,NEP,2017
+20,Aaron Rodgers,22.51,QB,GBP,2017
+21,Jay Ajayi,22.62,RB,PHI,2017
+22,Christian McCaffrey,23.21,RB,CAR,2017
+23,Brandin Cooks,24.04,WR,NEP,2017
+24,T.Y. Hilton,24.18,WR,IND,2017
+25,Jordan Howard,26.58,RB,CHI,2017
+26,Dalvin Cook,27.05,RB,MIN,2017
+27,Doug Baldwin,28.02,WR,SEA,2017
+28,DeAndre Hopkins,30.06,WR,HOU,2017
+29,Tom Brady,30.79,QB,NEP,2017
+30,Lamar Miller,32.44,RB,HOU,2017
+31,Demaryius Thomas,32.47,WR,DEN,2017
+32,Keenan Allen,34.20,WR,LAC,2017
+33,Marshawn Lynch,35.34,RB,OAK,2017
+34,Joe Mixon,35.52,RB,CIN,2017
+35,Travis Kelce,36.03,TE,KCC,2017
+36,Isaiah Crowell,37.88,RB,CLE,2017
+37,Alshon Jeffery,39.40,WR,PHI,2017
+38,Terrelle Pryor,41.60,WR,WAS,2017
+39,Drew Brees,43.26,QB,NOS,2017
+40,Carlos Hyde,44.08,RB,SFO,2017
+41,Allen Robinson,44.13,WR,JAC,2017
+42,Ty Montgomery,46.33,RB,GBP,2017
+43,Michael Crabtree,46.82,WR,OAK,2017
+44,Davante Adams,47.50,WR,GBP,2017
+45,Golden Tate,47.52,WR,DET,2017
+46,Tyreek Hill,47.52,WR,KCC,2017
+47,Larry Fitzgerald,51.33,WR,ARI,2017
+48,Greg Olsen,51.47,TE,CAR,2017
+49,Jarvis Landry,52.21,WR,MIA,2017
+50,Jordan Reed,53.05,TE,WAS,2017
+51,Kelvin Benjamin,53.95,WR,BUF,2017
+52,Sammy Watkins,54.80,WR,LAR,2017
+53,Kareem Hunt,56.39,RB,KCC,2017
+54,Stefon Diggs,56.39,WR,MIN,2017
+55,Martavis Bryant,56.48,WR,PIT,2017
+56,Mark Ingram,56.72,RB,NOS,2017
+57,C.J. Anderson,57.70,RB,DEN,2017
+58,Ameer Abdullah,57.88,RB,DET,2017
+59,Matt Ryan,60.32,QB,ATL,2017
+60,Jimmy Graham,61.09,TE,SEA,2017
+61,Russell Wilson,62.78,QB,SEA,2017
+62,Jamison Crowder,65.52,WR,WAS,2017
+63,Bilal Powell,65.74,RB,NYJ,2017
+64,Emmanuel Sanders,65.75,WR,DEN,2017
+65,DeVante Parker,67.03,WR,MIA,2017
+66,Willie Snead,68.18,WR,NOS,2017
+67,Doug Martin,69.68,RB,TBB,2017
+68,Danny Woodhead,70.18,RB,BAL,2017
+69,Brandon Marshall,71.21,WR,NYG,2017
+70,Tevin Coleman,72.10,RB,ATL,2017
+71,Tyler Eifert,72.34,TE,CIN,2017
+72,J.J. Watt,76.90,DE,HOU,2017
+73,Adrian Peterson,77.26,RB,ARI,2017
+74,Mike Gillislee,77.32,RB,NEP,2017
+75,Luke Kuechly,77.35,LB,CAR,2017
+76,Derek Carr,78.82,QB,OAK,2017
+77,Pierre Garcon,79.11,WR,SFO,2017
+78,Jameis Winston,79.26,QB,TBB,2017
+79,Derrick Henry,79.60,RB,TEN,2017
+80,Kyle Rudolph,82.31,TE,MIN,2017
+81,Marcus Mariota,82.77,QB,TEN,2017
+82,Cam Newton,82.96,QB,CAR,2017
+83,Delanie Walker,83.86,TE,TEN,2017
+84,Andrew Luck,84.05,QB,IND,2017
+85,Zach Ertz,84.10,TE,PHI,2017
+86,DeSean Jackson,85.56,WR,TBB,2017
+87,Kirk Cousins,86.67,QB,WAS,2017
+88,Landon NYG SCollins,87.05,S,NYG,2017
+89,Randall Cobb,87.19,WR,GBP,2017
+90,Martellus Bennett,88.72,TE,NEP,2017
+91,Khalil Mack,88.92,LB,OAK,2017
+92,Jeremy Maclin,90.10,WR,BAL,2017
+93,Donte Moncrief,90.21,WR,IND,2017
+94,Paul Perkins,90.28,RB,NYG,2017
+95,Bobby Wagner,91.60,LB,SEA,2017
+96,Corey Davis,91.66,WR,TEN,2017
+97,Frank Gore,91.73,RB,IND,2017
+98,Kwon Alexander,93.58,LB,TBB,2017
+99,Darren McFadden,94.79,RB,FA,2017
+100,Tyrell Williams,94.98,WR,LAC,2017
+101,Theo Riddick,96.21,RB,DET,2017
+102,Jarrad Davis,96.24,LB,DET,2017
+103,Eddie Lacy,96.75,RB,SEA,2017
+104,LeGarrette Blount,96.80,RB,PHI,2017
+105,Hunter Henry,97.29,TE,LAC,2017
+106,Ben Roethlisberger,97.65,QB,PIT,2017
+107,Eric Decker,98.42,WR,TEN,2017
+108,Joey Bosa,98.53,DE,LAC,2017
+109,Dak Prescott,98.66,QB,DAL,2017
+110,Rob Kelley,99.04,RB,WAS,2017
+111,Terrance West,99.77,RB,BAL,2017
+112,Duke Johnson,101.53,RB,CLE,2017
+113,Myles Garrett,103.56,DE,CLE,2017
+114,Reuben Foster,104.08,LB,SFO,2017
+115,Alec Ogletree,104.82,LB,LAR,2017
+116,Corey Coleman,106.58,WR,CLE,2017
+117,Matthew Stafford,106.64,QB,DET,2017
+118,Adam Thielen,108.73,WR,MIN,2017
+119,Philip Rivers,108.82,QB,LAC,2017
+120,Chris Hogan,111.74,WR,NEP,2017
+121,C.J. Mosley,112.02,LB,BAL,2017
+122,Von Miller,112.78,LB,DEN,2017
+123,Jamal NYJ SAdams,112.90,S,NYJ,2017
+124,Marvin Jones,113.79,WR,DET,2017
+125,"Broncos, Denver DEN Def",114.04,Def,DEN,2017
+126,Thomas Rawls,114.41,RB,SEA,2017
+127,Samaje Perine,114.43,RB,WAS,2017
+128,Jordan Matthews,114.74,WR,BUF,2017
+129,Eric Ebron,116.00,TE,DET,2017
+130,Jason Pierre-Paul,117.31,DE,NYG,2017
+131,Danielle Hunter,117.57,DE,MIN,2017
+132,Keanu ATL SNeal,118.00,S,ATL,2017
+133,Zay Jones,118.08,WR,BUF,2017
+134,John Brown,118.81,WR,ARI,2017
+135,Telvin Smith,118.90,LB,JAC,2017
+136,Reshad MIA SJones,119.06,S,MIA,2017
+137,Jabrill CLE SPeppers,119.84,S,CLE,2017
+138,Jack Doyle,120.16,TE,IND,2017
+139,Kenny Britt,120.80,WR,NEP,2017
+140,Jamaal Williams,122.04,RB,GBP,2017
+141,Jeremy McNichols,122.61,RB,SFO,2017
+142,Andy Dalton,123.16,QB,CIN,2017
+143,James White,123.28,RB,NEP,2017
+144,O.J. Howard,123.83,TE,TBB,2017
+145,Justin Tucker,124.44,PK,BAL,2017
+146,Mike Wallace,125.24,WR,BAL,2017
+147,Rishard Matthews,125.39,WR,TEN,2017
+148,Jonathan Stewart,125.75,RB,CAR,2017
+149,Deion Jones,125.86,LB,ATL,2017
+150,Derek Barnett,126.16,DE,PHI,2017
+151,Ryan Shazier,126.64,LB,PIT,2017
+152,Malik IND SHooker,127.14,S,IND,2017
+153,Carson Wentz,127.41,QB,PHI,2017
+154,Stephen Gostkowski,127.44,PK,NEP,2017
+155,Eli Manning,127.57,QB,NYG,2017
+156,"Chiefs, Kansas City KCC Def",127.68,Def,KCC,2017
+157,Sean Lee,127.82,LB,DAL,2017
+158,T.J. Watt,127.95,LB,PIT,2017
+159,Alvin Kamara,129.34,RB,NOS,2017
+160,C.J. Prosise,129.49,RB,SEA,2017
+161,Matt Forte,130.80,RB,NYJ,2017
+162,Navorro Bowman,131.15,LB,OAK,2017
+163,"Seahawks, Seattle SEA Def",131.25,Def,SEA,2017
+164,"Texans, Houston HOU Def",131.42,Def,HOU,2017
+165,Jamie Collins,132.65,LB,CLE,2017
+166,Ted Ginn Jr.,132.89,WR,NOS,2017
+167,Jacquizz Rodgers,133.02,RB,TBB,2017
+168,Olivier Vernon,133.52,DE,NYG,2017
+169,Harrison MIN SSmith,133.70,S,MIN,2017
+170,Austin Hooper,134.55,TE,ATL,2017
+171,Cooper Kupp,134.91,WR,LAR,2017
+172,Carlos Henderson,135.29,WR,DEN,2017
+173,Rex Burkhead,135.94,RB,NEP,2017
+174,Vontaze Burfict,136.20,LB,CIN,2017
+175,Jason Witten,136.45,TE,DAL,2017
+176,Johnathan TEN SCyprien,136.72,S,TEN,2017
+177,Darren Sproles,136.72,RB,PHI,2017
+178,Kenny Golladay,137.24,WR,DET,2017
+179,Zach Brown,137.45,LB,WAS,2017
+180,Sterling Shepard,137.47,WR,NYG,2017
+181,Carson Palmer,138.01,QB,ARI,2017
+182,Kevin White,138.28,WR,CHI,2017
+183,Evan Engram,138.69,TE,NYG,2017
+184,Lavonte David,139.70,LB,TBB,2017
+185,Adam Shaheen,140.47,TE,CHI,2017
+186,Taco Charlton,141.05,DE,DAL,2017
+187,Robby Anderson,141.24,WR,NYJ,2017
+188,Chris Godwin,141.24,WR,TBB,2017
+189,Melvin Ingram,141.44,DE,LAC,2017
+190,Jonnu Smith,141.54,TE,TEN,2017
+191,Matt Bryant,141.88,PK,ATL,2017
+192,Coby Fleener,142.38,TE,NOS,2017
+193,Donnel Pumphrey,142.55,RB,PHI,2017
+194,Jake Butt,142.98,TE,DEN,2017
+195,Marlon Mack,143.96,RB,IND,2017
+196,Jeremy Hill,144.53,RB,CIN,2017
+197,"Cardinals, Arizona ARI Def",144.60,Def,ARI,2017
+198,Taywan Taylor,144.75,WR,TEN,2017
+199,"Patriots, New England NEP Def",145.55,Def,NEP,2017
+200,Morgan GBP SBurnett,145.97,S,GBP,2017
+201,Josh Doctson,146.07,WR,WAS,2017
+202,John Ross,146.40,WR,CIN,2017
+203,Christian Kirksey,146.85,LB,CLE,2017
+204,D'Onta Foreman,147.02,RB,HOU,2017
+205,Carlos Dunlap,147.38,DE,CIN,2017
+206,Aaron Donald,147.84,DE,LAR,2017
+207,Mack Hollins,148.34,WR,PHI,2017
+208,Cole Beasley,148.46,WR,DAL,2017
+209,"Vikings, Minnesota MIN Def",149.10,Def,MIN,2017
+210,Wayne Gallman,149.34,RB,NYG,2017
+211,Dan Bailey,149.46,PK,DAL,2017
+212,Barry JAC SChurch,149.94,S,JAC,2017
+213,Benardrick McKinney,150.14,LB,HOU,2017
+214,Tyrod Taylor,150.30,QB,BUF,2017
+215,Aaron Jones,150.32,RB,GBP,2017
+216,Jamaal Charles,150.63,RB,DEN,2017
+217,Joe Williams,151.84,RB,SFO,2017
+218,Ha Ha GBP SClinton-Dix,152.46,S,GBP,2017
+219,Jay Cutler,152.58,QB,MIA,2017
+220,Jerrell Freeman,153.04,LB,CHI,2017
+221,Giovani Bernard,153.71,RB,CIN,2017
+222,Julius Thomas,153.82,TE,MIA,2017
+223,Deshaun Watson,154.16,QB,HOU,2017
+224,JuJu Smith-Schuster,154.85,WR,PIT,2017
+225,Calais Campbell,155.35,DE,JAC,2017
+226,Cameron Brate,156.47,TE,TBB,2017
+227,Latavius Murray,156.54,RB,MIN,2017
+228,Tyler Lockett,156.84,WR,SEA,2017
+229,Mason Crosby,156.89,PK,GBP,2017
+230,Mike Williams,157.39,WR,LAC,2017
+231,Sam Bradford,157.42,QB,MIN,2017
+232,Tyrann ARI SMathieu,157.75,S,ARI,2017
+233,Cameron Jordan,157.88,DE,NOS,2017
+234,Ryan Switzer,157.94,WR,DAL,2017
+235,Gerald Everett,159.35,TE,LAR,2017
+236,Patrick Mahomes,159.54,QB,KCC,2017
+237,Jonathan Williams,160.04,RB,NOS,2017
+238,David Njoku,160.44,TE,CLE,2017
+239,"Panthers, Carolina CAR Def",161.70,Def,CAR,2017
+240,Mohamed Sanu,162.99,WR,ATL,2017
+241,James Conner,163.09,RB,PIT,2017
+242,Curtis Samuel,163.57,WR,CAR,2017
+243,Taylor Gabriel,163.68,WR,ATL,2017
+244,Joe Flacco,163.77,QB,BAL,2017
+245,DeShone Kizer,163.78,QB,CLE,2017
+246,"Giants, New York NYG Def",163.90,Def,NYG,2017
+247,Danny Amendola,165.09,WR,NEP,2017
+248,Eric KCC SBerry,165.65,S,KCC,2017
+249,Rico Gathers,165.98,TE,DAL,2017
+250,Mitchell Trubisky,166.12,QB,CHI,2017
+251,Dede Westbrook,166.15,WR,JAC,2017
+252,"Steelers, Pittsburgh PIT Def",168.71,Def,PIT,2017
+253,C.J. Fiedorowicz,168.93,TE,HOU,2017
+254,Matt Prater,169.14,PK,DET,2017
+255,Kam SEA SChancellor,169.72,S,SEA,2017
+256,Jared Cook,169.75,TE,OAK,2017
+257,De'Angelo Henderson,169.87,RB,DEN,2017
+258,Adam Vinatieri,169.88,PK,IND,2017
+259,Chris Carson,170.78,RB,SEA,2017
+260,Wendell Smallwood,171.04,RB,PHI,2017
+261,ArDarius Stewart,171.55,WR,NYJ,2017
+262,Sebastian Janikowski,172.17,PK,OAK,2017
+263,Wil Lutz,172.75,PK,NOS,2017
+264,Chris Thompson,173.44,RB,WAS,2017
+265,DeAndre Washington,173.75,RB,OAK,2017
+266,Shane Vereen,173.90,RB,NYG,2017
+267,Alex Smith,174.62,QB,WAS,2017
+268,Dion Lewis,175.05,RB,NEP,2017
+269,Kenny Stills,175.20,WR,MIA,2017
+270,Antonio Gates,175.75,TE,LAC,2017
+271,Brandon McManus,176.19,PK,DEN,2017
+272,"Eagles, Philadelphia PHI Def",176.28,Def,PHI,2017
+273,Blair Walsh,177.16,PK,SEA,2017
+274,Marqise Lee,177.62,WR,JAC,2017
+275,Charles Clay,178.04,TE,BUF,2017
+276,Tarik Cohen,178.49,RB,CHI,2017
+277,Chris Boswell,178.85,PK,PIT,2017
+278,Anquan Boldin,179.47,WR,FA,2017
+279,Devin Funchess,179.56,WR,CAR,2017
+280,Cairo Santos,180.27,PK,CHI,2017
+281,Kendall Wright,181.49,WR,CHI,2017
+282,"Jaguars, Jacksonville JAC Def",181.74,Def,JAC,2017
+283,"Falcons, Atlanta ATL Def",182.74,Def,ATL,2017
+284,"Ravens, Baltimore BAL Def",183.30,Def,BAL,2017
+285,Brian Hoyer,183.42,QB,NEP,2017
+286,Torrey Smith,183.87,WR,PHI,2017
+287,Dustin Hopkins,184.51,PK,WAS,2017
+288,Caleb Sturgis,186.10,PK,PHI,2017
+289,Graham Gano,186.31,PK,CAR,2017
+290,J.J. Nelson,187.60,WR,ARI,2017
+291,Phil Dawson,188.61,PK,ARI,2017
+292,Tom Savage,188.85,QB,HOU,2017
+293,Blake Bortles,188.90,QB,JAC,2017
+294,Jimmy Garoppolo,188.95,QB,SFO,2017
+295,Jared Goff,189.38,QB,LAR,2017
+296,Alfred Morris,190.13,RB,DAL,2017
+297,Jesse James,191.83,TE,PIT,2017
+298,Dwayne Allen,191.96,TE,NEP,2017
+299,"Rams, Los Angeles LAR Def",192.13,Def,LAR,2017
+300,Breshad Perriman,192.29,WR,BAL,2017
+301,Nick Novak,192.50,PK,LAC,2017
+302,Charcandrick West,192.59,RB,KCC,2017
+303,Josh Gordon,193.07,WR,CLE,2017
+304,Mike Glennon,193.45,QB,CHI,2017
+305,Paul Richardson,193.46,WR,SEA,2017
+306,Austin Seferian-Jenkins,194.36,TE,NYJ,2017
+307,Steven Hauschka,194.71,PK,BUF,2017
+308,Charles Sims,195.01,RB,TBB,2017
+309,"Chargers, Los Angeles LAC Def",195.84,Def,LAC,2017
+310,Matt Breida,195.98,RB,SFO,2017
+311,George Kittle,196.13,TE,SFO,2017
+312,Will Fuller,197.72,WR,HOU,2017
+313,Marquise Goodwin,197.78,WR,SFO,2017
+314,Victor Cruz,197.83,WR,FA,2017
+315,Nelson Agholor,197.90,WR,PHI,2017
+316,"Buccaneers, Tampa Bay TBB Def",197.96,Def,TBB,2017
+317,"Raiders, Oakland OAK Def",197.98,Def,OAK,2017
+318,Nick Folk,198.67,PK,FA,2017
+319,Laquon Treadwell,199.23,WR,MIN,2017
+320,Trevor Siemian,199.35,QB,DEN,2017
+321,Devontae Booker,199.75,RB,DEN,2017
+322,Malcolm Mitchell,202.25,WR,NEP,2017
+323,Travis Benjamin,202.89,WR,LAC,2017
+324,Jaron Brown,203.06,WR,ARI,2017
+325,Robert Woods,203.09,WR,LAR,2017
+326,T.J. Yeldon,203.31,RB,JAC,2017
+327,Allen Hurns,203.44,WR,JAC,2017
+328,"Packers, Green Bay GBP Def",203.62,Def,GBP,2017
+329,Ryan Succop,203.85,PK,TEN,2017
+330,Chris FA* RBJohnson,204.26,RB,FA*,2017
+331,Branden Oliver,204.45,RB,LAC,2017
+332,Jalen Richard,204.54,RB,OAK,2017
+333,Josh Lambo,204.85,PK,JAC,2017
+334,"Bengals, Cincinnati CIN Def",204.90,Def,CIN,2017
+335,Robert Turbin,206.03,RB,IND,2017
+336,Chris Conley,206.33,WR,KCC,2017
+337,Tim Hightower,206.98,RB,FA,2017
+338,"Bills, Buffalo BUF Def",207.74,Def,BUF,2017
+339,Vance McDonald,207.80,TE,PIT,2017
+340,Brandon LaFell,208.48,WR,CIN,2017
+341,Tavon Austin,209.71,WR,LAR,2017
+342,Jeremy Langford,210.90,RB,NYJ,2017
+343,Kenyan Drake,211.95,RB,MIA,2017
+344,Zach Miller,212.49,TE,CHI,2017
+345,Ben Watson,213.08,TE,BAL,2017
+346,Brandon Coleman,214.12,WR,NOS,2017
+347,Javorius Allen,214.34,RB,BAL,2017
+348,"Cowboys, Dallas DAL Def",214.52,Def,DAL,2017
+349,Tyler Boyd,214.72,WR,CIN,2017
+350,"Dolphins, Miami MIA Def",215.63,Def,MIA,2017
+351,"Titans, Tennessee TEN Def",215.93,Def,TEN,2017
+352,Eli Rogers,217.47,WR,PIT,2017
+353,Terrance Williams,218.75,WR,DAL,2017
+354,Orleans Darkwa,219.21,RB,NYG,2017
+355,Chris Ivory,219.25,RB,JAC,2017
+356,Braxton Miller,220.31,WR,HOU,2017
+357,"Browns, Cleveland CLE Def",222.10,Def,CLE,2017
+358,Tyler Higbee,222.19,TE,LAR,2017
+359,"Bears, Chicago CHI Def",222.50,Def,CHI,2017
+360,Vernon Davis,224.13,TE,WAS,2017
+361,Phillip Dorsett,225.27,WR,NEP,2017
+362,Jermaine Kearse,225.65,WR,NYJ,2017
+363,"Redskins, Washington WAS Def",226.37,Def,WAS,2017
+364,"49ers, San Francisco SFO Def",226.54,Def,SFO,2017
+365,Kyle Juszczyk,227.16,RB,SFO,2017
+366,"Lions, Detroit DET Def",227.89,Def,DET,2017

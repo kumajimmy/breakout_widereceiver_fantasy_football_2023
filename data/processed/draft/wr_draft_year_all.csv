@@ -1,0 +1,2287 @@
+rookie_season,No.,Round,Pick,Player,College,Pos
+2023,1,1,20,Jaxon Smith-Njigba,Ohio State,WR
+2023,2,1,21,Quentin Johnston,Texas Christian,WR
+2023,3,1,22,Zay Flowers,Boston College,WR
+2023,4,1,23,Jordan Addison,USC,WR
+2023,5,2,8,Jonathan Mingo,Mississippi,WR
+2023,6,2,19,Jayden Reed,Michigan State,WR
+2023,7,2,24,Rashee Rice,Southern Methodist,WR
+2023,8,2,32,Marvin Mims,Oklahoma,WR
+2023,9,3,6,Nathaniel Dell,Houston,WR
+2023,10,3,10,Jalin Hyatt,Tennessee,WR
+2023,11,3,11,Cedric Tillman,Tennessee,WR
+2023,12,3,16,Josh Downs,North Carolina,WR
+2023,13,3,31,Michael Wilson,Stanford,WR
+2023,14,3,37,Tre Tucker,Cincinnati,WR
+2023,15,4,23,Derius Davis,Texas Christian,WR
+2023,16,4,29,Charlie Jones,Purdue,WR
+2023,17,4,31,Tyler Scott,Cincinnati,WR
+2023,18,5,15,Justin Shorter,Florida,WR
+2023,19,5,24,Dontayvion Wicks,Virginia,WR
+2023,20,5,42,Puka Nacua,Brigham Young,WR
+2023,21,6,8,Parker Washington,Penn State,WR
+2023,22,6,10,Kayshon Boutte,Louisiana State,WR
+2023,23,6,14,Trey Palmer,Nebraska,WR
+2023,24,6,18,A.T. Perry,Wake Forest,WR
+2023,25,6,28,Xavier Hutchinson,Iowa State,WR
+2023,26,6,29,Andrei Iosivas,Princeton,WR
+2023,27,6,33,Demario Douglas,Liberty,WR
+2023,28,7,2,Antoine Green,North Carolina,WR
+2023,29,7,11,Cotton Dowell,Tennessee-Martin,WR
+2023,30,7,27,Jalen Brooks,South Carolina,WR
+2023,31,7,36,Ronnie Bell,Michigan,WR
+2023,32,7,39,Grant DuBose,Charlotte,WR
+2022,1,1,8,Drake London,USC,WR
+2022,2,1,10,Garrett Wilson,Ohio State,WR
+2022,3,1,11,Chris Olave,Ohio State,WR
+2022,4,1,12,Jameson Williams,Alabama,WR
+2022,5,1,16,Jahan Dotson,Penn State,WR
+2022,6,1,18,Treylon Burks,Arkansas,WR
+2022,7,2,2,Christian Watson,North Dakota State,WR
+2022,8,2,11,Wan'Dale Robinson,Kentucky,WR
+2022,9,2,12,John Metchie,Alabama,WR
+2022,10,2,18,Tyquan Thornton,Baylor,WR
+2022,11,2,20,George Pickens,Georgia,WR
+2022,12,2,21,Alec Pierce,Cincinnati,WR
+2022,13,2,22,Skyy Moore,Western Michigan,WR
+2022,14,3,7,Velus Jones,Tennessee,WR
+2022,15,3,24,Jalen Tolbert,South Alabama,WR
+2022,16,3,35,David Bell,Purdue,WR
+2022,17,3,41,Danny Gray,Southern Methodist,WR
+2022,18,4,20,Erik Ezukanma,Texas Tech,WR
+2022,19,4,27,Romeo Doubs,Nevada,WR
+2022,20,4,33,Calvin Austin,Memphis,WR
+2022,21,5,5,Khalil Shakir,Boise State,WR
+2022,22,5,19,Montrell Washington,Samford,WR
+2022,23,5,20,Kyle Philips,UCLA,WR
+2022,24,6,12,Jalen Nailor,Michigan State,WR
+2022,25,6,23,Michael Woods,Oklahoma,WR
+2022,26,7,8,Bo Melton,Rutgers,WR
+2022,27,7,12,Dareke Young,Lenoir-Rhyne,WR
+2022,28,7,37,Samori Toure,Nebraska,WR
+2021,1,1,5,Ja'Marr Chase,Louisiana State,WR
+2021,2,1,6,Jaylen Waddle,Alabama,WR
+2021,3,1,10,DeVonta Smith,Alabama,WR
+2021,4,1,20,Kadarius Toney,Florida,WR
+2021,5,1,27,Rashod Bateman,Minnesota,WR
+2021,6,2,2,Elijah Moore,Mississippi,WR
+2021,7,2,17,Rondale Moore,Purdue,WR
+2021,8,2,24,D'Wayne Eskridge,Western Michigan,WR
+2021,9,2,25,Tutu Atwell,Louisville,WR
+2021,10,2,27,Terrace Marshall,Louisiana State,WR
+2021,11,3,13,Josh Palmer,Tennessee,WR
+2021,12,3,18,Dyami Brown,North Carolina,WR
+2021,13,3,21,Amari Rodgers,Clemson,WR
+2021,14,3,25,Nico Collins,Michigan,WR
+2021,15,3,27,Anthony Schwartz,Auburn,WR
+2021,16,4,4,Dez Fitzpatrick,Louisville,WR
+2021,17,4,7,Amon-Ra St. Brown,USC,WR
+2021,18,4,24,Jaelon Darden,North Texas,WR
+2021,19,4,26,Tylan Wallace,Oklahoma State,WR
+2021,20,5,13,Ihmir Smith-Marsette,Iowa,WR
+2021,21,5,35,Simi Fehoko,Stanford,WR
+2021,22,5,37,Cornell Powell,Clemson,WR
+2021,23,6,3,Frank Darby,Arizona State,WR
+2021,24,6,19,Marquez Stevenson,Houston,WR
+2021,25,6,20,Shi Smith,South Carolina,WR
+2021,26,6,21,Racey McMath,Louisiana State,WR
+2021,27,6,25,Jalen Camp,Georgia Tech,WR
+2021,28,6,35,Seth Williams,Auburn,WR
+2021,29,6,37,Dazz Newsome,North Carolina,WR
+2021,30,7,1,Mike Strachan,Charleston,WR
+2021,31,7,15,Tre Nixon,Central Florida,WR
+2021,32,7,22,Ben Skowronek,Notre Dame,WR
+2021,33,7,28,Kawaan Baker,South Alabama,WR
+2021,34,7,31,Dax Milne,Brigham Young,WR
+2020,1,1,12,Henry Ruggs,Alabama,WR
+2020,2,1,15,Jerry Jeudy,Alabama,WR
+2020,3,1,17,CeeDee Lamb,Oklahoma,WR
+2020,4,1,21,Jalen Reagor,Texas Christian,WR
+2020,5,1,22,Justin Jefferson,Louisiana State,WR
+2020,6,1,25,Brandon Aiyuk,Arizona State,WR
+2020,7,2,1,Tee Higgins,Clemson,WR
+2020,8,2,2,Michael Pittman,USC,WR
+2020,9,2,10,Laviska Shenault,Colorado,WR
+2020,10,2,14,KJ Hamler,Penn State,WR
+2020,11,2,17,Chase Claypool,Notre Dame,WR
+2020,12,2,25,Van Jefferson,Florida,WR
+2020,13,2,27,Denzel Mims,Baylor,WR
+2020,14,3,2,Antonio Gibson,Memphis,WR
+2020,15,3,16,Lynn Bowden,Kentucky,WR
+2020,16,3,17,Bryan Edwards,South Carolina,WR
+2020,17,3,28,Devin Duvernay,Texas,WR
+2020,18,4,22,Gabriel Davis,Central Florida,WR
+2020,19,4,36,Antonio Gandy-Golden,Liberty,WR
+2020,20,5,5,Joe Reed,Virginia,WR
+2020,21,5,15,Tyler Johnson,Minnesota,WR
+2020,22,5,19,Collin Johnson,Texas,WR
+2020,23,5,20,Quintez Cephus,Wisconsin,WR
+2020,24,5,22,John Hightower,Boise State,WR
+2020,25,5,25,Isaiah Coulter,Rhode Island,WR
+2020,26,5,27,Darnell Mooney,Tulane,WR
+2020,27,5,30,K.J. Osborn,Miami (FL),WR
+2020,28,6,8,Donovan Peoples-Jones,Michigan,WR
+2020,29,6,21,Quez Watkins,Southern Mississippi,WR
+2020,30,6,22,James Proche,Southern Methodist,WR
+2020,31,6,28,Isaiah Hodgins,Oregon State,WR
+2020,32,6,33,Dezmon Patmon,Washington State,WR
+2020,33,6,35,Freddie Swain,Florida,WR
+2020,34,7,3,Jauan Jennings,Tennessee,WR
+2020,35,7,6,K.J. Hill,Ohio State,WR
+2020,36,7,32,Malcolm Perry,Navy,WR
+2020,37,7,38,Tyrie Cleveland,Florida,WR
+2019,1,1,25,Marquise Brown,Oklahoma,WR
+2019,2,1,32,N'Keal Harry,Arizona State,WR
+2019,3,2,4,Deebo Samuel,South Carolina,WR
+2019,4,2,19,A.J. Brown,Mississippi,WR
+2019,5,2,24,Mecole Hardman,Georgia,WR
+2019,6,2,25,JJ Arcega-Whiteside,Stanford,WR
+2019,7,2,27,Parris Campbell,Ohio State,WR
+2019,8,2,30,Andy Isabella,Massachusetts,WR
+2019,9,2,32,D.K. Metcalf,Mississippi,WR
+2019,10,3,2,Diontae Johnson,Toledo,WR
+2019,11,3,3,Jalen Hurd,Baylor,WR
+2019,12,3,12,Terry McLaurin,Ohio State,WR
+2019,13,3,29,Miles Boykin,Notre Dame,WR
+2019,14,4,1,Hakeem Butler,Iowa State,WR
+2019,15,4,18,Gary Jennings,West Virginia,WR
+2019,16,4,24,Riley Ridley,Georgia,WR
+2019,17,5,11,Hunter Renfrow,Clemson,WR
+2019,18,5,26,EJ Speed,Tarleton State,WR
+2019,19,5,33,Darius Slayton,Auburn,WR
+2019,20,6,1,KeeSean Johnson,Fresno State,WR
+2019,21,6,11,Travis Fulgham,Old Dominion,WR
+2019,22,6,14,Juwann Winfree,Colorado,WR
+2019,23,6,30,Marcus Green,Louisiana-Monroe,WR
+2019,24,6,33,Kelvin Harmon,North Carolina State,WR
+2019,25,6,35,Scotty Miller,Bowling Green,WR
+2019,26,7,22,John Ursua,Hawaii,WR
+2019,27,7,23,Terry Godwin,Georgia,WR
+2019,28,7,25,Dillon Mitchell,Oregon,WR
+2019,29,7,33,Olabisi Johnson,Colorado State,WR
+2018,1,1,24,D.J. Moore,Maryland,WR
+2018,2,1,26,Calvin Ridley,Alabama,WR
+2018,3,2,8,Courtland Sutton,Southern Methodist,WR
+2018,4,2,12,Dante Pettis,Washington,WR
+2018,5,2,15,Christian Kirk,Texas A&M,WR
+2018,6,2,19,Anthony Miller,Memphis,WR
+2018,7,2,28,James Washington,Oklahoma State,WR
+2018,8,2,29,DJ Chark,Louisiana State,WR
+2018,9,3,17,Michael Gallup,Colorado State,WR
+2018,10,3,27,Tre'Quan Smith,Central Florida,WR
+2018,11,4,3,Keke Coutee,Texas Tech,WR
+2018,12,4,5,Antonio Callaway,Florida,WR
+2018,13,4,13,DaeSean Hamilton,Penn State,WR
+2018,14,4,32,Jaleel Scott,New Mexico State,WR
+2018,15,4,33,J'Mon Moore,Missouri,WR
+2018,16,5,7,Justin Watson,Pennsylvania,WR
+2018,17,5,22,Daurice Fountain,Northern Iowa,WR
+2018,18,5,25,Jordan Lasley,UCLA,WR
+2018,19,5,37,Marquez Valdes-Scantling,South Florida,WR
+2018,20,6,1,Damion Ratley,Texas A&M,WR
+2018,21,6,11,Deon Cain,Clemson,WR
+2018,22,6,13,Ray-Ray McCloud,Clemson,WR
+2018,23,6,17,Dylan Cantrell,Texas Tech,WR
+2018,24,6,20,Russell Gage,Louisiana State,WR
+2018,25,6,33,Equanimeous St. Brown,Notre Dame,WR
+2018,26,6,34,Cedrick Wilson,Boise State,WR
+2018,27,6,36,Braxton Berrios,Miami (FL),WR
+2018,28,7,6,Javon Wims,Georgia,WR
+2018,29,7,10,Marcell Ateman,Oklahoma State,WR
+2018,30,7,22,Richie James,Middle Tennessee,WR
+2018,31,7,35,Auden Tate,Florida State,WR
+2018,32,7,37,Austin Proehl,North Carolina,WR
+2018,33,7,38,Trey Quinn,Southern Methodist,WR
+2017,1,1,5,Corey Davis,Western Michigan,WR
+2017,2,1,7,Mike Williams,Clemson,WR
+2017,3,1,9,John Ross,Washington,WR
+2017,4,2,5,Zay Jones,East Carolina,WR
+2017,5,2,8,Curtis Samuel,Ohio State,WR
+2017,6,2,30,JuJu Smith-Schuster,USC,WR
+2017,7,3,5,Cooper Kupp,Eastern Washington,WR
+2017,8,3,8,Taywan Taylor,Western Kentucky,WR
+2017,9,3,15,ArDarius Stewart,Alabama,WR
+2017,10,3,18,Carlos Henderson,Louisiana Tech,WR
+2017,11,3,20,Chris Godwin,Penn State,WR
+2017,12,3,32,Kenny Golladay,Northern Illinois,WR
+2017,13,3,34,Chad Williams,Grambling State,WR
+2017,14,3,42,Amara Darboh,Michigan,WR
+2017,15,4,3,Dede Westbrook,Oklahoma,WR
+2017,16,4,10,Josh Reynolds,Texas A&M,WR
+2017,17,4,12,Mack Hollins,North Carolina,WR
+2017,18,4,22,Josh Malone,Tennessee,WR
+2017,19,4,27,Ryan Switzer,North Carolina,WR
+2017,20,4,33,Jehu Chesson,Michigan,WR
+2017,21,4,35,Chad Hansen,California,WR
+2017,22,5,22,Shelton Gibson,West Virginia,WR
+2017,23,5,27,Rodney Adams,South Florida,WR
+2017,24,5,29,Isaiah McKenzie,Georgia,WR
+2017,25,5,32,DeAngelo Yancey,Purdue,WR
+2017,26,5,34,Trent Taylor,Louisiana Tech,WR
+2017,27,6,25,Robert Davis,Georgia State,WR
+2017,28,7,1,Stacy Coley,Miami (FL),WR
+2017,29,7,8,David Moore,East Central (OK),WR
+2017,30,7,19,Isaiah Ford,Virginia Tech,WR
+2017,31,7,21,Noah Brown,Ohio State,WR
+2017,32,7,29,Malachi Dupre,Louisiana State,WR
+2016,1,1,15,Corey Coleman,Baylor,WR
+2016,2,1,21,Will Fuller,Notre Dame,WR
+2016,3,1,22,Josh Doctson,Texas Christian,WR
+2016,4,1,23,Laquon Treadwell,Mississippi,WR
+2016,5,2,9,Sterling Shepard,Oklahoma,WR
+2016,6,2,16,Michael Thomas,Ohio State,WR
+2016,7,2,24,Tyler Boyd,Pittsburgh,WR
+2016,8,3,22,Braxton Miller,Ohio State,WR
+2016,9,3,23,Leonte Carroo,Rutgers,WR
+2016,10,4,9,Chris Moore,Cincinnati,WR
+2016,11,4,14,Malcolm Mitchell,Georgia,WR
+2016,12,4,16,Ricardo Louis,Auburn,WR
+2016,13,4,19,Pharoh Cooper,South Carolina,WR
+2016,14,4,28,Demarcus Robinson,Florida,WR
+2016,15,5,1,Tajae Sharpe,Massachusetts,WR
+2016,16,5,15,Jordan Payton,UCLA,WR
+2016,17,5,26,Trevor Davis,California,WR
+2016,18,5,28,Tyreek Hill,West Alabama,WR
+2016,19,5,35,Rashard Higgins,Colorado State,WR
+2016,20,6,5,Moritz Boehringer,Colorado State,WR
+2016,21,6,11,Jakeem Grant,Texas Tech,WR
+2016,22,6,17,Kolby Listenbee,Texas Christian,WR
+2016,23,6,24,Cody Core,Mississippi,WR
+2016,24,6,31,Mike Thomas,Southern Mississippi,WR
+2016,25,6,38,Aaron Burbridge,Michigan State,WR
+2016,26,7,4,Devin Lucien,Arizona State,WR
+2016,27,7,8,DeMarcus Ayers,Houston,WR
+2016,28,7,9,Daniel Braverman,Western Michigan,WR
+2016,29,7,17,Devin Fuller,UCLA,WR
+2016,30,7,20,Charone Peake,Clemson,WR
+2016,31,7,22,Kenny Lawler,California,WR
+2015,1,1,4,Amari Cooper,Alabama,WR
+2015,2,1,7,Kevin White,West Virginia,WR
+2015,3,1,14,DeVante Parker,Louisville,WR
+2015,4,1,20,Nelson Agholor,USC,WR
+2015,5,1,26,Breshad Perriman,Central Florida,WR
+2015,6,1,29,Phillip Dorsett,Miami (FL),WR
+2015,7,2,5,Devin Smith,Ohio State,WR
+2015,8,2,8,Dorial Green-Beckham,Missouri,WR
+2015,9,2,9,Devin Funchess,Michigan,WR
+2015,10,3,5,Tyler Lockett,Kansas State,WR
+2015,11,3,6,Jaelen Strong,Arizona State,WR
+2015,12,3,12,Chris Conley,Georgia,WR
+2015,13,3,23,Sammie Coates,Auburn,WR
+2015,14,3,30,Ty Montgomery,Stanford,WR
+2015,15,4,6,Jamison Crowder,Duke,WR
+2015,16,4,8,Justin Hardy,East Carolina,WR
+2015,17,4,24,Vince Mayle,Washington State,WR
+2015,18,4,33,DeAndre Smelter,Georgia Tech,WR
+2015,19,5,3,Rashad Greene,Florida State,WR
+2015,20,5,10,Stefon Diggs,Maryland,WR
+2015,21,5,20,Tony Lippett,Michigan State,WR
+2015,22,5,23,J.J. Nelson,Alabama-Birmingham,WR
+2015,23,5,26,Kenny Bell,Nebraska,WR
+2015,24,5,39,Keith Mumphery,Michigan State,WR
+2015,25,6,8,Kaelin Clay,Utah,WR
+2015,26,6,10,Geremy Davis,Connecticut,WR
+2015,27,6,11,Evan Spencer,Ohio State,WR
+2015,28,6,25,Bud Sasser,Missouri,WR
+2015,29,6,28,Darren Waller,Georgia Tech,WR
+2015,30,7,3,Neal Sterling,Monmouth,WR
+2015,31,7,4,Andre Debose,Florida,WR
+2015,32,7,16,Da'Ron Brown,Northern Illinois,WR
+2015,33,7,17,Dezmin Lewis,Central Arkansas,WR
+2015,34,7,21,Mario Alford,West Virginia,WR
+2015,35,7,28,Tre McBride,William & Mary,WR
+2014,1,1,4,Sammy Watkins,Clemson,WR
+2014,2,1,7,Mike Evans,Texas A&M,WR
+2014,3,1,12,Odell Beckham,Louisiana State,WR
+2014,4,1,20,Brandin Cooks,Oregon State,WR
+2014,5,1,28,Kelvin Benjamin,Florida State,WR
+2014,6,2,7,Marqise Lee,USC,WR
+2014,7,2,10,Jordan Matthews,Vanderbilt,WR
+2014,8,2,13,Paul Richardson,Colorado,WR
+2014,9,2,21,Davante Adams,Fresno State,WR
+2014,10,2,24,Cody Latimer,Indiana,WR
+2014,11,2,29,Allen Robinson,Penn State,WR
+2014,12,2,31,Jarvis Landry,Louisiana State,WR
+2014,13,3,22,Josh Huff,Oregon,WR
+2014,14,3,26,Donte Moncrief,Mississippi,WR
+2014,15,3,27,John Brown,Pittsburg State (KS),WR
+2014,16,4,4,Jalen Saunders,Oklahoma,WR
+2014,17,4,6,Bruce Ellington,South Carolina,WR
+2014,18,4,15,Shaq Evans,UCLA,WR
+2014,19,4,18,Martavis Bryant,Clemson,WR
+2014,20,4,23,Kevin Norwood,Alabama,WR
+2014,21,5,2,Ryan Grant,Tulane,WR
+2014,22,5,6,Devin Street,Pittsburgh,WR
+2014,23,5,36,Jared Abbrederis,Wisconsin,WR
+2014,24,6,9,Robert Herron,Wyoming,WR
+2014,25,6,13,T.J. Jones,Notre Dame,WR
+2014,26,6,14,Matt Hazel,Coastal Carolina,WR
+2014,27,6,20,Walt Powell,Murray State,WR
+2014,28,6,33,Quincy Enunwa,Nebraska,WR
+2014,29,7,3,Mike Campanaro,Wake Forest,WR
+2014,30,7,21,Jeff Janis,Saginaw Valley State,WR
+2014,31,7,24,James Wright,Louisiana State,WR
+2014,32,7,25,Tevin Reese,Baylor,WR
+2014,33,7,29,Jeremy Gallon,Michigan,WR
+2013,1,1,8,Tavon Austin,West Virginia,WR
+2013,2,1,27,DeAndre Hopkins,Clemson,WR
+2013,3,1,29,Cordarrelle Patterson,Tennessee,WR
+2013,4,2,2,Justin Hunter,Tennessee,WR
+2013,5,2,9,Robert Woods,USC,WR
+2013,6,2,27,Aaron Dobson,Marshall,WR
+2013,7,3,12,Terrance Williams,Baylor,WR
+2013,8,3,14,Keenan Allen,California,WR
+2013,9,3,16,Marquise Goodwin,Texas,WR
+2013,10,3,17,Markus Wheaton,Oregon State,WR
+2013,11,3,30,Stedman Bailey,West Virginia,WR
+2013,12,4,4,Ace Sanders,South Carolina,WR
+2013,13,4,5,Josh Boyce,Texas Christian,WR
+2013,14,4,26,Chris Harper,Kansas State,WR
+2013,15,4,31,Quinton Patton,Louisiana Tech,WR
+2013,16,5,2,Denard Robinson,Michigan,WR
+2013,17,5,11,Kenny Stills,Oklahoma,WR
+2013,18,5,28,Tavarres King,Georgia,WR
+2013,19,6,3,Corey Fuller,Virginia Tech,WR
+2013,20,6,6,Ryan Swope,Texas A&M,WR
+2013,21,6,18,Justin Brown,Oklahoma,WR
+2013,22,6,27,Alan Bonner,Jacksonville State,WR
+2013,23,6,29,Cobi Hamilton,Arkansas,WR
+2013,24,7,3,Brice Butler,San Diego State,WR
+2013,25,7,10,Charles Johnson,Grand Valley State,WR
+2013,26,7,18,Kevin Dorsey,Maryland,WR
+2013,27,7,30,Marquess Wilson,Washington State,WR
+2013,28,7,32,Aaron Mellette,Elon,WR
+2012s,1,2,0,Josh Gordon,Baylor,WR
+2012,1,1,5,Justin Blackmon,Oklahoma State,WR
+2012,2,1,13,Michael Floyd,Notre Dame,WR
+2012,3,1,20,Kendall Wright,Baylor,WR
+2012,4,1,30,A.J. Jenkins,Illinois,WR
+2012,5,2,1,Brian Quick,Appalachian State,WR
+2012,6,2,11,Stephen Hill,Georgia Tech,WR
+2012,7,2,13,Alshon Jeffery,South Carolina,WR
+2012,8,2,22,Ryan Broyles,Oklahoma,WR
+2012,9,2,31,Rueben Randle,Louisiana State,WR
+2012,10,3,5,Devier Posey,Ohio State,WR
+2012,11,3,6,T.J. Graham,North Carolina State,WR
+2012,12,3,20,Mohamed Sanu,Rutgers,WR
+2012,13,3,29,T.Y. Hilton,Florida International,WR
+2012,14,4,1,Chris Givens,Wake Forest,WR
+2012,15,4,5,Travis Benjamin,Miami (FL),WR
+2012,16,4,9,Joe Adams,Arkansas,WR
+2012,17,4,12,Devon Wylie,Fresno State,WR
+2012,18,4,23,Jarius Wright,Arkansas,WR
+2012,19,4,26,Keshawn Martin,Michigan State,WR
+2012,20,4,27,Nick Toon,Wisconsin,WR
+2012,21,4,39,Greg Childs,Arkansas,WR
+2012,22,5,17,Danny Coale,Virginia Tech,WR
+2012,23,5,31,Marvin Jones,California,WR
+2012,24,5,33,Juron Criner,Arizona,WR
+2012,25,6,13,B.J. Cunningham,Michigan State,WR
+2012,26,6,24,Marvin McNutt,Iowa,WR
+2012,27,6,28,Tommy Streeter,Miami (FL),WR
+2012,28,6,36,LaVon Brazill,Ohio,WR
+2012,29,7,20,Rishard Matthews,Nevada,WR
+2012,30,7,24,Toney Clemons,Colorado,WR
+2012,31,7,28,Jeremy Ebert,Northwestern,WR
+2012,32,7,31,Junior Hemingway,Michigan,WR
+2012,33,7,37,Jordan White,Western Michigan,WR
+2011,1,1,4,A.J. Green,Georgia,WR
+2011,2,1,6,Julio Jones,Alabama,WR
+2011,3,1,26,Jonathan Baldwin,Pittsburgh,WR
+2011,4,2,12,Titus Young,Boise State,WR
+2011,5,2,26,Torrey Smith,Maryland,WR
+2011,6,2,27,Greg Little,North Carolina,WR
+2011,7,2,32,Randall Cobb,Kentucky,WR
+2011,8,3,14,Austin Pettis,Boise State,WR
+2011,9,3,15,Leonard Hankerson,Miami (FL),WR
+2011,10,3,18,Vincent Brown,San Diego State,WR
+2011,11,3,19,Jerrel Jernigan,Troy,WR
+2011,12,4,10,Kris Durham,Georgia,WR
+2011,13,4,14,Edmond Gates,Abilene Christian,WR
+2011,14,4,15,Greg Salas,Hawaii,WR
+2011,15,4,17,Cecil Shorts,Mount Union,WR
+2011,16,4,26,Tandon Doss,Indiana,WR
+2011,17,5,1,Kealoha Pilares,Hawaii,WR
+2011,18,5,17,Denarius Moore,Tennessee,WR
+2011,19,5,22,Jeremy Kerley,Texas Christian,WR
+2011,20,5,24,Niles Paul,Nebraska,WR
+2011,21,6,2,Ryan Whelan,Stanford,WR
+2011,22,6,11,Dwayne Harris,East Carolina,WR
+2011,23,6,13,Aldrick Robinson,Southern Methodist,WR
+2011,24,6,17,Ronald Johnson,USC,WR
+2011,25,7,24,Scotty McKnight,Colorado,WR
+2011,26,7,33,Stephen Burton,West Texas A&M,WR
+2011,27,7,38,David Ausberry,USC,WR
+2011,28,7,46,Demarco Sampson,San Diego State,WR
+2010,1,1,22,Demaryius Thomas,Georgia Tech,WR
+2010,2,1,24,Dez Bryant,Oklahoma State,WR
+2010,3,2,7,Arrelious Benn,Illinois,WR
+2010,4,2,28,Golden Tate,Notre Dame,WR
+2010,5,3,13,Damian Williams,USC,WR
+2010,6,3,14,Brandon LaFell,Louisiana State,WR
+2010,7,3,18,Emmanuel Sanders,Southern Methodist,WR
+2010,8,3,20,Jordan Shipley,Texas,WR
+2010,9,3,23,Eric Decker,Minnesota,WR
+2010,10,3,24,Andre Roberts,Citadel,WR
+2010,11,3,25,Armanti Edwards,Appalachian State,WR
+2010,12,3,26,Taylor Price,Ohio,WR
+2010,13,4,1,Mardy Gilyard,Cincinnati,WR
+2010,14,4,3,Mike Williams,Syracuse,WR
+2010,15,4,9,Marcus Easley,Connecticut,WR
+2010,16,4,10,Jacoby Ford,Clemson,WR
+2010,17,5,25,David Reed,Utah,WR
+2010,18,5,28,Riley Cooper,Florida,WR
+2010,19,5,34,Kerry Meier,Kansas,WR
+2010,20,6,8,Carlton Mitchell,South Florida,WR
+2010,21,6,22,Dezmon Briscoe,Kansas,WR
+2010,22,6,26,Antonio Brown,Central Michigan,WR
+2010,23,6,29,David Gettis,Baylor,WR
+2010,24,6,37,Kyle Williams,Arizona State,WR
+2010,25,7,12,Terrence Austin,UCLA,WR
+2010,26,7,15,Marc Mariani,Montana,WR
+2010,27,7,48,Timothy Toone,Weber State,WR
+2009,1,1,7,Darrius Heyward-Bey,Maryland,WR
+2009,2,1,10,Michael Crabtree,Texas Tech,WR
+2009,3,1,19,Jeremy Maclin,Missouri,WR
+2009,4,1,22,Percy Harvin,Florida,WR
+2009,5,1,29,Hakeem Nicks,North Carolina,WR
+2009,6,1,30,Kenny Britt,Rutgers,WR
+2009,7,2,4,Brian Robiskie,Ohio State,WR
+2009,8,2,18,Mohamed Massaquoi,Georgia,WR
+2009,9,3,18,Derrick Williams,Penn State,WR
+2009,10,3,19,Brandon Tate,North Carolina,WR
+2009,11,3,20,Mike Wallace,Mississippi,WR
+2009,12,3,21,Ramses Barden,Cal Poly,WR
+2009,13,3,23,Patrick Turner,USC,WR
+2009,14,3,27,Deon Butler,Penn State,WR
+2009,15,3,35,Juaquin Iglesias,Oklahoma,WR
+2009,16,4,7,Mike Thomas,Arizona,WR
+2009,17,4,8,Brian Hartline,Ohio State,WR
+2009,18,4,24,Louis Murphy,Florida,WR
+2009,19,4,27,Austin Collie,Brigham Young,WR
+2009,20,5,4,Johnny Knox,Abilene Christian,WR
+2009,21,5,5,Kenny McKinley,South Carolina,WR
+2009,22,5,8,Jarett Dillard,Rice,WR
+2009,23,5,24,Brooks Foster,North Carolina,WR
+2009,24,6,2,Quinten Lawrence,McNeese State,WR
+2009,25,6,21,Brandon Gibson,Washington State,WR
+2009,26,6,33,Dominique Edison,Stephen F. Austin,WR
+2009,27,7,15,Demetrius Byrd,Louisiana State,WR
+2009,28,7,20,Manuel Johnson,Oklahoma,WR
+2009,29,7,23,Julian Edelman,Kent State,WR
+2009,30,7,24,Sammie Stroughter,Oregon State,WR
+2009,31,7,34,Marko Mitchell,Nevada,WR
+2009,32,7,42,Derek Kinder,Pittsburgh,WR
+2009,33,7,43,Freddie Brown,Utah,WR
+2009,34,7,44,Tiquan Underwood,Rutgers,WR
+2008,1,2,2,Donnie Avery,Houston,WR
+2008,2,2,3,Devin Thomas,Michigan State,WR
+2008,3,2,5,Jordy Nelson,Kansas State,WR
+2008,4,2,10,James Hardy,Indiana,WR
+2008,5,2,11,Eddie Royal,Virginia Tech,WR
+2008,6,2,15,Jerome Simpson,Coastal Carolina,WR
+2008,7,2,18,DeSean Jackson,California,WR
+2008,8,2,20,Malcolm Kelly,Oklahoma,WR
+2008,9,2,22,Limas Sweed,Texas,WR
+2008,10,2,27,Dexter Jackson,Appalachian State,WR
+2008,11,3,7,Earl Bennett,Vanderbilt,WR
+2008,12,3,18,Early Doucet,Louisiana State,WR
+2008,13,3,21,Harry Douglas,Louisville,WR
+2008,14,3,32,Mario Manningham,Michigan,WR
+2008,15,3,34,Andre Caldwell,Florida,WR
+2008,16,4,6,William Franklin,Missouri,WR
+2008,17,4,7,Marcus Smith,New Mexico,WR
+2008,18,4,26,Arman Shields,Richmond,WR
+2008,19,4,27,Lavelle Hawkins,California,WR
+2008,20,4,29,Keenan Burton,Kentucky,WR
+2008,21,5,1,Kenneth Moore,Wake Forest,WR
+2008,22,5,18,Matthew Slater,UCLA,WR
+2008,23,6,5,Marcus Henry,Kansas,WR
+2008,24,6,8,Josh Morgan,Virginia Tech,WR
+2008,25,6,16,Kevin Robinson,Utah State,WR
+2008,26,6,25,Paul Hubbard,Wisconsin,WR
+2008,27,6,27,Jaymar Johnson,Jackson State,WR
+2008,28,6,39,Pierre Garcon,Mount Union,WR
+2008,29,7,8,Justin Harper,Virginia Tech,WR
+2008,30,7,10,Brett Swain,San Diego State,WR
+2008,31,7,17,Steve Johnson,Kentucky,WR
+2008,32,7,19,Chaz Schilens,San Diego State,WR
+2008,33,7,30,Adrian Arrington,Michigan,WR
+2008,34,7,39,Mario Urrutia,Louisville,WR
+2008,35,7,41,Marcus Monk,Arkansas,WR
+2007,1,1,2,Calvin Johnson,Georgia Tech,WR
+2007,2,1,9,Ted Ginn,Ohio State,WR
+2007,3,1,23,Dwayne Bowe,Louisiana State,WR
+2007,4,1,27,Robert Meachem,Tennessee,WR
+2007,5,1,30,Craig Davis,Louisiana State,WR
+2007,6,1,32,Anthony Gonzalez,Ohio State,WR
+2007,7,2,12,Sidney Rice,South Carolina,WR
+2007,8,2,13,Dwayne Jarrett,USC,WR
+2007,9,2,19,Steve Smith,USC,WR
+2007,10,3,9,Jacoby Jones,Lane,WR
+2007,11,3,10,Yamon Figurs,Kansas State,WR
+2007,12,3,11,Laurent Robinson,Illinois State,WR
+2007,13,3,12,Jason Hill,Washington State,WR
+2007,14,3,14,James Jones,San Jose State,WR
+2007,15,3,15,Mike Walker,Central Florida,WR
+2007,16,3,17,Paul Williams,Fresno State,WR
+2007,17,3,36,Johnnie Lee Higgins,Texas-El Paso,WR
+2007,18,4,19,Ryne Robinson,Miami (OH),WR
+2007,19,4,29,Chris Davis,Florida State,WR
+2007,20,5,5,Steve Breaston,Michigan,WR
+2007,21,5,9,Aundrae Allison,East Carolina,WR
+2007,22,5,20,David Clowney,Virginia Tech,WR
+2007,23,5,32,Roy Hall,Ohio State,WR
+2007,24,5,35,Legedu Naanee,Boise State,WR
+2007,25,6,14,Joel Filani,Texas Tech,WR
+2007,26,6,23,Courtney Taylor,Auburn,WR
+2007,27,6,36,Jordan Kent,Oregon,WR
+2007,28,7,17,Dallas Baker,Florida,WR
+2007,29,7,19,John Broussard,San Jose State,WR
+2007,30,7,23,Chandler Williams,Florida International,WR
+2007,31,7,24,Syndric Steptoe,Arizona,WR
+2007,32,7,25,Chansi Stuckey,Clemson,WR
+2007,33,7,39,Derek Stanley,Wisconsin-Whitewater,WR
+2007,34,7,44,Jonathan Holland,Louisiana Tech,WR
+2006,1,1,25,Santonio Holmes,Ohio State,WR
+2006,2,2,4,Chad Jackson,Florida,WR
+2006,3,2,12,Sinorice Moss,Miami (FL),WR
+2006,4,2,20,Greg Jennings,Western Michigan,WR
+2006,5,2,25,Devin Hester,Miami (FL),WR
+2006,6,3,14,Travis Wilson,Oklahoma,WR
+2006,7,3,18,Derek Hagan,Arizona State,WR
+2006,8,3,20,Brandon Williams,Wisconsin,WR
+2006,9,3,26,Maurice Stovall,Notre Dame,WR
+2006,10,3,31,Willie Reid,Florida State,WR
+2006,11,4,6,Brad Smith,Missouri,WR
+2006,12,4,7,Cory Rodgers,Texas Christian,WR
+2006,13,4,12,Jason Avant,Michigan,WR
+2006,14,4,14,Demetrius Williams,Oregon,WR
+2006,15,4,18,Will Blackmon,Boston College,WR
+2006,16,4,22,Brandon Marshall,Central Florida,WR
+2006,17,4,28,Skyler Green,Louisiana State,WR
+2006,18,4,33,Domenik Hixon,Akron,WR
+2006,19,5,11,Marques Hagans,Virginia,WR
+2006,20,5,14,Jeremy Bloom,Colorado,WR
+2006,21,6,2,Mike Hass,Oregon State,WR
+2006,22,6,3,Jonathan Orr,Wisconsin,WR
+2006,23,6,6,Delanie Walker,Central Missouri State,WR
+2006,24,6,15,Adam Jennings,Fresno State,WR
+2006,25,6,21,Jeff Webb,San Diego State,WR
+2006,26,7,1,Ethan Kilmer,Penn State,WR
+2006,27,7,10,Todd Watkins,Brigham Young,WR
+2006,28,7,23,Bennie Brazell,Louisiana State,WR
+2006,29,7,25,Devin Aromashodu,Auburn,WR
+2006,30,7,41,Ben Obomanu,Auburn,WR
+2006,31,7,43,David Anderson,Colorado State,WR
+2006,32,7,44,Marques Colston,Hofstra,WR
+2006,33,7,47,Kevin McMahan,Maine,WR
+2005,1,1,3,Braylon Edwards,Michigan,WR
+2005,2,1,7,Troy Williamson,South Carolina,WR
+2005,3,1,10,Mike Williams,USC,WR
+2005,4,1,21,Matt Jones,Arkansas,WR
+2005,5,1,22,Mark Clayton,Oklahoma,WR
+2005,6,1,27,Roddy White,Alabama-Birmingham,WR
+2005,7,2,3,Reggie Brown,Georgia,WR
+2005,8,2,7,Mark Bradley,Oklahoma,WR
+2005,9,2,23,Roscoe Parrish,Miami (FL),WR
+2005,10,2,26,Terrence Murphy,Texas A&M,WR
+2005,11,2,29,Vincent Jackson,Northern Colorado,WR
+2005,12,3,4,Courtney Roby,Indiana,WR
+2005,13,3,19,Chris Henry,West Virginia,WR
+2005,14,3,32,Brandon Jones,Oklahoma,WR
+2005,15,4,13,Jerome Mathis,Hampton,WR
+2005,16,4,15,Craphonso Thorpe,Florida State,WR
+2005,17,4,17,Chase Lyman,California,WR
+2005,18,4,30,Fred Gibson,Georgia,WR
+2005,19,4,35,Roydell Williams,Tulane,WR
+2005,20,5,4,Airese Currie,Clemson,WR
+2005,21,5,19,Larry Brackins,Pearl River C.C.,WR
+2005,22,5,38,Rasheed Marshall,West Virginia,WR
+2005,23,6,11,Chad Owens,Hawaii,WR
+2005,24,6,16,Tab Perry,UCLA,WR
+2005,25,6,18,Dante Ridgeway,Ball State,WR
+2005,26,6,21,Craig Bragg,UCLA,WR
+2005,27,7,9,Marcus Maxwell,Oregon,WR
+2005,28,7,11,Paris Warren,Utah,WR
+2005,29,7,12,LeRon McCoy,Indiana (PA),WR
+2005,30,7,26,Harry Williams,Tuskegee,WR
+2005,31,7,39,J.R. Russell,Louisville,WR
+2004,1,1,3,Larry Fitzgerald,Pittsburgh,WR
+2004,2,1,7,Roy Williams,Texas,WR
+2004,3,1,9,Reggie Williams,Washington,WR
+2004,4,1,13,Lee Evans,Wisconsin,WR
+2004,5,1,15,Michael Clayton,Louisiana State,WR
+2004,6,1,29,Michael Jenkins,Ohio State,WR
+2004,7,1,31,Rashaun Woods,Oklahoma State,WR
+2004,8,2,18,Devery Henderson,Louisiana State,WR
+2004,9,2,22,Darius Watts,Marshall,WR
+2004,10,2,30,Keary Colbert,USC,WR
+2004,11,3,14,Derrick Hamilton,Clemson,WR
+2004,12,3,15,Bernard Berrian,Fresno State,WR
+2004,13,3,19,Devard Darling,Washington State,WR
+2004,14,4,3,Carlos Francis,Texas Tech,WR
+2004,15,4,9,Samie Parker,Oregon,WR
+2004,16,4,12,Jerricho Cotchery,North Carolina State,WR
+2004,17,4,24,Ernest Wilford,Virginia Tech,WR
+2004,18,5,2,Johnnie Morant,Syracuse,WR
+2004,19,5,17,Maurice Mann,Nevada,WR
+2004,20,5,25,D.J. Hackett,Colorado,WR
+2004,21,5,31,Drew Carter,Ohio State,WR
+2004,22,5,32,P.K. Sam,Florida State,WR
+2004,23,6,3,Jamaar Taylor,Texas A&M,WR
+2004,24,6,4,Ryan Krause,Nebraska-Omaha,WR
+2004,25,6,6,Triandos Luke,Alabama,WR
+2004,26,6,30,Jeris McIntyre,Auburn,WR
+2004,27,6,34,Clarence Moore,Northern Arizona,WR
+2004,28,7,5,Mark Jones,Tennessee,WR
+2004,29,7,10,Sloan Thomas,Texas,WR
+2004,30,7,15,Patrick Crayton,Northwestern Oklahoma,WR
+2004,31,7,43,Derek Abney,Kentucky,WR
+2003,1,1,2,Charles Rogers,Michigan State,WR
+2003,2,1,3,Andre Johnson,Miami (FL),WR
+2003,3,1,17,Bryant Johnson,Penn State,WR
+2003,4,2,12,Taylor Jacobs,Florida,WR
+2003,5,2,13,Bethel Johnson,Texas A&M,WR
+2003,6,2,22,Anquan Boldin,Florida State,WR
+2003,7,2,28,Tyrone Calico,Middle Tennessee State,WR
+2003,8,2,31,Teyo Johnson,Stanford,WR
+2003,9,3,1,Kelley Washington,Tennessee,WR
+2003,10,3,7,Nate Burleson,Nevada,WR
+2003,11,3,10,Kevin Curtis,Utah State,WR
+2003,12,3,31,Billy McMullen,Virginia,WR
+2003,13,4,9,Shaun McDonald,Arizona State,WR
+2003,14,4,27,Brandon Lloyd,Illinois,WR
+2003,15,4,30,Sam Aiken,North Carolina,WR
+2003,16,5,4,Bobby Wade,Arizona,WR
+2003,17,5,8,Justin Gage,Missouri,WR
+2003,18,5,23,Adrian Madise,Texas Christian,WR
+2003,19,5,24,Jon Olinger,Cincinnati,WR
+2003,20,5,32,Doug Gabriel,Central Florida,WR
+2003,21,5,34,J.R. Tolver,San Diego State,WR
+2003,22,6,2,David Kircus,Grand Valley State,WR
+2003,23,6,13,Zuriel Smith,Hampton,WR
+2003,24,6,23,LaTarence Dunbar,Texas Christian,WR
+2003,25,6,24,Arnaz Battle,Notre Dame,WR
+2003,26,6,26,Willie Ponder,Southeast Missouri State,WR
+2003,27,6,30,Kareem Kelly,USC,WR
+2003,28,6,38,David Tyree,Syracuse,WR
+2003,29,7,7,Keenan Howry,Oregon,WR
+2003,30,7,10,Taco Wallace,Kansas State,WR
+2003,31,7,12,Walter Young,Illinois,WR
+2003,32,7,17,Talman Gardner,Florida State,WR
+2003,33,7,39,DeAndrew Rubin,South Florida,WR
+2003,34,7,41,Kevin Walter,Eastern Michigan,WR
+2003,35,7,42,Carl Ford,Toledo,WR
+2003,36,7,46,Travis Anglin,Memphis,WR
+2003,37,7,48,Ryan Hoag,Gustavus Adolphus,WR
+2002,1,1,13,Donte' Stallworth,Tennessee,WR
+2002,2,1,19,Ashley Lelie,Hawaii,WR
+2002,3,1,20,Javon Walker,Florida State,WR
+2002,4,2,1,Jabar Gaffney,Florida,WR
+2002,5,2,4,Josh Reed,Louisiana State,WR
+2002,6,2,14,Tim Carter,Auburn,WR
+2002,7,2,15,Andre' Davis,Virginia Tech,WR
+2002,8,2,16,Reche Caldwell,Florida,WR
+2002,9,2,30,Antwaan Randle El,Indiana,WR
+2002,10,2,31,Antonio Bryant,Pittsburgh,WR
+2002,11,2,33,Deion Branch,Louisville,WR
+2002,12,3,21,Marquis Walker,Michigan,WR
+2002,13,3,22,Cliff Russell,Utah,WR
+2002,14,3,30,Eric Crouch,Nebraska,WR
+2002,15,4,25,Ron Johnson,Minnesota,WR
+2002,16,5,7,Terry Charles,Portland State,WR
+2002,17,5,9,Herb Haygood,Michigan State,WR
+2002,18,5,14,Jason McAddley,Alabama,WR
+2002,19,5,16,Jake Schifino,Akron,WR
+2002,20,5,27,Freddie Milons,Alabama,WR
+2002,21,5,35,Sam Simmons,Northwestern,WR
+2002,22,6,12,Kahlil Hill,Iowa,WR
+2002,23,6,23,LaMont Brightful,Eastern Washington,WR
+2002,24,6,30,Lee Mays,Texas-El Paso,WR
+2002,25,6,31,Jamin Elliott,Delaware,WR
+2002,26,6,34,Javin Hunter,Notre Dame,WR
+2002,27,6,36,Deveren Johnson,Sacred Heart,WR
+2002,28,7,6,Michael Coleman,Widener,WR
+2002,29,7,11,Kendall Newson,Middle Tennessee State,WR
+2002,30,7,14,Darrell Hill,Northern Illinois,WR
+2002,31,7,15,Daryl Jones,Miami (FL),WR
+2002,32,7,33,David Givens,Notre Dame,WR
+2002,33,7,39,Rodney Wright,Fresno State,WR
+2002,34,7,43,Aaron Lockett,Kansas State,WR
+2001,1,1,8,David Terrell,Michigan,WR
+2001,2,1,9,Koren Robinson,North Carolina State,WR
+2001,3,1,15,Rod Gardner,Clemson,WR
+2001,4,1,16,Santana Moss,Miami (FL),WR
+2001,5,1,25,Freddie Mitchell,UCLA,WR
+2001,6,1,30,Reggie Wayne,Miami (FL),WR
+2001,7,2,2,Quincy Morgan,Kansas State,WR
+2001,8,2,5,Chad Johnson,Oregon State,WR
+2001,9,2,10,Robert Ferguson,Texas A&M,WR
+2001,10,2,21,Chris Chambers,Wisconsin,WR
+2001,11,3,12,Steve Smith,Utah,WR
+2001,12,3,15,Marvin Minnis,Florida State,WR
+2001,13,4,21,Milton Wynn,Washington State,WR
+2001,14,4,29,Justin McCareins,Northern Illinois,WR
+2001,15,4,36,Cedric James,Texas Christian,WR
+2001,16,5,5,Vinny Sutherland,Purdue,WR
+2001,17,5,9,Alex Bannister,Eastern Kentucky,WR
+2001,18,5,17,Scotty Anderson,Grambling State,WR
+2001,19,5,22,Onomo Ojo,California-Davis,WR
+2001,20,5,23,Darnerien McCants,Delaware State,WR
+2001,21,5,28,Eddie Berlin,Northern Iowa,WR
+2001,22,5,31,Jonathan Carter,Troy,WR
+2001,23,6,3,Bobby Newcombe,Nebraska,WR
+2001,24,6,6,Cedrick Wilson,Tennessee,WR
+2001,25,6,27,Kevin Kasper,Iowa,WR
+2001,26,6,34,Francis St. Paul,Northern Arizona,WR
+2001,27,6,35,David Martin,Tennessee,WR
+2001,28,7,4,T.J. Houshmandzadeh,Oregon State,WR
+2001,29,7,8,John Capel,Florida,WR
+2001,30,7,14,Reggie Germany,Ohio State,WR
+2001,31,7,18,Chris Taylor,Texas A&M,WR
+2001,32,7,29,Ken-Yon Rambo,Ohio State,WR
+2001,33,7,35,Richmond Flowers,Chattanooga,WR
+2001,34,7,36,Quentin McCord,Kentucky,WR
+2001,35,7,45,Andre King,Miami (FL),WR
+2000,1,1,4,Peter Warrick,Florida State,WR
+2000,2,1,8,Plaxico Burress,Michigan State,WR
+2000,3,1,10,Travis Taylor,Florida,WR
+2000,4,1,21,Sylvester Morris,Jackson State,WR
+2000,5,1,29,R. Jay Soward,USC,WR
+2000,6,2,1,Dennis Northcutt,Arizona,WR
+2000,7,2,5,Todd Pinkston,Southern Mississippi,WR
+2000,8,2,16,Jerry Porter,West Virginia,WR
+2000,9,3,4,Ron Dugans,Florida State,WR
+2000,10,3,7,Dez White,Georgia Tech,WR
+2000,11,3,8,Chris Cole,Texas A&M,WR
+2000,12,3,11,Ron Dixon,Lambuth (TN),WR
+2000,13,3,16,Laveranues Coles,Florida State,WR
+2000,14,3,17,JaJuan Dawson,Tulane,WR
+2000,15,3,18,Darrell Jackson,Florida,WR
+2000,16,4,5,Gari Scott,Michigan State,WR
+2000,17,4,9,Danny Farmer,UCLA,WR
+2000,18,4,17,Trevor Gaylor,Miami (OH),WR
+2000,19,4,20,Anthony Lucas,Arkansas,WR
+2000,20,4,27,Avion Black,Tennessee State,WR
+2000,21,5,14,Windrell Hayes,USC,WR
+2000,22,5,22,Joey Jamison,Texas Southern,WR
+2000,23,5,25,Muneer Moore,Richmond,WR
+2000,24,5,36,Troy Walters,Stanford,WR
+2000,25,6,6,Mareno Philyaw,Troy,WR
+2000,26,6,9,James Williams,Marshall,WR
+2000,27,6,30,Emanuel Smith,Arkansas,WR
+2000,28,6,34,Sherrod Gideon,Southern Mississippi,WR
+2000,29,7,2,Desmond Kitchings,Furman,WR
+2000,30,7,27,Drew Haddad,Buffalo,WR
+2000,31,7,36,Charles Lee,Central Florida,WR
+2000,32,7,40,Leroy Fields,Jackson State,WR
+2000,33,7,44,Ethan Howell,Oklahoma State,WR
+1999,1,1,6,Torry Holt,North Carolina State,WR
+1999,2,1,8,David Boston,Ohio State,WR
+1999,3,1,13,Troy Edwards,Louisiana Tech,WR
+1999,4,2,1,Kevin Johnson,Syracuse,WR
+1999,5,2,22,Peerless Price,Tennessee,WR
+1999,6,3,10,D'Wayne Bates,Northwestern,WR
+1999,7,3,17,Marty Booker,N.E. Louisiana,WR
+1999,8,3,21,Karsten Bailey,Auburn,WR
+1999,9,3,32,Travis McGriff,Florida,WR
+1999,10,4,3,Craig Yeast,Kentucky,WR
+1999,11,4,7,Dameane Douglas,California,WR
+1999,12,4,10,Brandon Stokley,Southwestern Louisiana,WR
+1999,13,4,13,Larry Parker,USC,WR
+1999,14,4,23,Wane McGarity,Texas,WR
+1999,15,4,35,Na Brown,North Carolina,WR
+1999,16,5,15,Darrin Chiaverini,Colorado,WR
+1999,17,5,19,Charlie Rogers,Georgia Tech,WR
+1999,18,5,31,Eugene Baker,Kent State,WR
+1999,19,5,33,Malcolm Johnson,Notre Dame,WR
+1999,20,6,2,Tai Streets,Michigan,WR
+1999,21,6,17,Darran Hall,Colorado State,WR
+1999,22,6,24,MarTay Jenkins,Nebraska-Omaha,WR
+1999,23,6,27,Dee Miller,Ohio State,WR
+1999,24,6,32,Troy Smith,East Carolina,WR
+1999,25,6,35,Chad Plummer,Cincinnati,WR
+1999,26,7,7,Donald Driver,Alcorn State,WR
+1999,27,7,11,Tim Alexander,Oregon State,WR
+1999,28,7,12,Billy Miller,USC,WR
+1999,29,7,15,Sulecio Sanford,Middle Tennessee State,WR
+1999,30,7,34,Darnell McDonald,Kansas State,WR
+1999,31,7,35,Sean Morey,Brown,WR
+1999,32,7,41,Rondel Menendez,Eastern Kentucky,WR
+1998,1,1,16,Kevin Dyson,Utah,WR
+1998,2,1,21,Randy Moss,Marshall,WR
+1998,3,1,30,Marcus Nash,Tennessee,WR
+1998,4,2,2,Jerome Pathon,Washington,WR
+1998,5,2,4,Jacquez Green,Florida,WR
+1998,6,2,12,Patrick Johnson,Oregon,WR
+1998,7,2,20,Germane Crowell,Virginia,WR
+1998,8,2,22,Tony Simmons,Wisconsin,WR
+1998,9,2,25,Joe Jurevicius,Penn State,WR
+1998,10,2,29,Mikhael Ricks,Stephen F. Austin,WR
+1998,11,3,9,Brian Alford,Purdue,WR
+1998,12,3,10,E.G. Green,Florida State,WR
+1998,13,3,13,Jammi German,Miami (FL),WR
+1998,14,3,21,Larry Shannon,East Carolina,WR
+1998,15,3,31,Hines Ward,Georgia,WR
+1998,16,4,4,Az Hakim,San Diego State,WR
+1998,17,4,14,Donald Hayes,Wisconsin,WR
+1998,18,4,22,Tim Dwight,Iowa,WR
+1998,19,5,27,Corey Bradford,Jackson State,WR
+1998,20,6,7,Fred Coleman,Washington,WR
+1998,21,6,14,Jason Tucker,Texas Christian,WR
+1998,22,6,16,Bobby Shaw,California,WR
+1998,23,6,17,Patrick Palmer,Northwestern State (LA),WR
+1998,24,6,21,Chris Brazzell,Angelo State,WR
+1998,25,7,3,Alvis Whitted,North Carolina State,WR
+1998,26,7,4,Phil Savoy,Colorado,WR
+1998,27,7,15,Andy McCullough,Tennessee,WR
+1998,28,7,26,Ryan Thelwell,Minnesota,WR
+1998,29,7,39,Jim Turner,Syracuse,WR
+1998,30,7,45,Kio Sanford,Kentucky,WR
+1998,31,7,49,Kamil Loud,Cal Poly-San Luis Obispo,WR
+1997,1,1,7,Ike Hilliard,Florida,WR
+1997,2,1,15,Yatil Green,Miami (FL),WR
+1997,3,1,16,Reidel Anthony,Florida,WR
+1997,4,1,27,Rae Carruth,Colorado,WR
+1997,5,2,16,Joey Kent,Tennessee,WR
+1997,6,2,17,Kevin Lockett,Kansas State,WR
+1997,7,2,23,Will Blackwell,San Diego State,WR
+1997,8,3,28,Dedric Ward,Northern Iowa,WR
+1997,9,4,2,Derrick Mason,Michigan State,WR
+1997,10,4,12,Marcus Robinson,South Carolina,WR
+1997,11,4,19,Albert Connell,Texas A&M,WR
+1997,12,4,20,Keith Poole,Arizona State,WR
+1997,13,4,31,Macey Brooks,James Madison,WR
+1997,14,5,9,Chad Carpenter,Washington State,WR
+1997,15,5,20,Nathaniel Jacquet,San Diego State,WR
+1997,16,6,7,Brian Manning,Stanford,WR
+1997,17,6,20,Robert Tate,Cincinnati,WR
+1997,18,6,27,Antwuan Wyatt,Bethune-Cookman,WR
+1997,19,6,29,Tony Gaiter,Miami (FL),WR
+1997,20,6,32,Isaac Byrd,Kansas,WR
+1997,21,6,34,Nigea Carter,Michigan State,WR
+1997,22,7,12,Chris Miller,USC,WR
+1997,23,7,22,Michael Adams,Texas,WR
+1997,24,7,31,Marcus Harris,Wyoming,WR
+1997,25,7,34,Matthew Hatchette,Langston,WR
+1996,1,1,1,Keyshawn Johnson,USC,WR
+1996,2,1,7,Terry Glenn,Ohio State,WR
+1996,3,1,18,Eddie Kennison,Louisiana State,WR
+1996,4,1,19,Marvin Harrison,Syracuse,WR
+1996,5,1,24,Eric Moulds,Mississippi State,WR
+1996,6,2,1,Alex Van Dyke,Nevada,WR
+1996,7,2,4,Amani Toomer,Michigan,WR
+1996,8,2,11,Bryan Still,Virginia Tech,WR
+1996,9,2,13,Muhsin Muhammad,Michigan State,WR
+1996,10,2,22,Bobby Engram,Penn State,WR
+1996,11,2,26,Derrick Mayes,Notre Dame,WR
+1996,12,3,28,Terrell Owens,Tennessee-Chattanooga,WR
+1996,13,3,33,Stepfret Williams,N.E. Louisiana,WR
+1996,14,4,15,Reggie Barlow,Alabama State,WR
+1996,15,4,19,Charlie Jones,Fresno State,WR
+1996,16,4,37,Jahine Arnold,Fresno State,WR
+1996,17,5,3,Joe Horn,Itawamba C.C.,WR
+1996,18,5,4,Mercury Hayes,Michigan,WR
+1996,19,5,21,Jermaine Lewis,Maryland,WR
+1996,20,5,27,Patrick Jeffers,Virginia,WR
+1996,21,5,28,Iheanyi Uwaezukoe,California,WR
+1996,22,5,33,Terry Guess,Gardner-Webb,WR
+1996,23,6,9,Dietrich Jells,Pittsburgh,WR
+1996,24,6,13,Nilo Silvan,Tennessee,WR
+1996,25,6,18,Chris Doering,Florida,WR
+1996,26,6,19,James Roe,Norfolk State,WR
+1996,27,6,32,Philip Riley,Florida State,WR
+1996,28,6,37,Toderick Malone,Alabama,WR
+1996,29,7,8,Donnell Baker,Southern,WR
+1996,30,7,18,Clarence Jones,Tennessee State,WR
+1996,31,7,19,Gregory Spann,Jackson State,WR
+1996,32,7,41,DeAndre Maxwell,San Diego State,WR
+1996,33,7,42,Brice Hunter,Georgia,WR
+1995,1,1,4,Michael Westbrook,Colorado,WR
+1995,2,1,8,Joey Galloway,Ohio State,WR
+1995,3,1,10,J.J. Stokes,UCLA,WR
+1995,4,2,15,Frank Sanders,Auburn,WR
+1995,5,2,29,Jimmy Oliver,Texas Christian,WR
+1995,6,3,3,Chris Sanders,Ohio State,WR
+1995,7,3,14,Chris T. Jones,Miami (FL),WR
+1995,8,3,17,Tamarick Vanover,Florida State,WR
+1995,9,3,26,Antonio Freeman,Virginia Tech,WR
+1995,10,4,9,Tyrone Davis,Virginia,WR
+1995,11,4,12,Eric Bjornson,Washington,WR
+1995,12,4,15,Justin Armour,Stanford,WR
+1995,13,4,18,Jack Jackson,Florida,WR
+1995,14,5,1,Michael Senters,Northwestern,WR
+1995,15,5,5,David Dunn,Fresno State,WR
+1995,16,5,11,Roell Preston,Mississippi,WR
+1995,17,5,13,Mike Miller,Notre Dame,WR
+1995,18,5,22,Kez McCorvey,Florida State,WR
+1995,19,5,28,Omar Ellison,Florida State,WR
+1995,20,5,32,Edward Hervey,USC,WR
+1995,21,6,2,Charlie Simmons,Georgia Tech,WR
+1995,22,6,12,Brandon Harrison,Howard Payne,WR
+1995,23,6,13,Lee DeRamus,Wisconsin,WR
+1995,24,6,32,Eddie Goines,North Carolina State,WR
+1995,25,7,4,Billy Williams,Tennessee,WR
+1995,26,7,9,Curtis Ceaser,Grambling State,WR
+1995,27,7,11,Curtis Marsh,Utah,WR
+1995,28,7,14,Byron Chamberlain,Wayne State (NE),WR
+1995,29,7,23,A.C. Tellison,Miami (FL),WR
+1995,30,7,27,Henry Bailey,UNLV,WR
+1995,31,7,32,J.T. Thomas,Arizona State,WR
+1995,32,7,38,Shannon Myers,Lenoir-Rhyne,WR
+1994,1,1,17,Charles Johnson,Colorado,WR
+1994,2,1,21,Johnnie Morton,USC,WR
+1994,3,1,24,Thomas Lewis,Indiana,WR
+1994,4,1,29,Derrick Alexander,Michigan,WR
+1994,5,2,1,Darnay Scott,San Diego State,WR
+1994,6,2,4,Isaac Bruce,Memphis,WR
+1994,7,2,6,Kevin Lee,Alabama,WR
+1994,8,2,11,David Palmer,Alabama,WR
+1994,9,2,12,Ryan Yarborough,Wyoming,WR
+1994,10,2,16,Bert Emanuel,Rice,WR
+1994,11,2,19,Bucky Brooks,North Carolina,WR
+1994,12,3,3,Tydus Winans,Fresno State,WR
+1994,13,3,5,Andre Coleman,Kansas State,WR
+1994,14,3,22,Cory Fleming,Tennessee,WR
+1994,15,3,27,Lake Dawson,Notre Dame,WR
+1994,16,3,31,Chris Penn,Tulsa,WR
+1994,17,3,36,Malcom Seabron,Fresno State,WR
+1994,18,4,5,Chris Brantley,Rutgers,WR
+1994,19,4,6,Willie Jackson,Florida,WR
+1994,20,4,14,Orlando Parker,Troy,WR
+1994,21,5,7,Harrison Houston,Florida,WR
+1994,22,5,15,Terry Mickens,Florida A&M,WR
+1994,23,6,8,Jay Kearney,West Virginia,WR
+1994,24,6,9,Lloyd Hill,Texas Tech,WR
+1994,25,6,15,Darrell Mitchell,Texas Tech,WR
+1994,26,6,20,Bill Schroeder,Wisconsin-La Crosse,WR
+1994,27,6,26,Lee Gissendaner,Northwestern,WR
+1994,28,6,31,Kevin Knox,Florida State,WR
+1993,1,1,7,Curtis Conway,USC,WR
+1993,2,1,16,Sean Dawkins,California,WR
+1993,3,1,25,O.J. McDuffie,Penn State,WR
+1993,4,2,17,Kevin Williams,Miami (FL),WR
+1993,5,2,21,Victor Bailey,Missouri,WR
+1993,6,2,23,Qadry Ismail,Syracuse,WR
+1993,7,2,27,Vincent Brisby,N.E. Louisiana,WR
+1993,8,3,4,Lamar Thomas,Miami (FL),WR
+1993,9,3,20,Andre Hastings,Georgia,WR
+1993,10,4,18,Travis Hannah,USC,WR
+1993,11,4,20,Horace Copeland,Miami (FL),WR
+1993,12,4,27,Russell Copeland,Memphis,WR
+1993,13,5,2,Terrance Warren,Hampton,WR
+1993,14,5,10,Sean LaChapelle,UCLA,WR
+1993,15,5,13,Olanda Truitt,Mississippi State,WR
+1993,16,5,17,Kenny Shedd,Northern Iowa,WR
+1993,17,5,22,Walter Dunson,Middle Tennessee State,WR
+1993,18,6,14,Melvin Bonner,Baylor,WR
+1993,19,7,8,Tyree Davis,Central Arkansas,WR
+1993,20,7,14,Antonius Kimbrough,Jackson State,WR
+1993,21,7,18,Danan Hughes,Iowa,WR
+1993,22,7,19,Partick Robinson,Tennessee State,WR
+1993,23,7,27,Willie Harris,Mississippi State,WR
+1993,24,8,2,Troy Brown,Marshall,WR
+1993,25,8,9,Shannon Baker,Florida State,WR
+1993,26,8,14,Brian Stablein,Ohio State,WR
+1993,27,8,19,Stevie Anderson,Grambling State,WR
+1993,28,8,24,Darrick Branch,Hawaii,WR
+1992,1,1,4,Desmond Howard,Michigan,WR
+1992,2,2,3,Carl Pickens,Tennessee,WR
+1992,3,2,8,Jimmy Smith,Jackson State,WR
+1992,4,2,16,Courtney Hawkins,Michigan State,WR
+1992,5,2,24,Patrick Rowe,San Diego State,WR
+1992,6,3,4,Todd Kinchen,Louisiana State,WR
+1992,7,3,6,Robert Brooks,South Carolina,WR
+1992,8,3,7,Ray Ethridge,Pasadena City College,WR
+1992,9,3,21,Corey Harris,Vanderbilt,WR
+1992,10,4,10,Charles Davenport,North Carolina State,WR
+1992,11,5,18,Orlando McKay,Washington,WR
+1992,12,5,26,Torrance Small,Alcorn State,WR
+1992,13,6,1,Shoun Habersham,Tennessee-Chattanooga,WR
+1992,14,6,3,Rico Smith,Colorado,WR
+1992,15,6,10,Michael Bates,Arizona,WR
+1992,16,6,19,Tony Smith,Notre Dame,WR
+1992,17,6,20,Jeff Sydner,Hawaii,WR
+1992,18,6,22,Mario Bailey,Washington,WR
+1992,19,7,8,Wayne Hawkins,SW Minnesota,WR
+1992,20,7,21,Elbert Tuener,Illinois,WR
+1992,21,7,22,Chris Holder,Tuskegee,WR
+1992,22,7,24,John Brown,Houston,WR
+1992,23,7,25,Jon Bostick,Nebraska,WR
+1992,24,8,6,Eric Blount,North Carolina,WR
+1992,25,8,23,Vincent Brownlee,Mississippi,WR
+1992,26,9,1,Eddie Miller,South Carolina,WR
+1992,27,9,7,Johnnie Barnes,Hampton,WR
+1992,28,9,13,Ronnie West,Pittsburg State (KS),WR
+1992,29,9,15,Tyrone Williams,Western Ontario,WR
+1992,30,9,18,Darian Hagan,Colorado,WR
+1992,31,9,27,Chris Walsh,Stanford,WR
+1992,32,10,22,Dion Johnson,East Carolina,WR
+1992,33,10,24,Marcus Dowdell,Tennessee State,WR
+1992,34,10,27,Barry Rose,Wisconsin-Stevens Point,WR
+1992,35,11,2,Brian Thomas,Southern,WR
+1992,36,11,9,Augustin Olobia,Washington State,WR
+1992,37,11,12,Nate Singleton,Grambling State,WR
+1992,38,11,13,Eric Boles,Central Washington,WR
+1992,39,11,14,Lee Miles,Baylor,WR
+1992,40,11,22,Tim Daniel,Florida A&M,WR
+1992,41,11,25,Cedric Tillman,Alcorn State,WR
+1992,42,11,28,Terry Smith,Penn State,WR
+1992,43,12,14,Joe Randolph,Elon,WR
+1992,44,12,15,Charles Swann,Indiana State,WR
+1992,45,12,25,Freeman Baysinger,Humboldt State,WR
+1991,1,1,10,Herman Moore,Virginia,WR
+1991,2,1,12,Alvin Harper,Tennessee,WR
+1991,3,1,13,Mike Pritchard,Colorado,WR
+1991,4,1,23,Randal Hill,Miami (FL),WR
+1991,5,2,15,Wesley Carroll,Miami (FL),WR
+1991,6,2,19,Jeff Graham,Ohio State,WR
+1991,7,2,24,Doug Thomas,Clemson,WR
+1991,8,3,3,Reggie Barrett,Texas-El Paso,WR
+1991,9,3,11,Lawrence Dawsey,Florida State,WR
+1991,10,3,13,Jake Reed,Grambling State,WR
+1991,11,3,18,Ernie Mills,Florida,WR
+1991,12,3,19,David Daniels,Penn State,WR
+1991,13,3,22,Tim Barnett,Jackson State,WR
+1991,14,3,28,Ed McCaffrey,Stanford,WR
+1991,15,4,6,Derek Russell,Arkansas,WR
+1991,16,4,7,Yancey Thigpen,Winston-Salem State,WR
+1991,17,4,17,Raghib Ismail,Notre Dame,WR
+1991,18,4,26,Rob Carpenter,Syracuse,WR
+1991,19,5,18,Gary Wellman,USC,WR
+1991,20,5,23,Anthony Morgan,Tennessee,WR
+1991,21,6,2,Michael Jackson,Southern Mississippi,WR
+1991,22,6,27,Millard Hamilton,Clark,WR
+1991,23,7,10,David Jones,Delaware State,WR
+1991,24,7,14,James Bradley,Michigan State,WR
+1991,25,8,8,Johnny Walker,Texas,WR
+1991,26,8,26,Tony Hargain,Oregon Tech,WR
+1991,27,8,27,Brad Lamb,Anderson,WR
+1991,28,9,10,Treamelle Taylor,Nevada,WR
+1991,29,9,12,Damon Mays,Missouri,WR
+1991,30,9,16,Shawn Wiggins,Wyoming,WR
+1991,31,9,17,Shawn Jefferson,Central Florida,WR
+1991,32,9,18,Shane Garrett,Texas A&M,WR
+1991,33,9,23,Scott Miller,UCLA,WR
+1991,34,9,27,Jerry Bouldin,Mississippi State,WR
+1991,35,10,3,Curtis Mayfield,Oklahoma State,WR
+1991,36,10,6,Walter Sutton,SW Minnesota,WR
+1991,37,11,1,Vince Moore,Tennessee,WR
+1991,38,11,7,Slip Watkins,Louisiana State,WR
+1991,39,11,12,Joachim Weinberg,Johnson C. Smith,WR
+1991,40,11,22,Bobby Olive,Ohio State,WR
+1991,41,11,26,Bobby Slaughter,Louisiana Tech,WR
+1991,42,12,7,Darren Hughes,Carson-Newman,WR
+1991,43,12,10,Linzy Collins,Missouri,WR
+1991,44,12,19,Alex Johnson,Miami (FL),WR
+1991,45,12,20,Keenan McCardell,UNLV,WR
+1991,46,12,24,Dennis Johnson,Winston-Salem State,WR
+1990s,1,1,0,Rob Moore,Syracuse,WR
+1990,1,2,1,Alexander Wright,Auburn,WR
+1990,2,2,3,Reggie Rembert,West Virginia,WR
+1990,3,2,25,Mike Bellamy,Illinois,WR
+1990,4,3,5,Ricky Proehl,Wake Forest,WR
+1990,5,3,14,Walter Wilson,East Carolina,WR
+1990,6,3,15,Ron Lewis,Florida State,WR
+1990,7,3,24,Fred Barnett,Arkansas State,WR
+1990,8,3,27,Greg McMurtry,Michigan,WR
+1990,9,4,2,Stacey Simmons,Florida,WR
+1990,10,4,7,Tony Moss,Louisiana State,WR
+1990,11,4,15,Fred Jones,Grambling State,WR
+1990,12,4,16,Chris Calloway,Michigan,WR
+1990,13,5,7,Reggie Thornton,Bowling Green,WR
+1990,14,5,9,Jeff Campbell,Colorado,WR
+1990,15,5,13,Lynn James,Arizona State,WR
+1990,16,5,23,Charles Wilson,Memphis State,WR
+1990,17,5,24,Calvin Williams,Purdue,WR
+1990,18,6,3,Terance Mathis,New Mexico,WR
+1990,19,6,5,Tyrone Shavers,Lamar,WR
+1990,20,6,16,Tony Jones,Texas,WR
+1990,21,6,18,Ron Heard,Bowling Green,WR
+1990,22,6,24,Tim Stallworth,Washington State,WR
+1990,23,7,22,Nate Lewis,Oregon Tech,WR
+1990,24,8,1,Willie Green,Mississippi,WR
+1990,25,8,12,Thomas Woods,Tennessee,WR
+1990,26,8,27,Dwight Pickens,Fresno State,WR
+1990,27,9,3,Dale Dawkins,Miami (FL),WR
+1990,28,9,12,Darvell Huffman,Boston University,WR
+1990,29,9,17,Pat Coleman,Mississippi,WR
+1990,30,9,18,Clarkston Hines,Duke,WR
+1990,31,9,20,Eugene Rowell,Southern Mississippi,WR
+1990,32,9,25,Tony Lomack,Florida,WR
+1990,33,10,1,Patrick Newman,Utah State,WR
+1990,34,10,10,Bill Miller,Illinois State,WR
+1990,35,10,12,Gary Cooper,Clemson,WR
+1990,36,11,5,Terry Anthony,Florida State,WR
+1990,37,11,6,Dempsey Norman,St. Francis (IL),WR
+1990,38,11,16,Al Edwards,Northwestern State (LA),WR
+1990,39,11,24,Tyrone Watson,Tennessee State,WR
+1990,40,11,27,Ron Lewis,Jackson State,WR
+1990,41,12,9,Robert Claiborne,San Diego State,WR
+1990,42,12,10,Andre Riley,Washington,WR
+1990,43,12,14,Tony Jeffery,San Jose State,WR
+1990,44,12,19,Kerry Simien,Texas A&I,WR
+1990,45,12,22,Elliott Searcy,Southern,WR
+1989,1,1,16,Hart Lee Dykes,Oklahoma State,WR
+1989,2,1,22,Andre Rison,Michigan State,WR
+1989,3,1,27,Shawn Collins,Northern Arizona,WR
+1989,4,2,2,John Ford,Virginia,WR
+1989,5,2,3,Lawyer Tillman,Auburn,WR
+1989,6,2,5,Danny Peebles,North Carolina State,WR
+1989,7,3,4,Naz Worthern,North Carolina State,WR
+1989,8,3,5,Derek Hill,Arizona,WR
+1989,9,3,26,Don Beebe,Chadron State,WR
+1989,10,4,16,Michael Timpson,Penn State,WR
+1989,11,4,20,Rod Harris,Texas A&M,WR
+1989,12,4,25,John Kolesar,Michigan,WR
+1989,13,4,26,Erik Affholter,USC,WR
+1989,14,4,28,Mike Barber,Marshall,WR
+1989,15,5,4,Vernon Joines,Maryland,WR
+1989,16,5,12,Jeff Query,Millikin,WR
+1989,17,5,14,Tony Martin,Mesa State,WR
+1989,18,5,23,Alfred Jackson,San Diego State,WR
+1989,19,6,4,Robb Thomas,Oregon State,WR
+1989,20,6,5,Mark Stock,Virginia Military Inst,WR
+1989,21,6,13,Anthony Stafford,Oklahoma,WR
+1989,22,6,14,Titus Dixon,Troy,WR
+1989,23,6,20,Floyd Turner,Northwestern State (LA),WR
+1989,24,7,27,Kendall Smith,Utah State,WR
+1989,25,8,9,Dana Brinson,Nebraska,WR
+1989,26,8,18,Fred Hadley,Mississippi State,WR
+1989,27,9,16,William Mackall,Tennessee-Martin,WR
+1989,28,10,2,Jason Phillips,Houston,WR
+1989,29,10,8,Deval Glover,Syracuse,WR
+1989,30,10,18,Mike Williams,Northeastern,WR
+1989,31,10,26,John Simpson,Baylor,WR
+1989,32,11,6,Brian Slater,Washington,WR
+1989,33,11,23,Herb Duncan,Northern Arizona,WR
+1989,34,11,28,Norm McGee,North Dakota,WR
+1989,35,12,1,Scott Ankrom,Texas Christian,WR
+1989,36,12,13,John Javis,Howard,WR
+1989,37,12,14,Willie Snead,Florida,WR
+1989,38,12,20,Mike Carore,Eastern Kentucky,WR
+1989,39,12,23,Freddy Weygand,Auburn,WR
+1989,40,12,28,Everett Ross,Ohio State,WR
+1988s,1,5,0,Ryan Bethea,South Carolina,WR
+1988,1,1,6,Tim Brown,Notre Dame,WR
+1988,2,1,7,Sterling Sharpe,South Carolina,WR
+1988,3,1,11,Michael Irvin,Miami (FL),WR
+1988,4,1,15,Anthony Miller,Tennessee,WR
+1988,5,1,20,Aaron Cox,Arizona State,WR
+1988,6,1,27,Wendell Davis,Louisiana State,WR
+1988,7,2,19,Flipper Anderson,UCLA,WR
+1988,8,2,22,Brian Blades,Miami (FL),WR
+1988,9,2,25,Brett Perriman,Miami (FL),WR
+1988,10,3,3,Ray Roundtree,Penn State,WR
+1988,11,3,5,Quinn Early,Iowa,WR
+1988,12,3,10,Bernard Fored,Central Florida,WR
+1988,13,3,20,Tommy Kane,Syracuse,WR
+1988,14,4,14,J.R. Ambrose,Mississippi,WR
+1988,15,4,15,Sammy Martin,Louisiana State,WR
+1988,16,6,1,George Thomas,UNLV,WR
+1988,17,7,1,Michael Haynes,Northern Arizona,WR
+1988,18,7,4,Jeff James,Stanford,WR
+1988,19,7,11,Todd White,Fullerton State,WR
+1988,20,7,14,Ernie jones,Indiana,WR
+1988,21,7,16,Darryl Usher,Illinois,WR
+1988,22,7,17,Marc Zeno,Tulane,WR
+1988,23,8,6,Mike Alexander,Penn State,WR
+1988,24,8,8,Darryl Franklin,Washington State,WR
+1988,25,8,23,J.J. Birden,Oregon,WR
+1988,26,9,3,Azizuddin Abdur-Ra'oof,Maryland,WR
+1988,27,9,11,Brain Bedford,California,WR
+1988,28,9,24,Rogie Magee,Louisiana State,WR
+1988,29,10,5,Paco Craig,UCLA,WR
+1988,30,10,11,Andy Schillinger,Miami (OH),WR
+1988,31,10,22,Marco Johnson,Hawaii,WR
+1988,32,11,1,James Milling,Maryland,WR
+1988,33,11,2,Frank Pillow,Tennessee State,WR
+1988,34,11,9,Greg Harris,Troy,WR
+1988,35,11,23,Hendley Hawkins,Nebraska,WR
+1988,36,11,25,Gary Couch,Minnesota,WR
+1988,37,12,2,Carl Parker,Vanderbilt,WR
+1988,38,12,3,Aaron Kenney,Wisconsin-Stevens Point,WR
+1988,39,12,7,Scott Bolton,Auburn,WR
+1988,40,12,28,Jeff Bethard,Southern Oregon,WR
+1987s,1,4,0,Cris Carter,Ohio State,WR
+1987,1,1,20,Haywood Jeffires,North Carolina State,WR
+1987,2,1,27,Ricky Nattiel,Florida,WR
+1987,3,1,28,Mark Ingram,Michigan State,WR
+1987,4,2,12,Lonzell Hill,Washington,WR
+1987,5,2,26,Ron Morris,Southern Methodist,WR
+1987,6,2,28,Scott Schwedes,Syracuse,WR
+1987,7,3,1,Mark Carrier,Nicholls State,WR
+1987,8,3,10,Charles Lockett,Long Beach State,WR
+1987,9,3,15,Frankie Neal,Fort Hays State,WR
+1987,10,3,27,Stephen Baker,Fresno State,WR
+1987,11,4,11,Kelvin Martin,Boston College,WR
+1987,12,4,22,Bruce Hill,Arizona State,WR
+1987,13,4,28,Odessa Turner,Northwestern State (LA),WR
+1987,14,5,2,Roy Banks,Eastern Illinois,WR
+1987,15,5,12,Everett Gay,Texas,WR
+1987,16,5,16,Kitrick Taylor,Washington State,WR
+1987,17,5,22,Paul Jokisch,Michigan,WR
+1987,18,6,5,Willie Marshall,Temple,WR
+1987,19,6,12,Thomas Henley,Stanford,WR
+1987,20,6,16,Greg Richardson,Alabama,WR
+1987,21,6,21,Tracy Martin,North Dakota,WR
+1987,22,6,23,Gene Taylor,Fresno State,WR
+1987,23,7,2,Mark Bellini,Brigham Young,WR
+1987,24,7,5,Jamie Holland,Ohio State,WR
+1987,25,8,7,Michael James,Washington State,WR
+1987,26,9,10,Joey Clinkscales,Tennessee,WR
+1987,27,10,7,Curtis Duncan,Northwestern,WR
+1987,28,10,8,Raynard Brown,South Carolina,WR
+1987,29,10,12,Robert Clark,North Carolina Central,WR
+1987,30,10,19,Louis Clark,Mississippi State,WR
+1987,31,10,23,Ted Wilson,Central Florida,WR
+1987,32,11,3,Patrick Scott,Grambling State,WR
+1987,33,11,19,Craig Richardson,Eastern Washington,WR
+1987,34,11,22,Calvin Nicholas,Grambling State,WR
+1987,35,11,25,Laron Brown,Texas,WR
+1987,36,12,8,Gary Lee,Georgia Tech,WR
+1986,1,1,18,Mike Sherrard,UCLA,WR
+1986,2,1,21,Tim McGee,Tennessee,WR
+1986,3,2,7,Ernest Givins,Louisville,WR
+1986,4,2,16,Webster Slaughter,San Diego State,WR
+1986,5,2,18,Walter Murray,Hawaii,WR
+1986,6,3,21,John Taylor,Delaware State,WR
+1986,7,3,27,David Williams,Illinois,WR
+1986,8,4,4,Bill Brooks,Boston University,WR
+1986,9,4,6,Kelvin Edwards,Liberty,WR
+1986,10,4,8,Charles Fox,Furman,WR
+1986,11,4,25,James Pruitt,Fullerton State,WR
+1986,12,5,10,Hassan Jones,Florida State,WR
+1986,13,5,16,Bobby Joe Edmonds,Arkansas,WR
+1986,14,5,20,Vince Warren,San Diego State,WR
+1986,15,5,28,Lew Barnes,Oregon,WR
+1986,16,6,1,Ron Brown,Colorado,WR
+1986,17,6,4,Robert Thompson,Youngstown State,WR
+1986,18,6,16,Floyd Dixon,Stephen F. Austin,WR
+1986,19,6,17,Curt Partridge,Northern Illinois,WR
+1986,20,6,19,Solomon Miller,Utah State,WR
+1986,21,6,23,Mark Jackson,Purdue,WR
+1986,22,7,3,Corn Redick,Fullerton State,WR
+1986,23,7,4,Eric Swanson,Tennessee,WR
+1986,24,7,19,Johnny Holloway,Kansas,WR
+1986,25,7,21,Ray McDonald,Florida,WR
+1986,26,8,11,Allyn Griffin,Wyoming,WR
+1986,27,9,1,Reggie Bynum,Oregon State,WR
+1986,28,9,23,Joe Thomas,Mississippi Valley State,WR
+1986,29,10,6,Wes Smith,East Texas State,WR
+1986,30,10,10,Joe Cormier,USC,WR
+1986,31,10,11,Warren Seitz,Missouri,WR
+1986,32,10,18,Elliston Stinson,Rice,WR
+1986,33,11,9,John Armstron,Richmond,WR
+1986,34,11,13,Leland Melvin,Richmond,WR
+1986,35,11,27,Gene Thomas,Pacific,WR
+1986,36,11,28,Glen Kozlowski,Brigham Young,WR
+1986,37,12,3,Steve Griffin,Purdue,WR
+1986,38,12,6,Sebastian Brown,Bethune-Cookman,WR
+1986,39,12,18,Eric Yarber,Idaho,WR
+1986,40,12,25,Larry Shepherd,Houston,WR
+1985,1,1,10,Al Toon,Wisconsin,WR
+1985,2,1,13,Eddie Brown,Miami (FL),WR
+1985,3,1,16,Jerry Rice,Mississippi Valley State,WR
+1985,4,1,23,Jessie Hester,Florida State,WR
+1985,5,2,3,Vance Johnson,Arizona,WR
+1985,6,2,14,Chris Burkett,Jackson State,WR
+1985,7,2,18,Stacy Robinson,North Dakota State,WR
+1985,8,2,22,Chuck Scott,Vanderbilt,WR
+1985,9,3,22,James Maness,Texas Christian,WR
+1985,10,3,23,Tim Moffett,Mississippi,WR
+1985,11,3,25,Danny Greene,Washington,WR
+1985,12,4,1,Buster Rhymes,Oklahoma,WR
+1985,13,4,2,Andre Reed,Kutztown (PA),WR
+1985,14,4,5,Emile Harry,Stanford,WR
+1985,15,4,10,Doug Allen,Arizona State,WR
+1985,16,4,14,Walter Stanley,Mesa State,WR
+1985,17,4,24,Gerald Phelan,Boston College,WR
+1985,18,5,18,Jimmy Teal,Texas A&M,WR
+1985,19,5,20,Tracy Henderson,Iowa State,WR
+1985,20,5,22,Tony Smith,San Jose State,WR
+1985,21,6,5,George Shorthose,Missouri,WR
+1985,22,6,21,Michael Young,UCLA,WR
+1985,23,7,2,Mike Akiu,Hawaii,WR
+1985,24,7,5,James Harbour,Mississippi,WR
+1985,25,7,7,Reggie Langhorne,Elizabeth City State,WR
+1985,26,7,9,Jamie Harris,Oklahoma State,WR
+1985,27,7,10,Karl Powe,Alabama State,WR
+1985,28,7,11,Eric Martin,Louisiana State,WR
+1985,29,7,20,Mark Pattison,Washington,WR
+1985,30,8,4,Ricky Nichols,East Carolina,WR
+1985,31,8,7,Fred Banks,Liberty,WR
+1985,32,8,8,Phil Freeman,Arizona State,WR
+1985,33,8,14,Ira Hillary,South Carolina,WR
+1985,34,8,20,Leon Gonzales,Bethune-Cookman,WR
+1985,35,8,25,Judious Lewis,Arkansas State,WR
+1985,36,9,2,Steve Tasker,Northwestern,WR
+1985,37,10,2,Juan Johnson,Langston,WR
+1985,38,10,6,Clayton Beauford,Auburn,WR
+1985,39,11,1,Willie Drewery,West Virginia,WR
+1985,40,11,26,Gary Rolle,Florida,WR
+1985,41,12,7,Shane Swanson,Nebraska,WR
+1985,42,12,11,Bill Wallace,Pittsburgh,WR
+1984u,1,1,9,Joey Jones,Alabama,WR
+1984u,2,1,16,Ricky Sanders,Southwest Texas State,WR
+1984u,3,1,20,Alphonso Williams,Nevada,WR
+1984u,4,1,23,Duane Gunn,Indiana,WR
+1984u,5,1,24,Derrick Crawford,Memphis State,WR
+1984u,6,1,26,Danny Knight,Mississippi State,WR
+1984u,7,1,28,Chris Woods,Auburn,WR
+1984u,8,2,9,Jim Sandusky,San Diego State,WR
+1984u,9,2,16,Gerald McNeil,Baylor,WR
+1984u,10,2,18,Rick Massie,Kentucky,WR
+1984u,11,2,26,Malcolm Moore,USC,WR
+1984u,12,2,27,Gary Clark,James Madison,WR
+1984u,13,3,6,Clarence Collins,Illinois State,WR
+1984u,14,3,26,Duan Hanks,Stephen F. Austin,WR
+1984u,15,3,27,Clarence Verdin,Southwestern Louisiana,WR
+1984,1,1,1,Irving Fryar,Nebraska,WR
+1984,2,1,4,Kenny Jackson,Penn State,WR
+1984,3,1,17,Clyde Duncan,Tennessee,WR
+1984,4,1,23,Louis Lipps,Southern Mississippi,WR
+1984,5,2,13,Eric Richardson,San Jose State,WR
+1984,6,2,19,Pete Mandley,Northern Arizona,WR
+1984,7,2,21,Daryl Turner,Michigan State,WR
+1984,8,2,22,Bruce Davis,Baylor,WR
+1984,9,4,11,Mitchell Brookins,Illinois,WR
+1984,10,4,20,Brian Brennan,Boston College,WR
+1984,11,4,24,Weegie Thompson,Florida State,WR
+1984,12,5,8,Golden Tate,Tennessee State,WR
+1984,13,5,10,Tron Armstrong,Eastern Kentucky,WR
+1984,14,6,6,Rufus Stevens,Grambling State,WR
+1984,15,6,14,Dwight Collins,Pittsburgh,WR
+1984,16,6,21,Eric Mullins,Stanford,WR
+1984,17,7,3,Lionel Manuel,Pacific,WR
+1984,18,7,6,Jesse Bendross,Alabama,WR
+1984,19,7,24,Derwin Williams,New Mexico,WR
+1984,20,7,27,Mark Smith,North Carolina,WR
+1984,21,8,1,Kevin Baugh,Penn State,WR
+1984,22,8,16,Brad Anderson,Arizona,WR
+1984,23,8,28,Sam Seale,Western Colorado,WR
+1984,24,9,4,Don Jones,Texas A&M,WR
+1984,25,9,11,Keith Kidd,Arkansas,WR
+1984,26,9,22,Rich Hollins,West Virginia,WR
+1984,27,10,23,Dave Moritz,Iowa,WR
+1984,28,11,7,Tommy Norman,Jackson State,WR
+1984,29,11,16,Craig White,Missouri,WR
+1984,30,11,24,Kirk Pendleton,Brigham Young,WR
+1984,31,11,28,Lawrence Thompson,Miami (FL),WR
+1984,32,12,2,Thad Jemison,Ohio State,WR
+1984,33,12,5,Lenny Taylor,Tennessee,WR
+1984,34,12,7,David Robertson,Houston,WR
+1984,35,12,10,Don Holmes,Mesa State,WR
+1984,36,12,18,Murray Jarman,Clemson,WR
+1984,37,12,23,Paine Harper,LaVerne,WR
+1984,38,12,26,Carl Lewis,Houston,WR
+1984,39,12,27,Curtland Thomas,Missouri,WR
+1983,1,1,18,Willie Gault,Tennessee,WR
+1983,2,2,4,Henry Ellard,Fresno State,WR
+1983,3,2,13,Ron Brown,Arizona State,WR
+1983,4,2,19,Darryal Wilson,Tennessee,WR
+1983,5,2,24,Wayne Capers,Kansas,WR
+1983,6,3,4,Clinton Sampson,San Diego State,WR
+1983,7,3,6,Glen Young,Mississippi State,WR
+1983,8,3,18,Stephen Starring,McNeese State,WR
+1983,9,3,22,JoJo Townsell,UCLA,WR
+1983,10,4,1,Phil Smith,San Diego State,WR
+1983,11,4,20,Mike Miller,Tennessee,WR
+1983,12,5,11,Chris Castor,Duke,WR
+1983,13,5,18,Steve Bird,Eastern Kentucky,WR
+1983,14,5,21,Paul Skansi,Washington,WR
+1983,15,5,22,Otis Grant,Michigan State,WR
+1983,16,5,26,Dokie Williams,UCLA,WR
+1983,17,5,28,Gregg Garrity,Penn State,WR
+1983,18,6,1,Trumaine Johnson,Grambling State,WR
+1983,19,6,7,Victor Oatis,Northwestern State (LA),WR
+1983,20,6,8,Rheugene Branton,Texas Southern,WR
+1983,21,6,14,Todd Brown,Nebraska,WR
+1983,22,6,16,Anthony Allen,Washington,WR
+1983,23,6,19,Mike Jones,Tennessee State,WR
+1983,24,7,2,Herkie Walls,Texas,WR
+1983,25,7,3,Jeff Simmons,USC,WR
+1983,26,7,8,Rocky Belk,Miami (FL),WR
+1983,27,8,25,Mike Martin,Illinois,WR
+1983,28,8,27,Mark Clayton,Louisville,WR
+1983,29,9,15,Rod Achter,Toledo,WR
+1983,30,9,23,Bobby Humphrey,New Mexico State,WR
+1983,31,10,2,Byron Williams,Texas-Arlington,WR
+1983,32,10,19,Darius Durham,San Diego State,WR
+1983,33,10,26,Mervyn Fernandez,San Jose State,WR
+1983,34,11,13,Steve Parker,Abilene Christian,WR
+1983,35,11,17,Aaron Williams,Washington,WR
+1983,36,11,22,Mike Harmon,Mississippi,WR
+1983,37,11,24,Tim Kearse,San Jose State,WR
+1983,38,11,25,Gary Williams,Ohio State,WR
+1983,39,12,1,Carl Williams,Texas Southern,WR
+1983,40,12,6,Oliver Williams,Illinois,WR
+1983,41,12,11,Frank Magwood,Clemson,WR
+1983,42,12,13,Julius Dawkins,Pittsburgh,WR
+1983,43,12,27,Anthony Carter,Michigan,WR
+1982,1,1,11,Anthony Hancock,Tennessee,WR
+1982,2,1,13,Lindsay Scott,Georgia,WR
+1982,3,1,19,Perry Tuttle,Clemson,WR
+1982,4,1,20,Mike Quick,North Carolina State,WR
+1982,5,2,23,Orlando McDaniel,Louisiana State,WR
+1982,6,2,25,Mark Duper,Northwestern State (LA),WR
+1982,7,3,1,Cedric Jones,Duke,WR
+1982,8,3,6,Carl Powell,Jackson State,WR
+1982,9,3,8,Stacey Bailey,San Jose State,WR
+1982,10,3,11,Eugene Goodlow,Kansas State,WR
+1982,11,3,13,Kenny Duckett,Wake Forest,WR
+1982,12,4,4,Dwight Walker,Nicholls State,WR
+1982,13,4,11,Steve Bryant,Purdue,WR
+1982,14,4,23,Dan Plater,Brigham Young,WR
+1982,15,6,19,Andre Tyler,Stanford,WR
+1982,16,6,20,Curt Grieve,Yale,WR
+1982,17,6,23,Mike Whitwell,Texas A&M,WR
+1982,18,6,24,Lonell Phea,Houston,WR
+1982,19,7,20,Victor Simmons,Oregon State,WR
+1982,20,8,6,Chester Cooper,Minnesota,WR
+1982,21,9,1,Kelvin Murdock,Troy,WR
+1982,22,9,21,Tony Woodriff,Fresno State,WR
+1982,23,9,27,James Bennett,Northwestern State (LA),WR
+1982,24,10,9,Gerald Lucear,Temple,WR
+1982,25,10,17,Larry Brodsky,Miami (FL),WR
+1982,26,11,6,Ricky Coffman,UCLA,WR
+1982,27,11,9,Jeff Keller,Washington State,WR
+1982,28,11,10,Willie Turner,Louisiana State,WR
+1982,29,11,13,Edward Lee,South Carolina State,WR
+1982,30,11,16,George Thompson,Albany State,WR
+1982,31,11,18,Bob Carter,Arizona,WR
+1982,32,11,22,Ron Ingram,Oklahoma State,WR
+1982,33,11,23,Perry Parmelee,Santa Clara,WR
+1982,34,12,2,Greg Taylor,Virginia,WR
+1982,35,12,10,Randy Smith,East Texas State,WR
+1982,36,12,15,Phillip Epps,Texas Christian,WR
+1982,37,12,25,Mike Rodrigue,Miami (FL),WR
+1981s,1,11,0,Chy Davidson,Rhode Island,WR
+1981,1,1,10,David Verser,Kansas,WR
+1981,2,1,16,Mark Nichols,San Jose State,WR
+1981,3,2,9,Cris Collinsworth,Florida,WR
+1981,4,2,11,Mardye McDole,Mississippi State,WR
+1981,5,2,22,Byron Franklin,Auburn,WR
+1981,6,2,25,Doug Donley,Ohio State,WR
+1981,7,3,3,John Mistler,Arizona State,WR
+1981,8,3,11,Ken Margerum,Stanford,WR
+1981,9,3,20,Mike Mosley,Texas A&M,WR
+1981,10,3,23,Michael Holston,Morgan State,WR
+1981,11,4,1,Sam Greene,UNLV,WR
+1981,12,4,4,Scott Phillips,Brigham Young,WR
+1981,13,4,5,Steve Rhodes,Oklahoma,WR
+1981,14,4,14,Ron Washington,Arizona State,WR
+1981,15,4,16,Tracy Porter,Louisiana State,WR
+1981,16,4,17,Robbie Martin,Cal Poly-San Luis Obispo,WR
+1981,17,5,16,Ricky Martin,New Mexico,WR
+1981,18,6,7,Mel Hoover,Arizona State,WR
+1981,19,6,23,Robert Holt,Baylor,WR
+1981,20,6,24,Bobby Duckworth,Arkansas,WR
+1981,21,7,1,Kevin Williams,USC,WR
+1981,22,7,4,Ron Johnson,Long Beach State,WR
+1981,23,7,19,Ken Toler,Mississippi,WR
+1981,24,8,2,Lloyd Jones,Brigham Young,WR
+1981,25,8,5,Mike Fisher,Baylor,WR
+1981,26,8,8,Charlie Brown,South Carolina State,WR
+1981,27,8,13,David Dorn,Rutgers,WR
+1981,28,8,24,Willie Tullis,Troy,WR
+1981,29,9,14,John Noonan,Nebraska,WR
+1981,30,9,15,Jim Whatley,Washington State,WR
+1981,31,9,25,Mike Wilson,Washington State,WR
+1981,32,10,5,James Mallard,Alabama,WR
+1981,33,10,15,Jim Joiner,Miami (FL),WR
+1981,34,10,18,James Murphy,Utah State,WR
+1981,35,11,1,Lester Mickens,Kansas,WR
+1981,36,11,8,Jerry Hill,North Alabama,WR
+1981,37,11,12,Holden Smith,California,WR
+1981,38,11,14,Pat Walker,Miami (FL),WR
+1981,39,11,25,Keith Cahppelle,Iowa,WR
+1981,40,12,23,Stacy Charles,Bethune-Cookman,WR
+1981,41,12,25,Nate Lundy,Indiana,WR
+1980s,1,9,0,Billy Mullins,USC,WR
+1980,1,1,2,Lam Jones,Texas,WR
+1980,2,1,18,Art Monk,Syracuse,WR
+1980,3,2,19,Ralph Clayton,Michigan,WR
+1980,4,2,21,Kevin House,Southern Illinois,WR
+1980,5,3,6,Mike Friede,Indiana,WR
+1980,6,3,23,Tim Smith,Nebraska,WR
+1980,7,4,4,Fred Nixon,Oklahoma,WR
+1980,8,4,5,Ray Butler,USC,WR
+1980,9,4,7,Danny Pittman,Wyoming,WR
+1980,10,4,17,Elmer Bailey,Minnesota,WR
+1980,11,5,4,Carlos Carson,Louisiana State,WR
+1980,12,5,25,Nate Rivers,South Carolina State,WR
+1980,13,6,9,Bubba Garcia,Texas-El Paso,WR
+1980,14,6,20,Eugene Byrd,Michigan State,WR
+1980,15,6,22,Preston Brown,Vanderbilt,WR
+1980,16,7,7,Mike Smith,Grambling State,WR
+1980,17,7,8,Malcolm Barnwell,Virginia Union,WR
+1980,18,7,18,Emanuel Tolbert,Southern Methodist,WR
+1980,19,7,28,Nate Johnson,Hillsdale,WR
+1980,20,8,4,Don Coleman,Oregon,WR
+1980,21,9,1,DeWayne Jett,Hawaii,WR
+1980,22,9,9,Tom Donovan,Penn State,WR
+1980,23,9,19,Gerald Carter,Texas A&M,WR
+1980,24,9,20,Lawrence McCullough,Illinois,WR
+1980,25,9,25,Jackie Flowers,Florida State,WR
+1980,26,9,27,George Farmer,Southern,WR
+1980,27,9,28,Ron McCall,Arkansas-Pine Bluff,WR
+1980,28,10,9,Kenny Brown,Nebraska,WR
+1980,29,10,21,Virgina Seay,Troy,WR
+1980,30,10,25,Billy Rivers,Morris Brown,WR
+1980,31,11,4,Alton Alexis,Tulane,WR
+1980,32,11,20,Phil Farris,North Carolina,WR
+1980,33,11,21,Lee Jukes,North Carolina State,WR
+1980,34,11,24,Eddie Preston,Western Kentucky,WR
+1980,35,11,27,Terry Greer,Alabama State,WR
+1980,36,12,2,Ray Williams,Washington State,WR
+1980,37,12,4,Tyrone Gray,Washington State,WR
+1980,38,12,17,Calvin Muhammad,Texas Southern,WR
+1980,39,12,23,Wiley Pitts,Temple,WR
+1980,40,12,26,Harry Price,McNeese State,WR
+1979,1,1,5,Jerry Butler,Clemson,WR
+1979,2,1,20,Willis Adams,Houston,WR
+1979,3,2,1,James Owens,UCLA,WR
+1979,4,2,6,Gordon Jones,Pittsburgh,WR
+1979,5,2,8,Ernest Gray,Memphis State,WR
+1979,6,2,11,Rickey Watts,Tulsa,WR
+1979,7,3,2,Jeff Moore,Tennessee,WR
+1979,8,4,7,Roy Green,Henderson State,WR
+1979,9,4,22,John Floyd,N.E. Louisiana,WR
+1979,10,4,28,Calvin Sweeney,USC,WR
+1979,11,5,16,Scott Fitzkee,Penn State,WR
+1979,12,5,20,Mark Bell,Colorado State,WR
+1979,13,6,2,Steve Kreider,Lehigh,WR
+1979,14,6,3,Robert Gaines,Washington,WR
+1979,15,6,5,Ira Matthews,Wisconsin,WR
+1979,16,6,27,Chris DeFrance,Arizona State,WR
+1979,17,7,8,Kirk Gibson,Michigan State,WR
+1979,18,8,1,Ron Cassidy,Utah State,WR
+1979,19,8,14,Jeff Groth,Bowling Green,WR
+1979,20,9,5,Henry Vereen,UNLV,WR
+1979,21,9,13,Kris Haines,Notre Dame,WR
+1979,22,9,16,Billy Diggs,Winston-Salem State,WR
+1979,23,9,17,Alvin Garrett,Angelo State,WR
+1979,24,9,22,Charlie Taylor,Rice,WR
+1979,25,9,23,Richard Ellender,McNeese State,WR
+1979,26,10,1,Dwight Clark,Clemson,WR
+1979,27,10,13,John Smith,Tennessee State,WR
+1979,28,10,16,Frank Lockett,Nebraska,WR
+1979,29,10,20,Larry Willis,Alcorn State,WR
+1979,30,10,22,Martin Cox,Vanderbilt,WR
+1979,31,11,2,Stan Rome,Clemson,WR
+1979,32,11,10,David Hall,Missouri-Rolla,WR
+1979,33,11,16,Brian Nelson,Texas Tech,WR
+1979,34,11,25,Tony Hall,Knoxville,WR
+1979,35,12,3,Charlie Green,Kansas State,WR
+1979,36,12,11,Paul Darby,Southwest Texas State,WR
+1979,37,12,23,Brian Sweeney,Texas A&I,WR
+1979,38,12,25,Drew Hill,Georgia Tech,WR
+1979,39,12,27,Mike Almond,Northwestern State (LA),WR
+1978s,1,10,0,Johnnie Dirden,Sam Houston State,WR
+1978,1,1,3,Wes Chandler,Florida,WR
+1978,2,1,6,James Lofton,Stanford,WR
+1978,3,1,14,John Jefferson,Arizona State,WR
+1978,4,2,25,Ronnie Smith,San Diego State,WR
+1978,5,3,9,Danny Fulton,Nebraska-Omaha,WR
+1978,6,3,21,Carlos Pennywell,Grambling State,WR
+1978,7,3,25,Jimmy Cefalo,Penn State,WR
+1978,8,3,27,Don Bass,Houston,WR
+1978,9,4,7,Terry LeCount,Florida,WR
+1978,10,4,13,Jim Childs,Cal Poly-San Luis Obispo,WR
+1978,11,4,14,Mike Renfro,Texas Christian,WR
+1978,12,4,15,Dennis Law,East Tennessee State,WR
+1978,13,4,24,Joe Stewart,Missouri,WR
+1978,14,5,2,Jerrold McRae,Tennessee State,WR
+1978,15,5,12,Keith Wright,Memphis State,WR
+1978,16,5,15,Dennis Pearson,San Diego State,WR
+1978,17,5,24,Robert Woods,Grambling State,WR
+1978,18,5,27,Brian DeRoo,Redlands,WR
+1978,19,6,8,Glenn Starks,Texas A&I,WR
+1978,20,6,14,Rodney Parker,Tennessee State,WR
+1978,21,6,22,Randy Reutershan,Pittsburgh,WR
+1978,22,6,24,Elijah Marshall,North Carolina State,WR
+1978,23,6,26,Mike Levenseller,Washington State,WR
+1978,24,6,27,Jesse Thompson,California,WR
+1978,25,7,1,Alfred Jackson,Texas,WR
+1978,26,7,15,Dave Stief,Portland State,WR
+1978,27,7,18,Bill Kellar,Stanford,WR
+1978,28,7,19,Herman Jones,Ohio State,WR
+1978,29,7,24,Lloyd Henry,N.E. Missouri State,WR
+1978,30,8,3,Derrick Gaffney,Florida,WR
+1978,31,8,8,Walker Lee,North Carolina,WR
+1978,32,8,20,Andre Keys,Cal Poly-San Luis Obispo,WR
+1978,33,8,28,Homer Butler,UCLA,WR
+1978,34,9,1,Willie Taylor,Pittsburgh,WR
+1978,35,10,8,Rob Stewart,Lafayette,WR
+1978,36,10,27,Vince Kinney,Maryland,WR
+1978,37,11,17,Willie Thicklen,Alabama State,WR
+1978,38,11,24,Henry Mason,Central Missouri State,WR
+1978,39,12,15,Kevin Bell,Lamar,WR
+1978,40,12,17,Kim Featsent,Kent State,WR
+1978,41,12,26,Joe Conron,Pacific,WR
+1977,1,1,25,Stanley Morgan,Tennessee,WR
+1977,2,1,26,Randy Burke,Kentucky,WR
+1977,3,2,4,Johnny Perkins,Abilene Christian,WR
+1977,4,2,5,Wesley Walker,California,WR
+1977,5,3,6,Tony Hill,Stanford,WR
+1977,6,3,9,Elmo Boyd,Eastern Kentucky,WR
+1977,7,3,17,John Kimbrough,St. Cloud State,WR
+1977,8,3,19,Jim Smith,Michigan,WR
+1977,9,4,12,Luther Blue,Iowa State,WR
+1977,10,4,14,Warren Anderson,West Virginia State,WR
+1977,11,4,27,Larry Seivers,Tennessee,WR
+1977,12,5,4,Perry Griggs,Troy,WR
+1977,13,5,8,Shelton Diggs,USC,WR
+1977,14,6,14,Emery Moorehead,Colorado,WR
+1977,15,7,6,Ken Randle,USC,WR
+1977,16,7,15,Gerald Butler,Nicholls State,WR
+1977,17,7,21,Rich Martini,California-Davis,WR
+1977,18,7,25,Ken Smith,Arkansas-Pine Bluff,WR
+1977,19,8,3,Steve Davis,Georgia,WR
+1977,20,8,8,Walter Packer,Mississippi State,WR
+1977,21,8,10,Eddie Foster,Houston,WR
+1977,22,8,20,Waddell Smith,Kansas,WR
+1977,23,8,22,Phil August,Miami (FL),WR
+1977,24,9,12,Gene Washington,Georgia,WR
+1977,25,9,22,Willie Zachary,Central State (OH),WR
+1977,26,9,28,Larry Mucker,Arizona State,WR
+1977,27,10,4,Mike Jones,Minnesota,WR
+1977,28,10,6,Billy Ryckman,Louisiana Tech,WR
+1977,29,10,8,John Mastronardo,Villanova,WR
+1977,30,10,17,Oma Middlebrook,Arkansas State,WR
+1977,31,10,19,Jim LeJay,San Jose State,WR
+1977,32,11,9,Maurice Mitchell,Northern Michigan,WR
+1977,33,11,17,Charles Nash,Arizona,WR
+1977,34,11,27,Keith Hartwig,Arizona,WR
+1977,35,12,1,Chip Sheffield,Lenoir-Rhyne,WR
+1977,36,12,14,Terry Anderson,Bethune-Cookman,WR
+1977,37,12,19,Alex Percival,Morehouse (GA),WR
+1976,1,1,11,Billy Brooks,Oklahoma,WR
+1976,2,2,26,Sammy White,Grambling State,WR
+1976,3,2,31,Steve Raible,Georgia Tech,WR
+1976,4,3,4,Larry Dorsey,Tennessee State,WR
+1976,5,3,5,Dave Logan,Colorado,WR
+1976,6,3,6,Brian Baschnagel,Ohio State,WR
+1976,7,3,13,Duke Ferguson,San Diego State,WR
+1976,8,3,19,Henry Marshall,Missouri,WR
+1976,9,3,20,Duriel Harris,New Mexico State,WR
+1976,10,3,27,Butch Johnson,California-Riverside,WR
+1976,11,3,28,Ernest Pough,Texas Southern,WR
+1976,12,4,2,Gerald Taylor,Texas A&I,WR
+1976,13,4,4,Tinker Owens,Oklahoma,WR
+1976,14,4,8,Steve Rivera,California,WR
+1976,15,4,22,Pat Tilley,Louisiana Tech,WR
+1976,16,4,23,Artie Owens,West Virginia,WR
+1976,17,4,25,Steve Largent,Tulsa,WR
+1976,18,4,26,Leonard Willis,Ohio State,WR
+1976,19,4,28,Theo Bell,Arizona,WR
+1976,20,4,29,Richard Appleby,Georgia,WR
+1976,21,5,31,Dwight Sacles,Grambling State,WR
+1976,22,6,15,Scott Piper,Arizona,WR
+1976,23,7,11,Karl Farmer,Pittsburgh,WR
+1976,24,7,22,Clarence Chapman,Eastern Michigan,WR
+1976,25,8,1,Larry Shipp,Louisiana State,WR
+1976,26,8,19,Ricky Thompson,Baylor,WR
+1976,27,8,24,Randall Burks,SE Oklahoma State,WR
+1976,28,8,25,Bryan Fryer,Alberta,WR
+1976,29,9,7,Ronnie Moore,Virginia Military Inst,WR
+1976,30,9,13,Ken Harrison,Southern Methodist,WR
+1976,31,9,22,Lonnie Allgood,Syracuse,WR
+1976,32,9,25,Isaac Hagins,Southern,WR
+1976,33,10,5,Ricky Feacher,Mississippi Valley State,WR
+1976,34,10,9,Jessie Green,Tulsa,WR
+1976,35,10,23,Freeman Johns,Southern Methodist,WR
+1976,36,11,8,Norman Andersen,UCLA,WR
+1976,37,11,10,Curtis Leak,Johnson C. Smith,WR
+1976,38,11,12,Craig Brantley,Clemson,WR
+1976,39,11,18,Forry Smith,Iowa State,WR
+1976,40,12,1,Ron Barnett,Texas-Arlington,WR
+1976,41,12,7,Don Buckey,North Carolina State,WR
+1976,42,12,12,Harold Porter,Southwestern Louisiana,WR
+1976,43,12,22,Joe Dale Harris,Alabama,WR
+1976,44,12,28,Bill Carroll,East Texas State,WR
+1976,45,13,13,Rick Caswell,Western Kentucky,WR
+1976,46,13,16,Mel Jacobs,San Diego State,WR
+1976,47,13,21,Dan O'Rourke,Colorado State,WR
+1976,48,14,2,Carl Roaches,Texas A&M,WR
+1976,49,14,7,David Quehl,Holy Cross,WR
+1976,50,14,16,Leonard Elston,Kentucky State,WR
+1976,51,14,17,Tony Williams,Middle Tennessee State,WR
+1976,52,15,6,Bernard Coleman,Bethune-Cookman,WR
+1976,53,15,16,Trent Smock,Indiana,WR
+1976,54,15,26,Malcolm Campbell,Cal State-Los Angeles,WR
+1976,55,16,22,Cecil Beaird,Fisk,WR
+1976,56,16,25,Rick Gage,Arkansas Tech,WR
+1976,57,17,6,Tom Fleming,Dartmouth,WR
+1976,58,17,20,Allen Misher,Louisiana State,WR
+1976,59,17,28,Kelvin Kirk,Dayton,WR
+1975,1,1,7,Larry Burton,Purdue,WR
+1975,2,2,10,Fred Solomon,Tampa,WR
+1975,3,2,14,Emmett Edwards,Kansas,WR
+1975,4,3,10,Danny Buggs,West Virginia,WR
+1975,5,4,13,Steve Burks,Arkansas State,WR
+1975,6,4,17,Rich Upchurch,Minnesota,WR
+1975,7,4,25,Bruce Adams,Kansas,WR
+1975,8,5,2,Morris Owens,Arizona State,WR
+1975,9,5,16,Pat McInally,Harvard,WR
+1975,10,6,1,Don Westbrook,Nebraska,WR
+1975,11,6,4,John Carroll,Oklahoma,WR
+1975,12,6,10,Darius McCarthy,South Carolina State,WR
+1975,13,6,14,Dennis Franklin,Michigan,WR
+1975,14,7,9,Tony Giaquinto,Central Connecticut St.,WR
+1975,15,7,13,Mike Murphy,Drake,WR
+1975,16,7,16,Lawrence Williams,Texas Tech,WR
+1975,17,8,11,James Scott,Henderson J.C.,WR
+1975,18,9,2,Mike Mahoney,Richmond,WR
+1975,19,9,19,Lofell Williams,Virginia Union,WR
+1975,20,10,3,Marshall Mills,West Virginia,WR
+1975,21,10,17,Steve Haggerty,UNLV,WR
+1975,22,10,26,Archie Gray,Wyoming,WR
+1975,23,11,1,Dave Hazel,Ohio State,WR
+1975,24,11,24,Ike McBee,San Jose State,WR
+1975,25,12,8,Ron Gustafson,North Dakota,WR
+1975,26,12,16,Willie Miller,Colorado State,WR
+1975,27,12,21,Chandler Williams,Lincoln (MO),WR
+1975,28,12,22,Ben Jones,Louisiana State,WR
+1975,29,13,5,Willie Armstead,Utah,WR
+1975,30,13,8,Pete Demmerle,Notre Dame,WR
+1975,31,13,15,Ricky Scales,Virginia Tech,WR
+1975,32,13,22,Leonard Isabell,Tulsa,WR
+1975,33,13,24,Mike Hurd,Michigan State,WR
+1975,34,13,25,Robert Gaddis,Mississippi Valley State,WR
+1975,35,14,9,David Henson,Abilene Christian,WR
+1975,36,14,15,Tom Gossom,Auburn,WR
+1975,37,14,19,Robert Evans,Morris Brown,WR
+1975,38,14,20,Ritch Bahe,Nebraska,WR
+1975,39,14,22,Arthur Allen,Clark,WR
+1975,40,15,3,Jim Robinson,Georgia Tech,WR
+1975,41,15,4,Steve Marcantonio,Miami (FL),WR
+1975,42,15,7,James Thatcher,Langston,WR
+1975,43,15,9,Randy Allen,Southern,WR
+1975,44,16,4,J.K. McKay,USC,WR
+1975,45,16,5,Witt Beckman,Miami (FL),WR
+1975,46,16,11,John Tuttle,Kansas State,WR
+1975,47,16,14,Calvin Jones,Texas Tech,WR
+1975,48,16,21,Mark Miller,Missouri,WR
+1975,49,17,24,Frank Russell,Maryland,WR
+1974,1,1,21,Lynn Swann,USC,WR
+1974,2,1,24,Roger Carr,Louisiana Tech,WR
+1974,3,2,3,John Holland,Tennessee State,WR
+1974,4,2,18,Gerald Tinker,Kent State,WR
+1974,5,3,2,Wayne Wheeler,Alabama,WR
+1974,6,3,26,Nat Moore,Florida,WR
+1974,7,4,3,Harrison Davis,Virginia,WR
+1974,8,4,4,John Stallworth,Alabama A&M,WR
+1974,9,4,5,Clint Haslerig,Michigan,WR
+1974,10,4,13,Ike Harris,Iowa State,WR
+1974,11,4,15,Morris Bradshaw,Ohio State,WR
+1974,12,4,25,Richard Williams,Abilene Christian,WR
+1974,13,5,2,Gary Hayman,Penn State,WR
+1974,14,5,3,Don Clune,Pennsylvania,WR
+1974,15,5,9,Joel Parker,Florida,WR
+1974,16,5,12,Steve Odom,Utah,WR
+1974,17,6,12,Ken Payne,Langston,WR
+1974,18,6,15,John Winesberry,Stanford,WR
+1974,19,7,4,Jack Ettinger,Arkansas,WR
+1974,20,7,7,Bob Herrick,Purdue,WR
+1974,21,7,8,Carl Swierc,Rice,WR
+1974,22,7,18,Fred Scott,Amherst,WR
+1974,23,8,20,John McDaniels,Lincoln (MO),WR
+1974,24,8,26,Melvin Baker,Texas Southern,WR
+1974,25,9,5,Don Hutt,Boise State,WR
+1974,26,9,11,Mark Sheridan,Holy Cross,WR
+1974,27,9,24,Sam McCullum,Montana State,WR
+1974,28,10,1,Frosty Anderson,Nebraska,WR
+1974,29,10,2,Ray Rhodes,Tulsa,WR
+1974,30,10,4,Mike Puestow,North Dakota State,WR
+1974,31,11,7,William Buckley,Mississippi State,WR
+1974,32,11,10,Kent Merritt,Virginia,WR
+1974,33,11,17,Eddie Wilson,Albany State,WR
+1974,34,11,20,Harvey McGee,Southern Mississippi,WR
+1974,35,12,7,Roger Wallace,Bowling Green,WR
+1974,36,12,13,Mark Wakefield,Tampa,WR
+1974,37,12,14,Carl Brown,West Texas State,WR
+1974,38,14,6,Ed Collins,Rice,WR
+1974,39,14,24,Ananias Carson,Langston,WR
+1974,40,15,1,Billy Johnson,Widener,WR
+1974,41,15,3,Larry Jones,N.E. Missouri,WR
+1974,42,15,17,Willie Jones,Iowa State,WR
+1974,43,16,19,Delario Robinson,Kansas,WR
+1974,44,17,5,Tim Berra,Massachusetts,WR
+1974,45,17,10,Marvin Williams,Western Illinois,WR
+1974,46,17,12,Randy Woodfield,Portland State,WR
+1974,47,17,24,Willie Townsend,Notre Dame,WR
+1973,1,1,15,Isaac Curtis,San Diego State,WR
+1973,2,1,16,Steve Holden,Arizona State,WR
+1973,3,1,19,Darryl Stingley,Purdue,WR
+1973,4,1,21,Barry Smith,Florida State,WR
+1973,5,1,25,Johnny Rodgers,Nebraska,WR
+1973,6,2,20,Golden Richards,Hawaii,WR
+1973,7,3,13,Jim Lash,Northwestern,WR
+1973,8,3,16,Tim George,Carson-Newman,WR
+1973,9,4,7,Ollie Smith,Tennessee State,WR
+1973,10,4,16,Tom Geredine,N.E. Missouri,WR
+1973,11,4,23,Joe Wylie,Oklahoma,WR
+1973,12,4,26,Dave (Bo) Rather,Michigan,WR
+1973,13,5,1,Edesel Garrison,USC,WR
+1973,14,5,6,Wallace Francis,Arkansas-Pine Bluff,WR
+1973,15,5,18,Ed Beverly,Arizona State,WR
+1973,16,5,19,Willie McGee,Alcorn State,WR
+1973,17,5,20,Louis Neal,Prairie View A&M,WR
+1973,18,6,2,Bob Picard,Eastern Washington,WR
+1973,19,6,11,Jason Caldwell,North Carolina Central,WR
+1973,20,6,24,Glen Skolnik,Indiana,WR
+1973,21,7,13,Mike Haggard,South Carolina,WR
+1973,22,7,22,Willie Hatter,Northern Illinois,WR
+1973,23,8,25,Doug Winslow,Drake,WR
+1973,24,9,7,Mike Reppond,Arkansas,WR
+1973,25,10,7,William Barry,Mississippi,WR
+1973,26,10,10,Al Marshall,Boise State,WR
+1973,27,11,12,David Knight,William & Mary,WR
+1973,28,11,19,Scott Freeman,Wyoming,WR
+1973,29,11,25,Willie Jackson,Florida,WR
+1973,30,12,1,Brad Lyman,UCLA,WR
+1973,31,12,13,Allen Spencer,Pittsburg (KS),WR
+1973,32,12,18,Tom Scott,Washington,WR
+1973,33,13,3,Stan Davis,Memphis State,WR
+1973,34,13,11,Rod Milburn,Southern,WR
+1973,35,13,20,John Smith,UCLA,WR
+1973,36,13,24,Rick Fergerson,Kansas State,WR
+1973,37,14,7,Dave Juenger,Ohio,WR
+1973,38,14,16,Albert White,Ft. Valley State,WR
+1973,39,15,18,Mike Bettiga,Humboldt State,WR
+1973,40,15,20,Dave Sullivan,Virginia,WR
+1973,41,15,22,Reggie Echols,UCLA,WR
+1973,42,16,1,Tim Dameron,East Carolina,WR
+1973,43,16,18,Larry Nickels,Dayton,WR
+1973,44,16,23,Jerry Gadlin,Wyoming,WR
+1973,45,17,12,Jim Hedge,Arkansas,WR
+1973,46,17,26,Charles Wade,Tennessee State,WR
+1972,1,1,4,Ahmad Rashad (Bobby Moore),Oregon,WR
+1972,2,1,9,Jerome Barkum,Jackson State,WR
+1972,3,1,19,Terry Beasley,Auburn,WR
+1972,4,1,21,Mike Siani,Villanova,WR
+1972,5,2,21,Glenn Doughty,Michigan,WR
+1972,6,2,23,Tom Reynolds,San Diego State,WR
+1972,7,2,26,Charles McKee,Arizona,WR
+1972,8,3,14,Gary Hammond,Southern Methodist,WR
+1972,9,3,19,Allen Dunbar,Southern,WR
+1972,10,4,12,Robert West,San Diego State,WR
+1972,11,4,19,Andy Hamilton,Louisiana State,WR
+1972,12,4,20,Cliff Branch,Colorado,WR
+1972,13,4,26,Eric Allen,Michigan State,WR
+1972,14,5,3,Tom Gatewood,Notre Dame,WR
+1972,15,5,14,Jim Krieg,Washington,WR
+1972,16,6,16,Fred Riley,Idaho,WR
+1972,17,7,16,Charles Stoudmire,Portland State,WR
+1972,18,8,1,Paul Gibson,Texas-El Paso,WR
+1972,19,8,3,Dan Kratzer,Missouri Valley,WR
+1972,20,8,6,Bob Wicks,Utah State,WR
+1972,21,8,7,Ron Vinson,Abilene Christian,WR
+1972,22,8,8,Leland Glass,Oregon,WR
+1972,23,8,10,Ralph Wirtz,North Dakota State,WR
+1972,24,8,17,Tom Graham,Baldwin-Wallace,WR
+1972,25,8,24,Calvin Demery,Arizona State,WR
+1972,26,9,22,Billy LeFear,Henderson State,WR
+1972,27,10,6,Rhett Dawson,Florida State,WR
+1972,28,10,21,Mike Oldham,Michigan,WR
+1972,29,11,3,Larry Brunson,Colorado,WR
+1972,30,11,6,David Bailey,Alabama,WR
+1972,31,11,15,Jack Phillips,Grambling State,WR
+1972,32,11,25,Ed Jenkins,Holy Cross,WR
+1972,33,12,1,Jeff Baker,U.S. International,WR
+1972,34,12,14,Don Zimmerman,N.E. Louisiana,WR
+1972,35,12,15,Paul Bradley,Southern Methodist,WR
+1972,36,12,26,Jimmy Harris,Ohio State,WR
+1972,37,13,8,Cephus Weatherspoon,Fort Lewis,WR
+1972,38,13,20,Frank Grant,Southern Colorado,WR
+1972,39,13,21,Ted Covington,San Fernando Valley,WR
+1972,40,13,22,Herb Washington,Michigan State,WR
+1972,41,14,3,Steve Porter,Indiana,WR
+1972,42,14,7,Steve Barrios,Tulane,WR
+1972,43,14,9,Bob Brown,Rice,WR
+1972,44,14,12,Ed Rideout,Boston College,WR
+1972,45,15,7,Rick Thone,Arkansas Tech,WR
+1972,46,15,26,Carlos Alvarez,Florida,WR
+1972,47,16,3,John Wiegman,Cal Poly-Pomona,WR
+1972,48,16,13,Nate Hawkins,Nevada-Las Vegas,WR
+1972,49,16,17,Jim Kirby,Long Beach State,WR
+1972,50,16,19,Richard Wakefield,Ohio State,WR
+1972,51,16,25,Al Hannah,Wisconsin,WR
+1972,52,17,8,Dick Graham,Oklahoma State,WR
+1972,53,17,24,Dick Schmalz,Auburn,WR
+1971,1,1,4,J.D. Hill,Arizona State,WR
+1971,2,1,8,Frank Lewis,Grambling State,WR
+1971,3,1,16,Elmo Wright,Houston,WR
+1971,4,1,18,Rocky Thompson,West Texas State,WR
+1971,5,2,7,Ken Burrow,San Diego State,WR
+1971,6,2,9,Dwight Harrison,Texas A&I,WR
+1971,7,2,12,Cotton Speyrer,Texas,WR
+1971,8,2,21,Otto Stowe,Iowa State,WR
+1971,9,3,3,Sam Dickerson,USC,WR
+1971,10,3,9,James Livesay,Richmond,WR
+1971,11,3,14,Paul Staroba,Michigan,WR
+1971,12,3,24,Eddie Hackett,Alcorn State,WR
+1971,13,5,7,Ray Jarvis,Norfolk State,WR
+1971,14,5,14,Stan Brown,Purdue,WR
+1971,15,6,17,Mel Gray,Missouri,WR
+1971,16,6,22,Herman Franklin,USC,WR
+1971,17,6,23,Al Bresler,Auburn,WR
+1971,18,6,25,Steve Maier,Northern Arizona,WR
+1971,19,7,4,Bob Chandler,USC,WR
+1971,20,7,5,Harold Carmichael,Southern,WR
+1971,21,7,7,Wesley Chesson,Duke,WR
+1971,22,7,12,Dave Davis,Tennessee State,WR
+1971,23,7,13,Chuck Dicus,Arkansas,WR
+1971,24,7,16,Bob Newland,Oregon,WR
+1971,25,7,19,James Johnson,Bishop,WR
+1971,26,7,26,Gordon Bowdell,Michigan State,WR
+1971,27,8,24,Ron Jessie,Kansas,WR
+1971,28,9,7,Alvin Griffin,Tuskegee,WR
+1971,29,9,12,Lester McClain,Tennessee,WR
+1971,30,9,17,Mike Savoy,Black Hills State (SD),WR
+1971,31,9,20,Joe Schmidt,Miami (FL),WR
+1971,32,9,25,Honor Jackson,Pacific,WR
+1971,33,10,9,Carlis Harris,Idaho State,WR
+1971,34,10,16,Bruce Jankowski,Ohio State,WR
+1971,35,10,23,Ernie Jennings,Air Force,WR
+1971,36,11,5,Macon Hughes,Rice,WR
+1971,37,11,6,Vernon Studdard,Mississippi,WR
+1971,38,11,15,Edward Marshall,Cameron State,WR
+1971,39,12,7,Ronnie Lowe,Ft. Valley State,WR
+1971,40,12,9,Floyd Franks,Mississippi,WR
+1971,41,12,13,Wesley Garnett,Utah State,WR
+1971,42,12,22,Bill Pilconis,Pittsburgh,WR
+1971,43,12,26,Bill Triplett,Michigan State,WR
+1971,44,13,8,Alfred Young,South Carolina State,WR
+1971,45,13,13,Sammy Milner,Mississippi State,WR
+1971,46,14,1,Alfred Sykes,Florida A&M,WR
+1971,47,15,21,Ed Coates,Central Missouri State,WR
+1971,48,16,14,Dave Smith,Mississippi State,WR
+1971,49,16,20,Chris Myers,Kenyon,WR
+1971,50,16,23,Greg Edmonds,Penn State,WR
+1971,51,17,2,Randy Vataha,Stanford,WR
+1971,52,17,12,Hermann Eben,Oklahoma State,WR
+1971,53,17,17,Preston Watkins,Bluefield (WV),WR
+1971,54,17,18,Coleman Zeno,Grambling State,WR
+1971,55,17,19,Joe Sweet,Tennessee State,WR
+1971,56,17,26,Charles Hill,Sam Houston State,WR
+1970,1,1,10,Ken Burrough,Texas Southern,WR
+1970,2,1,15,Walker Gillette,Richmond,WR
+1970,3,2,2,Ron Shanklin,North Texas State,WR
+1970,4,2,9,Charles Williams,Prairie View A&M,WR
+1970,5,2,20,Richard Caster,Jackson State,WR
+1970,6,2,23,Margene Adkins,Henderson J.C.,WR
+1970,7,3,2,George Farmer,UCLA,WR
+1970,8,3,13,Todd Snyder,Ohio,WR
+1970,9,4,9,Vic Washington,Wyoming,WR
+1970,10,4,11,Jerry Hendren,Idaho,WR
+1970,11,4,15,Ken Ellis,Southern,WR
+1970,12,6,12,Duane Miller,Drake,WR
+1970,13,6,16,Billy Parks,Long Beach State,WR
+1970,14,6,17,Jade Butcher,Indiana,WR
+1970,15,7,13,Gary Orcutt,USC,WR
+1970,16,7,17,Roland Merritt,Maryland,WR
+1970,17,7,26,Clyde Glosson,Texas-El Paso,WR
+1970,18,8,2,Dave Smith,Indiana (PA),WR
+1970,19,9,2,Linzy Cole,Texas Christian,WR
+1970,20,9,9,Preston Riley,Memphis State,WR
+1970,21,9,20,Ed Bell,Idaho State,WR
+1970,22,11,9,Danny Crockett,Toledo,WR
+1970,23,11,21,Gene Benner,Maine,WR
+1970,24,12,6,Charles Collins,Kansas State,WR
+1970,25,12,15,Frank Foreman,Michigan State,WR
+1970,26,12,18,Don Burrell,Angelo State,WR
+1970,27,13,7,Paul Dunn,U.S. International,WR
+1970,28,13,22,Melvin Jones,Florida A&M,WR
+1970,29,14,1,Jim Morgan,Henderson State,WR
+1970,30,14,6,Joe Johnson,Johnson C. Smith,WR
+1970,31,14,7,Ray Groth,Utah,WR
+1970,32,14,13,Chuck Wald,North Dakota State,WR
+1970,33,14,19,Charlie Brown,Northern Arizona,WR
+1970,34,14,23,Julian Martin,North Carolina Central,WR
+1970,35,14,25,Tom Spinks,Louisiana Tech,WR
+1970,36,15,3,Pat Hauser,East Tennessee State,WR
+1970,37,15,4,Kent Schoolfield,Florida A&M,WR
+1970,38,15,6,Ron Wilson,Western Illinois,WR
+1970,39,15,7,John Carlos,San Jose State,WR
+1970,40,15,9,Dave Delsignore,Youngstown State,WR
+1970,41,15,16,Mike Carter,Sacramento State,WR
+1970,42,15,24,Fred Moore,Washington State,WR
+1970,43,16,4,Larry Davis,Rice,WR
+1970,44,16,13,Steve Parnell,Massachusetts,WR
+1970,45,16,14,Chris Myers,Kenyon,WR
+1970,46,16,17,Steve Bushore,Emporia State,WR
+1970,47,16,25,Bruce Cerone,Emporia State,WR
+1970,48,17,4,Joe Killingsworth,Oklahoma,WR
+1970,49,17,18,Alvin Pearman,Colgate,WR
+1970,50,17,24,Eric Stolberg,Indiana,WR
+1969,1,1,6,Ron Sellers,Florida State,WR
+1969,2,1,10,Jim Seymour,Notre Dame,WR
+1969,3,1,16,Gene Washington,Stanford,WR
+1969,4,1,25,Eddie Hinton,Oklahoma,WR
+1969,5,2,14,Jerry Levias,Southern Methodist,WR
+1969,6,2,17,Volly Murphy,Texas-El Paso,WR
+1969,7,2,23,Richmond Flowers,Tennessee,WR
+1969,8,3,5,Louis Thomas,Utah,WR
+1969,9,3,7,Larry Walton,Arizona State,WR
+1969,10,3,12,John Spilis,Northern Illinois,WR
+1969,11,4,14,Rich Houston,East Texas State,WR
+1969,12,4,15,Charlie Joiner,Grambling State,WR
+1969,13,5,8,Mike O'Shea,Utah State,WR
+1969,14,5,18,Harry Orszulak,Pittsburgh,WR
+1969,15,5,19,Gene Huey,Wyoming,WR
+1969,16,5,20,Fair Hooker,Arizona State,WR
+1969,17,6,13,Willie Grate,South Carolina State,WR
+1969,18,6,17,Terry Swarn,Colorado State,WR
+1969,19,6,22,Rick Shaw,Arizona State,WR
+1969,20,7,13,Ron Copeland,UCLA,WR
+1969,21,7,23,Tom Nettles,San Diego State,WR
+1969,22,7,24,Larry Bales,Emory & Henry,WR
+1969,23,8,3,Jim Callahan,Temple,WR
+1969,24,8,4,Joe Cooper,Tennessee State,WR
+1969,25,8,7,Jim Lawrence,USC,WR
+1969,26,8,17,Harris Wood,Washington,WR
+1969,27,8,18,Craig Cotton,Youngstown State,WR
+1969,28,9,3,Kent Lawrence,Georgia,WR
+1969,29,9,26,Drew Buie,Catawba,WR
+1969,30,10,1,Ron Baines,Montana,WR
+1969,31,10,19,Tom McCauley,Wisconsin,WR
+1969,32,11,6,Barry Gallup,Boston College,WR
+1969,33,11,7,Tom Morel,Louisiana State,WR
+1969,34,11,20,Dave Jones,Kansas State,WR
+1969,35,11,21,Dave Svendsen,Eastern Washington,WR
+1969,36,13,5,Chuck Benson,Southern Illinois,WR
+1969,37,13,4,John Sias,Georgia Tech,WR
+1969,38,13,19,Rene Matison,New Mexico,WR
+1969,39,14,1,Bubba Thornton,Texas Christian,WR
+1969,40,14,8,George Hoey,Michigan,WR
+1969,41,14,16,Tom Black,East Texas State,WR
+1969,42,14,24,Harold Busby,UCLA,WR
+1969,43,15,3,Leon Angevine,Penn State,WR
+1969,44,15,4,Ken Liberto,Louisiana Tech,WR
+1969,45,15,7,Bill Waller,Xavier,WR
+1969,46,15,11,Chick McGeehan,Tennessee,WR
+1969,47,15,15,Don Herrmann,Waynesburg,WR
+1969,48,16,4,Dock Mosley,Alcorn State,WR
+1969,49,16,12,Dick Hewins,Drake,WR
+1969,50,16,18,Willie Davenport,Southern,WR
+1969,51,16,20,James Lowe,Tuskegee,WR
+1969,52,17,15,Bob Long,Texas A&M,WR
+1969,53,17,25,Joe Cowan,Johns Hopkins,WR
+1968,1,1,9,Haven Moses,San Diego State,WR
+1968,2,1,20,Dennis Homan,Alabama,WR
+1968,3,1,24,Earl McCullouch,USC,WR
+1968,4,2,13,Freddie Hyatt,Auburn,WR
+1968,5,2,18,Dave McDaniels,Mississippi Valley State,WR
+1968,6,2,19,Bob Wallace,Texas-El Paso,WR
+1968,7,2,22,Mac Haik,Mississippi,WR
+1968,8,2,26,John Wright,Illinois,WR
+1968,9,2,27,Jim Cox,Miami (FL),WR
+1968,10,3,4,Dave Szymakowski,West Texas State,WR
+1968,11,3,5,Aaron March,Eastern Kentucky,WR
+1968,12,3,23,Rich O'Hara,Northern Arizona,WR
+1968,13,3,24,Ken Hebert,Houston,WR
+1968,14,4,15,Johnny Fuller,Lamar,WR
+1968,15,4,17,Ken Dyer,Arizona State,WR
+1968,16,4,22,Jim Beirne,Purdue,WR
+1968,17,4,25,John Robinson,Tennessee State,WR
+1968,18,5,9,Phil Odle,Brigham Young,WR
+1968,19,5,16,Cecil Turner,Cal Poly-San Luis Obispo,WR
+1968,20,5,22,Bob Longo,Pittsburgh,WR
+1968,21,6,3,Leo Johnson,Tennessee State,WR
+1968,22,6,6,Bob Goodridge,Vanderbilt,WR
+1968,23,6,8,Jimmy Hines,Texas Southern,WR
+1968,24,6,20,Elmo Malple,Southern,WR
+1968,25,6,24,Rick Eber,Tulsa,WR
+1968,26,7,2,Oscar Reed,Colorado State,WR
+1968,27,7,10,Eugene Howard,Langston,WR
+1968,28,7,12,Ken Henry,Wake Forest,WR
+1968,29,7,18,Lane Fenner,Florida State,WR
+1968,30,8,13,Jerry Daanen,Miami (FL),WR
+1968,31,8,15,Tom Gray,Morehead State,WR
+1968,32,8,23,Joe Williams,Florida A&M,WR
+1968,33,9,14,Case Boyett,Brigham Young,WR
+1968,34,9,15,Joe Koontz,Cal State-San Francisco,WR
+1968,35,10,13,Tom Busch,Iowa State,WR
+1968,36,10,19,Jack Gehrke,Utah,WR
+1968,37,10,20,Ben Olison,Kansas,WR
+1968,38,10,21,Alvin Mitchell,Morgan State,WR
+1968,39,10,23,Allen Marcelin,Parsons,WR
+1968,40,11,6,Bill Haas,Nebraska-Omaha,WR
+1968,41,11,17,Henry Owens,Weber State,WR
+1968,42,11,22,Bill Halley,La Verne,WR
+1968,43,12,23,Harold Jackson,Jackson State,WR
+1968,44,12,26,Larry Plantz,Colorado,WR
+1968,45,13,6,Rich Wherry,Northern State (SD),WR
+1968,46,13,16,Willie Dearion,Prairie View A&M,WR
+1968,47,13,19,Jim Kavanagh,Boston College,WR
+1968,48,13,20,Carter Lord,Harvard,WR
+1968,49,13,26,Frank Geiselman,Rhode Island,WR
+1968,50,14,10,Richie Davis,Upsala,WR
+1968,51,14,26,John Farler,Colorado,WR
+1968,52,14,27,Steve Lewicke,Texas-El Paso,WR
+1968,53,15,2,Don Bean,Houston,WR
+1968,54,15,14,Clarence Spencer,Louisville,WR
+1968,55,15,19,Bob Baxter,Memphis State,WR
+1968,56,15,27,Joe Mira,Miami (FL),WR
+1968,57,16,24,Walt Blackledge,San Jose State,WR
+1968,58,17,12,Bob Lee,Minnesota,WR
+1968,59,17,25,Steve Berry,Catawba,WR
+1967,1,1,8,Gene Washington,Michigan State,WR
+1967,2,1,16,Dave Williams,Washington,WR
+1967,3,1,22,John Pitts,Arizona State,WR
+1967,4,2,15,Dave Dunaway,Duke,WR
+1967,5,2,26,John Gilliam,South Carolina State,WR
+1967,6,3,8,Earl Denny,Missouri,WR
+1967,7,3,19,Eppie Barney,Iowa State,WR
+1967,8,4,16,James Roy Jackson,Oklahoma,WR
+1967,9,4,19,Chuck Hughes,Texas Western,WR
+1967,10,5,8,Ken Last,Minnesota,WR
+1967,11,6,6,Neal Sweeney,Tulsa,WR
+1967,12,6,14,Nate Johns,San Diego State,WR
+1967,13,6,24,Sims Stokes,Northern Arizona,WR
+1967,14,7,5,Ed Carrington,Virginia,WR
+1967,15,7,10,John Truitt,Indiana State,WR
+1967,16,7,13,John Love,North Texas State,WR
+1967,17,7,20,Bob Rein,Ohio State,WR
+1967,18,8,6,Tom Cassese,C.W. Post,WR
+1967,19,8,10,Roger Murphy,Northwestern,WR
+1967,20,8,12,John Beasley,California,WR
+1967,21,8,14,John Mills,Tennessee,WR
+1967,22,8,16,Sharon Washington,N.E. Missouri,WR
+1967,23,9,4,Bob Moton,Bishop,WR
+1967,24,9,14,Steve Newell,Long Beach State,WR
+1967,25,9,22,Gerald Seither,Kent State,WR
+1967,26,10,1,Charlie Brown,Missouri,WR
+1967,27,10,2,Dick Stebbins,Grambling State,WR
+1967,28,10,11,Phil Myers,Northwestern Oklahoma,WR
+1967,29,10,26,Roosevelt Robertson,North Carolina College,WR
+1967,30,11,9,Jim Whitcomb,Emporia State,WR
+1967,31,11,20,Leroy Mitchell,Texas Southern,WR
+1967,32,11,22,Pat Riley,Kentucky,WR
+1967,33,12,9,Bruce Green,Midland (Neb.),WR
+1967,34,12,10,Ron Sepic,Ohio State,WR
+1967,35,12,15,Steve Dundee,Pomona,WR
+1967,36,12,23,Kent Lashley,Northeastern State (OK),WR
+1967,37,12,25,John Robinson,Tennessee A&I,WR
+1967,38,13,12,Jack Emmer,Rutgers,WR
+1967,39,13,15,John Erisman,Miami (OH),WR
+1967,40,13,17,Len Kleinpeter,Southwestern Louisiana,WR
+1967,41,13,25,Keith Brown,Central Missouri State,WR
+1967,42,14,13,Dalton Leblanc,N.E. Louisiana,WR
+1967,43,14,22,Casey Boyett,Brigham Young,WR
+1967,44,15,12,Clarence Spencer,Louisville,WR
+1967,45,15,13,Jack Schweberger,Vermont,WR
+1967,46,15,14,Craig Scoggins,San Diego State,WR
+1967,47,16,1,Marcus Rhoden,Mississippi State,WR
+1967,48,16,5,Rex Keeling,Samford (Ala),WR
+1967,49,16,18,Don Williams,Akron,WR
+1967,50,16,20,Don Alley,Adams State,WR
+1967,51,17,4,Larry Lee,Texas A&M,WR
+1967,52,17,24,David Laffin,Texas Western,WR
+1967,53,17,26,Jimmy Walker,Providence,WR
+1966,1,3,4,Ben Hawkins,Arizona State,WR
+1966,2,3,7,Bill Malinchak,Indiana,WR
+1966,3,3,15,Rick Kestner,Kentucky,WR
+1966,4,3,16,Phil Sheridan,Notre Dame,WR
+1966,5,4,6,Rod Sherman,USC,WR
+1966,6,4,11,Willie Walker,Tennessee State,WR
+1966,7,4,14,John Roderick,Southern Methodist,WR
+1966,8,5,7,Steve Smith,Michigan,WR
+1966,9,5,9,Jack Clancy,Michigan,WR
+1966,10,5,14,Dan Fulford,Auburn,WR
+1966,11,6,1,Charley Casey,Florida,WR
+1966,12,6,6,Bob Dunlevy,West Virginia,WR
+1966,13,7,5,Arthur Robinson,Florida A&M,WR
+1966,14,7,8,Johnnie Robinson,Tennessee State,WR
+1966,15,7,14,Leroy Carter,Grambling State,WR
+1966,16,7,15,Ray Perkins,Alabama,WR
+1966,17,8,8,Bill Matan,Kansas State,WR
+1966,18,8,9,Dick Witcher,UCLA,WR
+1966,19,8,13,Tom Talaga,Notre Dame,WR
+1966,20,8,14,Ken McLean,Texas A&M,WR
+1966,21,9,5,Darrell Elam,West Virginia Tech,WR
+1966,22,9,7,Freeman White,Nebraska,WR
+1966,23,9,8,Kent Kramer,Minnesota,WR
+1966,24,9,9,Ron Green,North Dakota,WR
+1966,25,9,10,Charlie Bryant,Allen,WR
+1966,26,9,12,Fritz Greenlee,Northern Arizona,WR
+1966,27,10,13,Monty Ledbetter,Northwestern State (LA),WR
+1966,28,11,5,Austin Denny,Tennessee,WR
+1966,29,11,6,Dick Reding,Northwestern State (LA),WR
+1966,30,11,10,Cliff Wilder,Iowa,WR
+1966,31,11,12,Terry Owens,Jacksonville State,WR
+1966,32,11,15,Eric Crabtree,Pittsburgh,WR
+1966,33,13,15,Bob Hadrick,Purdue,WR
+1966,34,14,9,Howard Twilley,Tulsa,WR
+1966,35,14,14,Ron Hanson,North Dakota State,WR
+1966,36,15,1,Tom Tolleson,Alabama,WR
+1966,37,15,2,Mike Sullivan,Oregon State,WR
+1966,38,15,7,Saint Saffold,San Jose State,WR
+1966,39,15,9,Darryl Alleman,Wyoming,WR
+1966,40,16,2,Joe O'Brien,Texas-Arlington,WR
+1966,41,16,3,Jim Long,Purdue,WR
+1966,42,16,9,Jerry Gendron,Wisconsin-Eau Claire,WR
+1966,43,17,6,Mitch Zalnasky,Pittsburgh,WR
+1966,44,18,7,Bill Johnson,West Alabama,WR
+1966,45,18,9,Ron Parson,Austin Peay,WR
+1966,46,19,2,Homer Williams,USC,WR
+1966,47,19,6,Andre White,Florida A&M,WR
+1966,48,19,7,Bobby Crockett,Arkansas,WR
+1966,49,19,13,Dave Moton,USC,WR
+1966,50,20,6,Lou Hudson,Minnesota,WR
+1966,51,20,7,Willie Walker,Baylor,WR
+1966,52,20,12,Goldie Sellers,Grambling State,WR
+1966,53,20,14,Ed Maras,South Dakota State,WR
+1965,1,1,8,Jack Snow,Notre Dame,WR
+1965,2,2,0,Fred Biletnikoff,Florida State,WR
+1965,3,2,4,Roy Jefferson,Utah,WR
+1965,4,2,9,Lance Rentzel,Oklahoma,WR
+1965,5,3,11,Fred Biletnikoff,Florida State,WR
+1965,6,4,2,Larry Todd,Arizona State,WR
+1965,7,4,6,Fred Hill,USC,WR
+1965,8,4,14,Dave Johnson,San Jose State,WR
+1965,9,5,14,John McGuire,Syracuse,WR
+1965,10,6,7,Gary Garrison,San Diego State,WR
+1965,11,6,13,Corwyn Aldredge,Northwestern State (LA),WR
+1965,12,11,14,Lamar Richardson,Fisk,WR
+1965,13,13,3,J.R. Wilburn,South Carolina,WR
+1965,14,14,3,Dave Pivec,Notre Dame,WR
+1965,15,14,5,Gary Porterfield,Tulsa,WR
+1965,16,15,7,Otis Taylor,Prairie View A&M,WR
+1965,17,16,3,Frank Pitts,Southern,WR
+1964,1,1,1,Dave Parks,Texas Tech,WR
+1964,2,1,10,Paul Martha,Pittsburgh,WR
+1964,3,1,11,Paul Warfield,Ohio State,WR
+1964,4,2,5,Hal Bedsole,USC,WR
+1964,5,2,14,Jim Kelly,Notre Dame,WR
+1964,6,7,4,Bob Hayes,Florida A&M,WR
+1964,7,8,7,Bucky Pope,Catawba,WR
+1963,1,1,7,Pat Richter,Wisconsin,WR
+1963,2,3,3,Ray Poage,Texas,WR
+1962,1,1,4,Gary Collins,Maryland,WR
+1962,2,1,8,Lance Alworth,Arkansas,WR
+1962,3,2,0,Lance Alworth,Arkansas,WR
+1962,4,7,12,Frank Budd,Villanova,WR
+1960,1,1,11,Monty Stickles,Notre Dame,WR
+1960,2,6,3,Gail Cogdill,Washington State,WR
+1960,3,7,3,Jim Norton,Idaho,WR
+1960,4,8,2,Carroll Dale,Virginia Tech,WR
+1960,5,9,9,Chris Burford,Stanford,WR
+1960,6,10,10,Mel Branch,Louisiana State,WR
+1959,1,1,11,Rich Kreitling,Illinois,WR
+1959,2,11,3,Art Powell,San Jose State,WR
+1959,3,14,11,Elbert (Golden Wheels) Dubenion,Bluffton,WR
+1959,4,19,7,Dave Kocourek,Wisconsin,WR
+1958,1,2,5,Willard Dewveall,Southern Methodist,WR
+1957,1,3,6,Tommy McDonald,Oklahoma,WR
+1957,2,3,11,Terry Barr,Michigan,WR
+1957,3,9,12,Don Maynard,Texas-El Paso,WR
+1954,1,20,3,Raymond Berry,Southern Methodist,WR
+1947,1,10,8,Dante Lavelli,Ohio State,WR
+1945,1,1,5,Elroy Hirsch,Michigan/Wisconsin,WR
+1945,2,5,9,Pete Pihos,Indiana,WR
+1945,3,11,5,Tom Fears,UCLA,WR

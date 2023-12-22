@@ -1,0 +1,404 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Adrian Peterson,5.05,RB,MIN,2013
+2,Doug Martin,7.42,RB,TBB,2013
+3,Arian Foster,8.17,RB,HOU,2013
+4,Calvin Johnson,8.60,WR,DET,2013
+5,Jamaal Charles,9.47,RB,KCC,2013
+6,Ray Rice,10.59,RB,BAL,2013
+7,LeSean McCoy,11.40,RB,PHI,2013
+8,Trent Richardson,11.49,RB,IND,2013
+9,C.J. Spiller,13.44,RB,BUF,2013
+10,Marshawn Lynch,14.26,RB,SEA,2013
+11,Matt Forte,16.56,RB,CHI,2013
+12,Dez Bryant,17.20,WR,DAL,2013
+13,A.J. Green,17.41,WR,CIN,2013
+14,Brandon Marshall,19.76,WR,CHI,2013
+15,Jimmy Graham,21.33,TE,NOS,2013
+16,Julio Jones,21.59,WR,ATL,2013
+17,Aaron Rodgers,21.64,QB,GBP,2013
+18,Chris Johnson,22.71,RB,TEN,2013
+19,Steven Jackson,23.57,RB,ATL,2013
+20,Drew Brees,24.09,QB,NOS,2013
+21,Alfred Morris,24.56,RB,WAS,2013
+22,Demaryius Thomas,25.49,WR,DEN,2013
+23,Reggie Bush,26.69,RB,DET,2013
+24,Larry Fitzgerald,27.59,WR,ARI,2013
+25,Maurice Jones-Drew,27.73,RB,JAC,2013
+26,Andre Johnson,29.71,WR,HOU,2013
+27,Roddy White,32.79,WR,ATL,2013
+28,Stevan Ridley,32.81,RB,NEP,2013
+29,Darren Sproles,34.77,RB,NOS,2013
+30,Randall Cobb,35.03,WR,GBP,2013
+31,David Wilson,36.40,RB,NYG,2013
+32,DeMarco Murray,36.50,RB,DAL,2013
+33,Victor Cruz,36.97,WR,NYG,2013
+34,Peyton Manning,37.17,QB,DEN,2013
+35,Frank Gore,37.67,RB,SFO,2013
+36,Vincent Jackson,39.33,WR,TBB,2013
+37,Darren McFadden,39.53,RB,OAK,2013
+38,Wes Welker,41.46,WR,DEN,2013
+39,Eddie Lacy,43.23,RB,GBP,2013
+40,Rob Gronkowski,43.98,TE,NEP,2013
+41,Lamar Miller,44.50,RB,MIA,2013
+42,Dwayne Bowe,44.90,WR,KCC,2013
+43,Marques Colston,45.38,WR,NOS,2013
+44,Cam Newton,45.64,QB,CAR,2013
+45,Tom Brady,45.77,QB,NEP,2013
+46,Reggie Wayne,46.85,WR,IND,2013
+47,Danny Amendola,47.05,WR,NEP,2013
+48,Jason Witten,49.86,TE,DAL,2013
+49,Hakeem Nicks,50.76,WR,NYG,2013
+50,Montee Ball,50.94,RB,DEN,2013
+51,Matt Ryan,51.61,QB,ATL,2013
+52,Jordy Nelson,51.99,WR,GBP,2013
+53,Giovani Bernard,52.13,RB,CIN,2013
+54,Pierre Garcon,55.08,WR,WAS,2013
+55,Ryan Mathews,55.86,RB,SDC,2013
+56,Torrey Smith,56.95,WR,BAL,2013
+57,Antonio Brown,57.95,WR,PIT,2013
+58,Eric Decker,58.91,WR,DEN,2013
+59,Mike Wallace,59.21,WR,MIA,2013
+60,Vernon Davis,59.66,TE,SFO,2013
+61,Colin Kaepernick,60.16,QB,SFO,2013
+62,Le'Veon Bell,60.66,RB,PIT,2013
+63,Matthew Stafford,62.38,QB,DET,2013
+64,Tony Gonzalez,62.41,TE,ATL,2013
+65,Tavon Austin,63.81,WR,STL,2013
+66,Andrew Luck,64.57,QB,IND,2013
+67,Steve Smith,66.22,WR,CAR,2013
+68,Robert Griffin III,66.40,QB,WAS,2013
+69,J.J. Watt,69.09,DE,HOU,2013
+70,DeSean Jackson,69.44,WR,PHI,2013
+71,James Jones,72.75,WR,GBP,2013
+72,Shane Vereen,73.11,RB,NEP,2013
+73,Chris Ivory,73.36,RB,NYJ,2013
+74,T.Y. Hilton,74.29,WR,IND,2013
+75,Tony Romo,74.46,QB,DAL,2013
+76,Russell Wilson,74.65,QB,SEA,2013
+77,Ahmad Bradshaw,76.45,RB,IND,2013
+78,Luke Kuechly,76.76,LB,CAR,2013
+79,Stevie Johnson,77.25,WR,BUF,2013
+80,Daryl Richardson,78.45,RB,STL,2013
+81,Greg Jennings,78.63,WR,MIN,2013
+82,Cecil Shorts,78.94,WR,JAC,2013
+83,Rashard Mendenhall,80.70,RB,ARI,2013
+84,Arthur Brown,81.75,LB,BAL,2013
+85,Miles Austin,83.57,WR,DAL,2013
+86,Josh Gordon,84.94,WR,CLE,2013
+87,Jermichael Finley,87.49,TE,GBP,2013
+88,James Laurinaitis,87.71,LB,STL,2013
+89,Anquan Boldin,88.10,WR,SFO,2013
+90,Kyle Rudolph,88.27,TE,MIN,2013
+91,Greg Olsen,89.80,TE,CAR,2013
+92,Mike Williams,90.05,WR,TBB,2013
+93,BenJarvus Green-Ellis,90.55,RB,CIN,2013
+94,Kevin Minter,91.98,LB,ARI,2013
+95,DeAndre Hopkins,92.97,WR,HOU,2013
+96,Kenny Britt,93.21,WR,TEN,2013
+97,"Seahawks, Seattle SEA Def",93.62,Def,SEA,2013
+98,Dion Jordan,94.23,DE,MIA,2013
+99,Mark Ingram,94.69,RB,NOS,2013
+100,DeAngelo Williams,95.11,RB,CAR,2013
+101,Ben Tate,96.27,RB,HOU,2013
+102,Lance Moore,97.54,WR,NOS,2013
+103,Navorro Bowman,98.72,LB,SFO,2013
+104,Alec Ogletree,98.93,LB,STL,2013
+105,Jared Cook,99.02,TE,STL,2013
+106,Ezekiel Ansah,99.67,DE,DET,2013
+107,Patrick Willis,100.04,LB,SFO,2013
+108,Kiko Alonso,101.45,LB,BUF,2013
+109,Eli Manning,101.51,QB,NYG,2013
+110,Bobby Wagner,101.96,LB,SEA,2013
+111,Jarvis Jones,102.31,LB,PIT,2013
+112,"49ers, San Francisco SFO Def",102.73,Def,SFO,2013
+113,Barkevious Mingo,104.61,LB,CLE,2013
+114,Andre Brown,104.92,RB,NYG,2013
+115,Sean Lee,105.16,LB,DAL,2013
+116,Manti Te'o,105.61,LB,SDC,2013
+117,Kenny NOS SVaccaro,105.69,S,NOS,2013
+118,Justin Blackmon,105.79,WR,JAC,2013
+119,Jason Pierre-Paul,106.58,DE,NYG,2013
+120,Tyler Wilson,106.64,QB,TEN,2013
+121,Da'Rick Rogers,106.72,WR,IND,2013
+122,Jon Bostic,107.87,LB,CHI,2013
+123,Kenbrell Thompkins,108.01,WR,NEP,2013
+124,Antonio Gates,108.02,TE,SDC,2013
+125,Owen Daniels,108.22,TE,HOU,2013
+126,Jared Allen,108.42,DE,MIN,2013
+127,Matt Barkley,108.73,QB,PHI,2013
+128,Jordan Reed,109.39,TE,WAS,2013
+129,Ryan Swope,109.69,WR,ARI,2013
+130,Gavin Escobar,110.05,TE,DAL,2013
+131,Johnathan JAC SCyprien,110.28,S,JAC,2013
+132,Matt BAL SElam,110.42,S,BAL,2013
+133,Cameron Wake,110.67,DE,MIA,2013
+134,Justin Hunter,111.21,WR,TEN,2013
+135,Lavonte David,111.27,LB,TBB,2013
+136,Chris Givens,111.37,WR,STL,2013
+137,Cordarrelle Patterson,112.24,WR,MIN,2013
+138,Michael Floyd,112.97,WR,ARI,2013
+139,Stedman Bailey,113.02,WR,STL,2013
+140,Jordan Cameron,113.06,TE,CLE,2013
+141,Paul Posluszny,113.56,LB,JAC,2013
+142,Vick Ballard,113.62,RB,IND,2013
+143,Vincent Brown,113.76,WR,SDC,2013
+144,Marcus Lattimore,113.76,RB,SFO,2013
+145,Chris Harper,114.60,WR,GBP,2013
+146,Emmanuel Sanders,114.97,WR,PIT,2013
+147,Andre Ellington,115.13,RB,ARI,2013
+148,Mike Glennon,115.26,QB,TBB,2013
+149,Bryce Brown,115.90,RB,PHI,2013
+150,Michael Vick,116.03,QB,PHI,2013
+151,Charles Johnson,116.43,WR,CLE,2013
+152,"Bears, Chicago CHI Def",116.60,Def,CHI,2013
+153,Andy Dalton,116.65,QB,CIN,2013
+154,Bernard Pierce,116.81,RB,BAL,2013
+155,Derrick Johnson,117.16,LB,KCC,2013
+156,Eric SFO SReid,117.45,S,SFO,2013
+157,Marquess Wilson,117.97,WR,CHI,2013
+158,Golden Tate,118.02,WR,SEA,2013
+159,Marquise Goodwin,118.08,WR,BUF,2013
+160,Aldon Smith,118.41,LB,SFO,2013
+161,Mike Gillislee,118.42,RB,MIA,2013
+162,Demarcus Ware,118.93,DE,DAL,2013
+163,Ronnie Hillman,118.95,RB,DEN,2013
+164,"Texans, Houston HOU Def",119.56,Def,HOU,2013
+165,Alshon Jeffery,120.17,WR,CHI,2013
+166,Sidney Rice,121.37,WR,SEA,2013
+167,Jerod Mayo,121.55,LB,NEP,2013
+168,Sio Moore,121.83,LB,OAK,2013
+169,Morgan GBP SBurnett,121.88,S,GBP,2013
+170,Terrance Williams,122.58,WR,DAL,2013
+171,Josh Boyce,122.69,WR,NEP,2013
+172,Travis Kelce,122.77,TE,KCC,2013
+173,Kerwynn Williams,122.79,RB,SDC,2013
+174,Johnathan Franklin,123.35,RB,GBP,2013
+175,Danny Woodhead,123.51,RB,SDC,2013
+176,Latavius Murray,124.56,RB,OAK,2013
+177,Denarius Moore,124.67,WR,OAK,2013
+178,Jonathan Stewart,125.33,RB,CAR,2013
+179,"Broncos, Denver DEN Def",125.46,Def,DEN,2013
+180,Charles Tillman,126.00,CB,CHI,2013
+181,Chad Greenway,126.49,LB,MIN,2013
+182,Geno Smith,126.61,QB,NYJ,2013
+183,Datone Jones,126.89,DE,GBP,2013
+184,D'Qwell Jackson,127.05,LB,CLE,2013
+185,Tyler Eifert,127.07,TE,CIN,2013
+186,Aaron Dobson,127.64,WR,NEP,2013
+187,Zac Stacy,127.91,RB,STL,2013
+188,Brandon Myers,128.01,TE,NYG,2013
+189,Harrison MIN SSmith,128.20,S,MIN,2013
+190,Zach Sudfeld,128.40,TE,NYJ,2013
+191,Fred Jackson,128.66,RB,BUF,2013
+192,Tyrann ARI SMathieu,129.00,S,ARI,2013
+193,Eric KCC SBerry,129.07,S,KCC,2013
+194,Martellus Bennett,129.32,TE,CHI,2013
+195,Richard Sherman,129.71,CB,SEA,2013
+196,Quinton Patton,129.77,WR,SFO,2013
+197,Brandon Pettigrew,129.86,TE,DET,2013
+198,Ben Roethlisberger,130.17,QB,PIT,2013
+199,Christine Michael,130.19,RB,SEA,2013
+200,Lawrence Timmons,130.32,LB,PIT,2013
+201,Kendall Wright,130.41,WR,TEN,2013
+202,Keenan Allen,130.63,WR,SDC,2013
+203,"Bengals, Cincinnati CIN Def",130.95,Def,CIN,2013
+204,Zach Ertz,131.00,TE,PHI,2013
+205,Vance McDonald,131.18,TE,SFO,2013
+206,Patrick Peterson,131.61,CB,ARI,2013
+207,Calais Campbell,133.09,DE,ARI,2013
+208,Geno Atkins,133.77,DT,CIN,2013
+209,Jay Cutler,134.00,QB,CHI,2013
+210,Daryl Washington,134.30,LB,ARI,2013
+211,Markus Wheaton,134.44,WR,PIT,2013
+212,Brian Cushing,134.78,LB,HOU,2013
+213,Charles Johnson,135.08,DE,CAR,2013
+214,Clay Matthews,135.74,LB,GBP,2013
+215,Jacquizz Rodgers,136.06,RB,ATL,2013
+216,Robert Woods,136.26,WR,BUF,2013
+217,Joseph Randle,136.48,RB,DAL,2013
+218,E.J. Manuel,136.97,QB,BUF,2013
+219,Ryan Broyles,137.25,WR,DET,2013
+220,Von Miller,137.42,LB,DEN,2013
+221,Pierre Thomas,137.46,RB,NOS,2013
+222,Brian Hartline,138.01,WR,MIA,2013
+223,Stephen Gostkowski,138.66,PK,NEP,2013
+224,Joe Flacco,138.68,QB,BAL,2013
+225,"Patriots, New England NEP Def",139.18,Def,NEP,2013
+226,Stepfan Taylor,139.35,RB,ARI,2013
+227,Kenjon Barner,139.40,RB,CAR,2013
+228,Mario Williams,139.83,DE,BUF,2013
+229,Rueben Randle,139.97,WR,NYG,2013
+230,Fred Davis,140.30,TE,WAS,2013
+231,Sam Bradford,142.28,QB,STL,2013
+232,Denard Robinson,142.38,RB,JAC,2013
+233,Mikel Leshoure,142.84,RB,DET,2013
+234,Knile Davis,143.58,RB,KCC,2013
+235,Jermaine Gresham,143.88,TE,CIN,2013
+236,Isaiah Pead,144.05,RB,STL,2013
+237,Greg Hardy,144.83,DE,CAR,2013
+238,Matt Schaub,145.05,QB,HOU,2013
+239,Vontaze Burfict,145.18,LB,CIN,2013
+240,Eric SDC SWeddle,145.47,S,SDC,2013
+241,Kenny Stills,146.28,WR,NOS,2013
+242,Carson Palmer,148.13,QB,ARI,2013
+243,Mark TBB SBarron,148.97,S,TBB,2013
+244,Kam SEA SChancellor,149.05,S,SEA,2013
+245,Blair Walsh,149.52,PK,MIN,2013
+246,Wesley Woodyard,150.74,LB,DEN,2013
+247,Mike James,151.14,RB,TBB,2013
+248,Sean Weatherspoon,151.39,LB,ATL,2013
+249,Joique Bell,152.17,RB,DET,2013
+250,Josh Freeman,153.07,QB,MIN,2013
+251,Darrius Heyward-Bey,153.38,WR,IND,2013
+252,London Fletcher,153.99,LB,WAS,2013
+253,Julius Thomas,154.26,TE,DEN,2013
+254,"Rams, St. Louis STL Def",154.27,Def,STL,2013
+255,Bruce Carter,154.85,LB,DAL,2013
+256,"Ravens, Baltimore BAL Def",154.87,Def,BAL,2013
+257,Knowshon Moreno,154.98,RB,DEN,2013
+258,Isaac Redman,155.15,RB,FA,2013
+259,Matt Bryant,155.33,PK,ATL,2013
+260,"Packers, Green Bay GBP Def",155.54,Def,GBP,2013
+261,Ace Sanders,155.78,WR,JAC,2013
+262,Greg Little,156.32,WR,CLE,2013
+263,Cortland Finnegan,157.49,CB,STL,2013
+264,Ndamukong Suh,157.92,DT,DET,2013
+265,Julius Peppers,158.11,DE,CHI,2013
+266,Tyvon OAK SBranch,158.29,S,OAK,2013
+267,Chandler Jones,158.29,DE,NEP,2013
+268,Coby Fleener,158.35,TE,IND,2013
+269,Matt Prater,158.96,PK,DEN,2013
+270,Donald Butler,159.01,LB,SDC,2013
+271,Ryan Tannehill,159.04,QB,MIA,2013
+272,Marlon Brown,159.31,WR,BAL,2013
+273,Michael Bush,159.36,RB,CHI,2013
+274,Mohamed Sanu,159.77,WR,CIN,2013
+275,"Steelers, Pittsburgh PIT Def",159.94,Def,PIT,2013
+276,Philip Rivers,159.99,QB,SDC,2013
+277,Dannell Ellerbe,160.17,LB,MIA,2013
+278,Jerrell Freeman,160.29,LB,IND,2013
+279,Jonathan Dwyer,160.54,RB,PIT,2013
+280,Robert Housler,161.26,TE,ARI,2013
+281,Alex Smith,162.31,QB,KCC,2013
+282,Phil Dawson,162.60,PK,SFO,2013
+283,Janoris Jenkins,163.06,CB,STL,2013
+284,Bilal Powell,163.79,RB,NYJ,2013
+285,Jason McCourty,164.35,CB,TEN,2013
+286,Malcom Floyd,164.47,WR,SDC,2013
+287,Roy Helu,164.49,RB,WAS,2013
+288,Shonn Greene,165.14,RB,TEN,2013
+289,Heath Miller,165.40,TE,PIT,2013
+290,Dwayne Allen,165.50,TE,IND,2013
+291,LaMichael James,165.88,RB,SFO,2013
+292,Ryan Williams,166.13,RB,ARI,2013
+293,Dustin Keller,166.35,TE,MIA,2013
+294,"Cardinals, Arizona ARI Def",166.59,Def,ARI,2013
+295,DuJuan Harris,166.62,RB,GBP,2013
+296,Anthony Spencer,166.79,DE,DAL,2013
+297,Brandon LaFell,167.42,WR,CAR,2013
+298,Jacoby Jones,168.90,WR,BAL,2013
+299,Chris Long,169.18,DE,STL,2013
+300,Greg Zuerlein,170.67,PK,STL,2013
+301,Julian Edelman,170.68,WR,NEP,2013
+302,Bernard TEN SPollard,170.89,S,TEN,2013
+303,Reshad MIA SJones,171.11,S,MIA,2013
+304,Ed Dickson,171.61,TE,BAL,2013
+305,Elvis Dumervil,171.74,LB,BAL,2013
+306,Rod Streater,172.89,WR,OAK,2013
+307,Sebastian Janikowski,172.97,PK,OAK,2013
+308,William ATL SMoore,173.05,S,ATL,2013
+309,Kendall Hunter,173.21,RB,SFO,2013
+310,LaRon IND SLandry,173.21,S,IND,2013
+311,Robert Quinn,173.77,DE,STL,2013
+312,Andre Roberts,174.27,WR,ARI,2013
+313,Carlos Dunlap,174.81,DE,CIN,2013
+314,Santonio Holmes,174.91,WR,NYJ,2013
+315,Justin Tucker,175.21,PK,BAL,2013
+316,Riley Cooper,176.50,WR,PHI,2013
+317,Marcel Reece,176.69,RB,OAK,2013
+318,"Buccaneers, Tampa Bay TBB Def",177.11,Def,TBB,2013
+319,"Cowboys, Dallas DAL Def",177.26,Def,DAL,2013
+320,Daniel Thomas,177.47,RB,MIA,2013
+321,Michael Johnson,177.63,DE,CIN,2013
+322,Lance Dunbar,177.80,RB,DAL,2013
+323,Zach Miller,178.54,TE,SEA,2013
+324,Osi Umenyiora,178.62,DE,ATL,2013
+325,Robert Turbin,178.65,RB,SEA,2013
+326,Jake Ballard,178.66,TE,ARI,2013
+327,"Giants, New York NYG Def",178.78,Def,NYG,2013
+328,Randy Bullock,179.26,PK,HOU,2013
+329,Terrell Suggs,179.72,LB,BAL,2013
+330,Brent Celek,179.86,TE,PHI,2013
+331,Brandon Weeden,180.23,QB,CLE,2013
+332,Austin Collie,180.50,WR,NEP,2013
+333,Brian Quick,180.87,WR,STL,2013
+334,Delanie Walker,182.03,TE,TEN,2013
+335,Stephen Hill,182.39,WR,NYJ,2013
+336,David Akers,182.59,PK,DET,2013
+337,Dan Bailey,183.30,PK,DAL,2013
+338,Garrett Hartley,183.81,PK,FA,2013
+339,"Falcons, Atlanta ATL Def",184.03,Def,ATL,2013
+340,"Browns, Cleveland CLE Def",184.05,Def,CLE,2013
+341,Roman NOS SHarper,184.22,S,NOS,2013
+342,Matt Flynn,185.24,QB,GBP,2013
+343,Jake Locker,186.91,QB,TEN,2013
+344,Terrelle Pryor,186.91,QB,OAK,2013
+345,Santana Moss,187.40,WR,WAS,2013
+346,LeGarrette Blount,188.95,RB,NEP,2013
+347,Marcedes Lewis,189.16,TE,JAC,2013
+348,"Vikings, Minnesota MIN Def",189.41,Def,MIN,2013
+349,Willis McGahee,189.72,RB,CLE,2013
+350,Caleb Sturgis,190.04,PK,MIA,2013
+351,"Lions, Detroit DET Def",190.08,Def,DET,2013
+352,"Dolphins, Miami MIA Def",190.26,Def,MIA,2013
+353,Jeremy Kerley,190.64,WR,NYJ,2013
+354,A.J. Jenkins,190.67,WR,KCC,2013
+355,Mike Goodson,191.42,RB,NYJ,2013
+356,"Redskins, Washington WAS Def",191.47,Def,WAS,2013
+357,"Chargers, San Diego SDC Def",192.84,Def,SDC,2013
+358,Steven Hauschka,192.92,PK,SEA,2013
+359,Nick Toon,193.09,WR,NOS,2013
+360,Felix Jones,193.20,RB,PIT,2013
+361,Jairus BUF SByrd,193.37,S,BUF,2013
+362,"Colts, Indianapolis IND Def",193.61,Def,IND,2013
+363,Christian Ponder,194.52,QB,MIN,2013
+364,Donnie Avery,195.94,WR,KCC,2013
+365,"Panthers, Carolina CAR Def",196.12,Def,CAR,2013
+366,Mason Crosby,196.34,PK,GBP,2013
+367,Toby Gerhart,196.71,RB,MIN,2013
+368,Jacob Tamme,197.03,TE,DEN,2013
+369,Rashad Jennings,197.29,RB,OAK,2013
+370,Josh Brown,197.75,PK,NYG,2013
+371,Robbie Gould,198.17,PK,CHI,2013
+372,"Chiefs, Kansas City KCC Def",198.47,Def,KCC,2013
+373,Kai Forbath,198.72,PK,WAS,2013
+374,Brandon Lloyd,199.22,WR,FA,2013
+375,Dexter McCluster,199.80,WR,KCC,2013
+376,Kirk Cousins,200.07,QB,WAS,2013
+377,Jason Avant,200.21,WR,PHI,2013
+378,Nate Burleson,200.40,WR,DET,2013
+379,"Saints, New Orleans NOS Def",200.61,Def,NOS,2013
+380,"Bills, Buffalo BUF Def",201.31,Def,BUF,2013
+381,Justin Forsett,201.79,RB,JAC,2013
+382,"Jets, New York NYJ Def",202.21,Def,NYJ,2013
+383,Jon Baldwin,202.42,WR,SFO,2013
+384,Adam Vinatieri,202.44,PK,IND,2013
+385,"Eagles, Philadelphia PHI Def",204.57,Def,PHI,2013
+386,Mike Tolbert,204.75,RB,CAR,2013
+387,Nate Washington,205.21,WR,TEN,2013
+388,Lawrence Tynes,206.08,PK,TBB,2013
+389,James Casey,206.24,TE,PHI,2013
+390,"Titans, Tennessee TEN Def",206.50,Def,TEN,2013
+391,Leonard Hankerson,206.98,WR,WAS,2013
+392,Dwayne Harris,207.59,WR,DAL,2013
+393,Jarius Wright,207.84,WR,MIN,2013
+394,Alex Henery,209.06,PK,PHI,2013
+395,Scott Chandler,210.22,TE,BUF,2013
+396,Mike Nugent,210.86,PK,CIN,2013
+397,Nick Foles,213.55,QB,PHI,2013
+398,Shaun Suisham,213.69,PK,PIT,2013
+399,Ryan Succop,216.56,PK,KCC,2013
+400,Doug Baldwin,218.02,WR,SEA,2013
+401,Rob Bironas,219.08,PK,TEN,2013
+402,Brandon Gibson,219.77,WR,MIA,2013
+403,Davone Bess,223.45,WR,CLE,2013

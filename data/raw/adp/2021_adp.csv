@@ -1,0 +1,363 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Christian McCaffrey,1.29,RB,CAR,2021
+2,Dalvin Cook,2.57,RB,MIN,2021
+3,Alvin Kamara,3.69,RB,NOS,2021
+4,Derrick Henry,4.34,RB,TEN,2021
+5,Davante Adams,7.25,WR,GBP,2021
+6,Ezekiel Elliott,7.29,RB,DAL,2021
+7,Aaron Jones,8.88,RB,GBP,2021
+8,Tyreek Hill,9.76,WR,KCC,2021
+9,Travis Kelce,10.61,TE,KCC,2021
+10,Nick Chubb,10.88,RB,CLE,2021
+11,Saquon Barkley,11.76,RB,NYG,2021
+12,Austin Ekeler,12.41,RB,LAC,2021
+13,Jonathan Taylor,12.96,RB,IND,2021
+14,Stefon Diggs,13.70,WR,BUF,2021
+15,Najee Harris,15.69,RB,PIT,2021
+16,Patrick Mahomes,17.41,QB,KCC,2021
+17,DeAndre Hopkins,17.84,WR,ARI,2021
+18,DK Metcalf,18.14,WR,SEA,2021
+19,Calvin Ridley,18.18,WR,ATL,2021
+20,Antonio Gibson,20.67,RB,WAS,2021
+21,Joe Mixon,21.04,RB,CIN,2021
+22,Darren Waller,24.03,TE,LVR,2021
+23,Clyde Edwards-Helaire,24.06,RB,KCC,2021
+24,Keenan Allen,24.74,WR,LAC,2021
+25,Justin Jefferson,25.30,WR,MIN,2021
+26,A.J. Brown,27.56,WR,TEN,2021
+27,Josh Allen,28.72,QB,BUF,2021
+28,George Kittle,30.23,TE,SFO,2021
+29,Chris Carson,30.90,RB,SEA,2021
+30,Mike Evans,32.11,WR,TBB,2021
+31,David Montgomery,33.40,RB,CHI,2021
+32,Terry McLaurin,33.60,WR,WAS,2021
+33,Allen Robinson,34.04,WR,CHI,2021
+34,CeeDee Lamb,35.66,WR,DAL,2021
+35,Josh Jacobs,35.98,RB,LVR,2021
+36,Miles Sanders,36.28,RB,PHI,2021
+37,Lamar Jackson,37.90,QB,BAL,2021
+38,Kyler Murray,38.02,QB,ARI,2021
+39,Robert Woods,38.23,WR,LAR,2021
+40,Chris Godwin,38.41,WR,TBB,2021
+41,James Robinson,39.44,RB,JAC,2021
+42,D'Andre Swift,40.94,RB,DET,2021
+43,Amari Cooper,44.01,WR,DAL,2021
+44,Myles Gaskin,44.65,RB,MIA,2021
+45,Julio Jones,45.22,WR,TEN,2021
+46,Kyle Pitts,45.49,TE,ATL,2021
+47,Adam Thielen,46.63,WR,MIN,2021
+48,Russell Wilson,48.76,QB,SEA,2021
+49,Aaron Rodgers,48.77,QB,GBP,2021
+50,Cooper Kupp,49.03,WR,LAR,2021
+51,D.J. Moore,50.06,WR,CAR,2021
+52,Diontae Johnson,51.47,WR,PIT,2021
+53,Tyler Lockett,52.02,WR,SEA,2021
+54,Dak Prescott,52.89,QB,DAL,2021
+55,Mike Davis,53.87,RB,ATL,2021
+56,Mark Andrews,54.30,TE,BAL,2021
+57,Chase Edmonds,54.77,RB,ARI,2021
+58,J.K. Dobbins,55.37,RB,BAL,2021
+59,Kareem Hunt,56.67,RB,CLE,2021
+60,Justin Herbert,58.58,QB,LAC,2021
+61,Darrell Henderson,60.16,RB,LAR,2021
+62,Raheem Mostert,60.54,RB,SFO,2021
+63,Javonte Williams,60.65,RB,DEN,2021
+64,Ja'Marr Chase,61.09,WR,CIN,2021
+65,T.J. Hockenson,61.28,TE,DET,2021
+66,Brandon Aiyuk,63.77,WR,SFO,2021
+67,JuJu Smith-Schuster,65.02,WR,PIT,2021
+68,Tom Brady,65.90,QB,TBB,2021
+69,Tee Higgins,66.88,WR,CIN,2021
+70,Damien Harris,67.05,RB,NEP,2021
+71,Odell Beckham,69.04,WR,LAR,2021
+72,Gus Edwards,72.27,RB,BAL,2021
+73,Jerry Jeudy,73.29,WR,DEN,2021
+74,Devin White,73.76,LB,TBB,2021
+75,Chase Claypool,73.95,WR,PIT,2021
+76,Melvin Gordon,74.36,RB,DEN,2021
+77,Michael Thomas,74.67,WR,NOS,2021
+78,Trey Sermon,74.96,RB,SFO,2021
+79,Leonard Fournette,75.63,RB,TBB,2021
+80,Logan Thomas,76.70,TE,WAS,2021
+81,Courtland Sutton,76.96,WR,DEN,2021
+82,Tyler Boyd,78.42,WR,CIN,2021
+83,Brandin Cooks,78.48,WR,HOU,2021
+84,Kenny Golladay,78.60,WR,NYG,2021
+85,Robby Anderson,79.82,WR,CAR,2021
+86,Travis Etienne,80.75,RB,JAC,2021
+87,Darius Leonard,81.02,LB,IND,2021
+88,Ryan Tannehill,81.97,QB,TEN,2021
+89,Micah Parsons,82.36,LB,DAL,2021
+90,Matthew Stafford,83.99,QB,LAR,2021
+91,DeVonta Smith,87.56,WR,PHI,2021
+92,Robert Tonyan,87.72,TE,GBP,2021
+93,Deebo Samuel,88.31,WR,SFO,2021
+94,Ronald Jones,88.83,RB,TBB,2021
+95,Roquan Smith,89.20,LB,CHI,2021
+96,Jarvis Landry,90.50,WR,CLE,2021
+97,Jalen Hurts,90.95,QB,PHI,2021
+98,Corey Davis,91.99,WR,NYJ,2021
+99,Michael Carter,94.30,RB,NYJ,2021
+100,Laviska Shenault,96.87,WR,JAC,2021
+101,Antonio Brown,97.06,WR,FA,2021
+102,Chase Young,97.29,DE,WAS,2021
+103,Noah Fant,97.31,TE,DEN,2021
+104,D.J. Chark,97.76,WR,JAC,2021
+105,Dallas Goedert,99.37,TE,PHI,2021
+106,Aaron Donald,101.99,DT,LAR,2021
+107,Blake Martinez,102.14,LB,NYG,2021
+108,Jamal SEA SAdams,102.39,S,SEA,2021
+109,James Conner,102.51,RB,ARI,2021
+110,Budda ARI SBaker,103.00,S,ARI,2021
+111,Mike Gesicki,104.54,TE,MIA,2021
+112,Myles Garrett,105.48,DE,CLE,2021
+113,Tyler Higbee,105.57,TE,LAR,2021
+114,Devin Singletary,105.60,RB,BUF,2021
+115,Jaylen Waddle,105.64,WR,MIA,2021
+116,Zach Cunningham,106.29,LB,TEN,2021
+117,"Rams, Los Angeles LAR Def",107.47,Def,LAR,2021
+118,Cole Beasley,107.52,WR,BUF,2021
+119,Joe Burrow,107.91,QB,CIN,2021
+120,Bobby Wagner,108.50,LB,SEA,2021
+121,Zack Moss,109.28,RB,BUF,2021
+122,AJ Dillon,109.49,RB,GBP,2021
+123,Sony Michel,110.02,RB,LAR,2021
+124,Henry Ruggs,110.22,WR,FA,2021
+125,Fred Warner,111.53,LB,SFO,2021
+126,Kyle Trask,111.54,QB,TBB,2021
+127,Michael Pittman,112.05,WR,IND,2021
+128,Kellen Mond,112.28,QB,MIN,2021
+129,Michael Gallup,112.75,WR,DAL,2021
+130,Jamin Davis,112.87,LB,WAS,2021
+131,Tommy Tremble,113.08,TE,CAR,2021
+132,Trevor Lawrence,113.51,QB,JAC,2021
+133,Hunter Long,113.69,TE,MIA,2021
+134,Derwin LAC SJames,113.74,S,LAC,2021
+135,Marquez Callaway,114.22,WR,NOS,2021
+136,Jamaal Williams,114.59,RB,DET,2021
+137,T.J. Watt,114.84,LB,PIT,2021
+138,Kenyan Drake,116.90,RB,LVR,2021
+139,Russell Gage,117.01,WR,ATL,2021
+140,Joe Schobert,117.34,LB,PIT,2021
+141,Marvin Jones,119.19,WR,JAC,2021
+142,Danielle Hunter,119.26,DE,MIN,2021
+143,Matt Ryan,119.87,QB,ATL,2021
+144,Will Fuller,120.56,WR,MIA,2021
+145,Joey Bosa,120.77,DE,LAC,2021
+146,Zaven Collins,121.03,LB,ARI,2021
+147,Trey Lance,121.41,QB,SFO,2021
+148,Jared Cook,121.68,TE,LAC,2021
+149,Jonnu Smith,122.01,TE,NEP,2021
+150,Justin Fields,122.20,QB,CHI,2021
+151,Curtis Samuel,123.54,WR,WAS,2021
+152,Isaiah Simmons,123.88,LB,ARI,2021
+153,"Steelers, Pittsburgh PIT Def",123.93,Def,PIT,2021
+154,Marquise Brown,124.68,WR,BAL,2021
+155,J.D. McKissic,124.89,RB,WAS,2021
+156,Mike Williams,125.05,WR,LAC,2021
+157,"Buccaneers, Tampa Bay TBB Def",125.52,Def,TBB,2021
+158,Nyheim Hines,125.81,RB,IND,2021
+159,"FootballTeam, Washington WAS Def",125.93,Def,WAS,2021
+160,Nick Bosa,125.94,DE,SFO,2021
+161,Baker Mayfield,126.68,QB,CLE,2021
+162,Darnell Mooney,126.77,WR,CHI,2021
+163,Mecole Hardman,126.90,WR,KCC,2021
+164,Kirk Cousins,126.93,QB,MIN,2021
+165,C.J. Mosley,127.99,LB,NYJ,2021
+166,Kwity Paye,128.04,DE,IND,2021
+167,Jordan BUF SPoyer,128.15,S,BUF,2021
+168,Tylan Wallace,128.45,WR,BAL,2021
+169,Tutu Atwell,128.66,WR,LAR,2021
+170,DeVante Parker,128.84,WR,MIA,2021
+171,Tony Pollard,128.90,RB,DAL,2021
+172,Zach Ertz,128.91,TE,ARI,2021
+173,Elijah Moore,129.30,WR,NYJ,2021
+174,Irv Smith Jr.,129.34,TE,MIN,2021
+175,Eric Kendricks,129.37,LB,MIN,2021
+176,Patrick Queen,129.65,LB,BAL,2021
+177,Sterling Shepard,129.90,WR,NYG,2021
+178,"Bills, Buffalo BUF Def",130.20,Def,BUF,2021
+179,Rob Gronkowski,130.49,TE,TBB,2021
+180,DeForest Buckner,131.85,DT,IND,2021
+181,Justin Tucker,132.05,PK,BAL,2021
+182,David Johnson,132.14,RB,HOU,2021
+183,Jeremy CAR SChinn,132.23,S,CAR,2021
+184,Jakobi Meyers,132.50,WR,NEP,2021
+185,Myles Jack,132.56,LB,JAC,2021
+186,Elijah Mitchell,132.56,RB,SFO,2021
+187,Tremaine Edmunds,133.50,LB,BUF,2021
+188,Lavonte David,133.50,LB,TBB,2021
+189,Zach Wilson,133.92,QB,NYJ,2021
+190,Mac Jones,134.74,QB,NEP,2021
+191,Harrison Butker,135.24,PK,KCC,2021
+192,Brian Burns,135.26,DE,CAR,2021
+193,Ben Roethlisberger,136.16,QB,PIT,2021
+194,"Ravens, Baltimore BAL Def",136.51,Def,BAL,2021
+195,Kadarius Toney,138.02,WR,NYG,2021
+196,Jameis Winston,138.13,QB,NOS,2021
+197,Rhamondre Stevenson,138.76,RB,NEP,2021
+198,Khalil Herbert,138.83,RB,CHI,2021
+199,Terrace Marshall,139.19,WR,CAR,2021
+200,Amari Rodgers,139.54,WR,GBP,2021
+201,Rondale Moore,139.61,WR,ARI,2021
+202,D'Wayne Eskridge,140.44,WR,SEA,2021
+203,James White,140.55,RB,NEP,2021
+204,Tua Tagovailoa,140.80,QB,MIA,2021
+205,Kylin Hill,141.08,RB,GBP,2021
+206,Evan Engram,141.42,TE,NYG,2021
+207,Derek Carr,141.56,QB,LVR,2021
+208,Jaylon Smith,141.59,LB,NYG,2021
+209,Jason Pierre-Paul,142.10,DE,TBB,2021
+210,Phillip Lindsay,142.25,RB,MIA,2021
+211,Jessie CIN SBates,143.12,S,CIN,2021
+212,Alexander Mattison,143.53,RB,MIN,2021
+213,Younghoe Koo,143.55,PK,ATL,2021
+214,Dyami Brown,143.95,WR,WAS,2021
+215,Pat Freiermuth,144.10,TE,PIT,2021
+216,"49ers, San Francisco SFO Def",144.52,Def,SFO,2021
+217,Rashod Bateman,144.96,WR,BAL,2021
+218,Demario Davis,145.31,LB,NOS,2021
+219,Deion Jones,145.36,LB,ATL,2021
+220,Jermar Jefferson,145.87,RB,DET,2021
+221,Josh Palmer,146.31,WR,LAC,2021
+222,Hunter Henry,146.45,TE,NEP,2021
+223,Jordan LAR SFuller,147.18,S,LAR,2021
+224,Nico Collins,147.19,WR,HOU,2021
+225,Chuba Hubbard,147.46,RB,CAR,2021
+226,Nelson Agholor,147.66,WR,NEP,2021
+227,"Patriots, New England NEP Def",147.97,Def,NEP,2021
+228,Anthony Firkser,148.14,TE,TEN,2021
+229,Chris Evans,148.21,RB,CIN,2021
+230,Latavius Murray,149.04,RB,BAL,2021
+231,Ty'Son Williams,149.15,RB,BAL,2021
+232,Sam Darnold,149.72,QB,CAR,2021
+233,Mark Ingram,149.90,RB,NOS,2021
+234,Ryan Fitzpatrick,149.93,QB,WAS,2021
+235,Kenneth Gainwell,149.98,RB,PHI,2021
+236,Daniel Jones,150.73,QB,NYG,2021
+237,Tyrell Williams,151.01,WR,FA,2021
+238,"Colts, Indianapolis IND Def",151.39,Def,IND,2021
+239,Larry Rountree,151.56,RB,LAC,2021
+240,Justin DEN SSimmons,151.69,S,DEN,2021
+241,Kevin TEN SByard,152.18,S,TEN,2021
+242,Amon-Ra St. Brown,152.69,WR,DET,2021
+243,T.Y. Hilton,153.05,WR,IND,2021
+244,Carson Wentz,153.54,QB,IND,2021
+245,Deshaun Watson,153.81,QB,HOU,2021
+246,Tevin Coleman,153.87,RB,NYJ,2021
+247,Giovani Bernard,154.18,RB,TBB,2021
+248,Jared Goff,154.37,QB,DET,2021
+249,Jalen Reagor,154.79,WR,PHI,2021
+250,Jabrill NYG SPeppers,154.82,S,NYG,2021
+251,Teddy Bridgewater,157.39,QB,DEN,2021
+252,Gabriel Davis,157.44,WR,BUF,2021
+253,Jaret Patterson,157.52,RB,WAS,2021
+254,"Broncos, Denver DEN Def",157.70,Def,DEN,2021
+255,Tyler Bass,158.32,PK,BUF,2021
+256,Austin Hooper,158.81,TE,CLE,2021
+257,Emmanuel Sanders,159.40,WR,BUF,2021
+258,Ryan Succop,159.54,PK,TBB,2021
+259,Landon WAS SCollins,159.66,S,WAS,2021
+260,Gerald Everett,159.95,TE,SEA,2021
+261,Daniel Carlson,160.01,PK,LVR,2021
+262,A.J. Green,160.04,WR,ARI,2021
+263,Bryan Edwards,160.08,WR,LVR,2021
+264,Adam Trautman,160.20,TE,NOS,2021
+265,Jamison Crowder,161.54,WR,NYJ,2021
+266,"Dolphins, Miami MIA Def",161.58,Def,MIA,2021
+267,Cam Newton,161.91,QB,CAR,2021
+268,Xavier Jones,161.97,RB,LAR,2021
+269,J.J. Watt,162.47,DE,ARI,2021
+270,Christian Kirk,163.57,WR,ARI,2021
+271,"Browns, Cleveland CLE Def",163.58,Def,CLE,2021
+272,Eric Ebron,163.61,TE,PIT,2021
+273,Cole Kmet,163.82,TE,CHI,2021
+274,Tre'Quan Smith,164.81,WR,NOS,2021
+275,Jeffery Wilson,165.91,RB,SFO,2021
+276,"Chiefs, Kansas City KCC Def",166.36,Def,KCC,2021
+277,Blake Jarwin,166.81,TE,DAL,2021
+278,Rashaad Penny,166.90,RB,SEA,2021
+279,Jimmy Garoppolo,166.98,QB,SFO,2021
+280,Greg Zuerlein,167.16,PK,DAL,2021
+281,"Packers, Green Bay GBP Def",167.39,Def,GBP,2021
+282,Jason Sanders,167.55,PK,MIA,2021
+283,Tony Jones,167.88,RB,NOS,2021
+284,Marquez Valdes-Scantling,167.91,WR,GBP,2021
+285,Tyrod Taylor,168.19,QB,HOU,2021
+286,"Bears, Chicago CHI Def",168.59,Def,CHI,2021
+287,Darrel Williams,170.33,RB,KCC,2021
+288,Marlon Mack,170.64,RB,IND,2021
+289,Evan McPherson,170.93,PK,CIN,2021
+290,Randall Cobb,171.80,WR,GBP,2021
+291,"Saints, New Orleans NOS Def",173.01,Def,NOS,2021
+292,Jason Myers,173.26,PK,SEA,2021
+293,Justin Jackson,173.33,RB,LAC,2021
+294,Le'Veon Bell,173.71,RB,FA,2021
+295,Rodrigo Blankenship,174.32,PK,IND,2021
+296,"Cardinals, Arizona ARI Def",174.47,Def,ARI,2021
+297,"Seahawks, Seattle SEA Def",174.78,Def,SEA,2021
+298,Malcolm Brown,174.82,RB,MIA,2021
+299,Breshad Perriman,176.18,WR,TBB,2021
+300,Boston Scott,176.39,RB,PHI,2021
+301,Wil Lutz,176.95,PK,NOS,2021
+302,Mason Crosby,177.06,PK,GBP,2021
+303,"Eagles, Philadelphia PHI Def",177.28,Def,PHI,2021
+304,"Vikings, Minnesota MIN Def",177.34,Def,MIN,2021
+305,Robbie Gould,178.04,PK,SFO,2021
+306,Damien Williams,178.09,RB,CHI,2021
+307,Taysom Hill,178.58,QB,NOS,2021
+308,Devontae Booker,178.63,RB,NYG,2021
+309,Quinn Nordin,179.17,PK,NEP,2021
+310,Chris Boswell,179.18,PK,PIT,2021
+311,Brandon McManus,179.28,PK,DEN,2021
+312,Parris Campbell,179.52,WR,IND,2021
+313,Ty Johnson,179.90,RB,NYJ,2021
+314,"Titans, Tennessee TEN Def",179.91,Def,TEN,2021
+315,"Chargers, Los Angeles LAC Def",179.92,Def,LAC,2021
+316,Allen Lazard,180.33,WR,GBP,2021
+317,Matt Gay,180.51,PK,LAR,2021
+318,Matt Prater,180.81,PK,ARI,2021
+319,Qadree Ollison,181.24,RB,ATL,2021
+320,Sammy Watkins,181.30,WR,BAL,2021
+321,Graham Gano,181.86,PK,NYG,2021
+322,Tarik Cohen,182.08,RB,CHI,2021
+323,Cairo Santos,182.12,PK,CHI,2021
+324,Carlos Hyde,182.19,RB,JAC,2021
+325,"Cowboys, Dallas DAL Def",183.21,Def,DAL,2021
+326,Wayne Gallman,184.16,RB,MIN,2021
+327,"Panthers, Carolina CAR Def",185.81,Def,CAR,2021
+328,Jordan Wilkins,185.89,RB,FA,2021
+329,Darrynton Evans,186.80,RB,TEN,2021
+330,"Giants, New York NYG Def",188.21,Def,NYG,2021
+331,Dawson Knox,189.23,TE,BUF,2021
+332,"Falcons, Atlanta ATL Def",189.52,Def,ATL,2021
+333,Darius Slayton,190.22,WR,NYG,2021
+334,Hunter Renfrow,190.25,WR,LVR,2021
+335,Salvon Ahmed,190.41,RB,MIA,2021
+336,Drew Lock,190.47,QB,DEN,2021
+337,Quez Watkins,190.98,WR,PHI,2021
+338,Josh Lambo,191.20,PK,FA,2021
+339,Jack Doyle,191.63,TE,IND,2021
+340,Andy Dalton,191.95,QB,CHI,2021
+341,Hayden Hurst,191.98,TE,ATL,2021
+342,Jerick McKinnon,192.47,RB,KCC,2021
+343,Dustin Hopkins,193.25,PK,LAC,2021
+344,Justice Hill,194.21,RB,BAL,2021
+345,Jimmy Graham,194.34,TE,CHI,2021
+346,Donovan Peoples-Jones,194.73,WR,CLE,2021
+347,Juwan Johnson,194.88,TE,NOS,2021
+348,O.J. Howard,195.07,TE,TBB,2021
+349,KJ Hamler,196.76,WR,DEN,2021
+350,Benny Snell,197.56,RB,PIT,2021
+351,Byron Pringle,198.46,WR,KCC,2021
+352,Chris Herndon,198.49,TE,MIN,2021
+353,Samaje Perine,198.61,RB,CIN,2021
+354,Tim Patrick,204.76,WR,DEN,2021
+355,Demarcus Robinson,205.20,WR,KCC,2021
+356,C.J. Uzomah,206.34,TE,CIN,2021
+357,Dan Arnold,206.51,TE,JAC,2021
+358,Tyler Kroft,207.44,TE,NYJ,2021
+359,Joshua Kelley,207.65,RB,LAC,2021
+360,DeSean Jackson,208.17,WR,LVR,2021
+361,Van Jefferson,209.18,WR,LAR,2021
+362,Zach Pascal,210.68,WR,IND,2021

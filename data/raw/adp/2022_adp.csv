@@ -1,0 +1,353 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Jonathan Taylor,1.33,RB,IND,2022
+2,Christian McCaffrey,3.03,RB,SFO,2022
+3,Austin Ekeler,4.33,RB,LAC,2022
+4,Cooper Kupp,5.16,WR,LAR,2022
+5,Derrick Henry,5.70,RB,TEN,2022
+6,Justin Jefferson,6.10,WR,MIN,2022
+7,Dalvin Cook,7.04,RB,MIN,2022
+8,Najee Harris,8.84,RB,PIT,2022
+9,Ja'Marr Chase,9.81,WR,CIN,2022
+10,Joe Mixon,11.15,RB,CIN,2022
+11,Davante Adams,12.21,WR,LVR,2022
+12,Alvin Kamara,14.04,RB,NOS,2022
+13,Stefon Diggs,14.84,WR,BUF,2022
+14,D'Andre Swift,15.44,RB,DET,2022
+15,Travis Kelce,16.70,TE,KCC,2022
+16,Nick Chubb,16.73,RB,CLE,2022
+17,Saquon Barkley,17.32,RB,NYG,2022
+18,Aaron Jones,18.71,RB,GBP,2022
+19,CeeDee Lamb,20.16,WR,DAL,2022
+20,Deebo Samuel,20.20,WR,SFO,2022
+21,Josh Allen,21.02,QB,BUF,2022
+22,Tyreek Hill,21.69,WR,MIA,2022
+23,Leonard Fournette,22.36,RB,TBB,2022
+24,Javonte Williams,23.68,RB,DEN,2022
+25,Mark Andrews,24.90,TE,BAL,2022
+26,Mike Evans,26.48,WR,TBB,2022
+27,Keenan Allen,26.58,WR,LAC,2022
+28,James Conner,27.22,RB,ARI,2022
+29,Ezekiel Elliott,29.64,RB,DAL,2022
+30,Michael Pittman,30.34,WR,IND,2022
+31,Patrick Mahomes,31.25,QB,KCC,2022
+32,A.J. Brown,32.00,WR,PHI,2022
+33,Justin Herbert,34.53,QB,LAC,2022
+34,Kyle Pitts,35.01,TE,ATL,2022
+35,Tee Higgins,35.73,WR,CIN,2022
+36,Travis Etienne,37.75,RB,JAC,2022
+37,Cam Akers,38.22,RB,LAR,2022
+38,David Montgomery,38.30,RB,CHI,2022
+39,D.J. Moore,39.19,WR,CAR,2022
+40,Mike Williams,44.12,WR,LAC,2022
+41,Diontae Johnson,44.30,WR,PIT,2022
+42,Courtland Sutton,44.68,WR,DEN,2022
+43,Lamar Jackson,45.21,QB,BAL,2022
+44,Breece Hall,45.64,RB,NYJ,2022
+45,Josh Jacobs,46.06,RB,LVR,2022
+46,Terry McLaurin,47.23,WR,WAS,2022
+47,DK Metcalf,48.28,WR,SEA,2022
+48,George Kittle,49.21,TE,SFO,2022
+49,Jaylen Waddle,49.85,WR,MIA,2022
+50,Brandin Cooks,50.53,WR,HOU,2022
+51,Darren Waller,50.62,TE,LVR,2022
+52,Amon-Ra St. Brown,50.95,WR,DET,2022
+53,Allen Robinson,53.34,WR,LAR,2022
+54,Kyler Murray,54.00,QB,ARI,2022
+55,Adam Thielen,55.44,WR,MIN,2022
+56,JuJu Smith-Schuster,55.94,WR,KCC,2022
+57,Elijah Mitchell,56.79,RB,SFO,2022
+58,Michael Thomas,57.95,WR,NOS,2022
+59,Gabriel Davis,57.97,WR,BUF,2022
+60,Chris Godwin,58.49,WR,TBB,2022
+61,Jalen Hurts,58.82,QB,PHI,2022
+62,J.K. Dobbins,58.98,RB,BAL,2022
+63,Joe Burrow,60.62,QB,CIN,2022
+64,AJ Dillon,61.48,RB,GBP,2022
+65,Dameon Pierce,62.22,RB,HOU,2022
+66,Clyde Edwards-Helaire,62.42,RB,KCC,2022
+67,Antonio Gibson,62.49,RB,WAS,2022
+68,Marquise Brown,63.62,WR,ARI,2022
+69,Dalton Schultz,64.00,TE,DAL,2022
+70,Darnell Mooney,64.01,WR,CHI,2022
+71,Jerry Jeudy,67.02,WR,DEN,2022
+72,Tom Brady,68.25,QB,TBB,2022
+73,Devin Singletary,69.19,RB,BUF,2022
+74,Allen Lazard,69.35,WR,GBP,2022
+75,Rashaad Penny,69.74,RB,SEA,2022
+76,Russell Wilson,69.76,QB,DEN,2022
+77,Amari Cooper,71.92,WR,CLE,2022
+78,Chase Edmonds,73.99,RB,DEN,2022
+79,Rashod Bateman,75.09,WR,BAL,2022
+80,Aaron Rodgers,75.16,QB,GBP,2022
+81,Dallas Goedert,75.16,TE,PHI,2022
+82,Dak Prescott,76.51,QB,DAL,2022
+83,Hunter Renfrow,77.25,WR,LVR,2022
+84,T.J. Hockenson,78.42,TE,MIN,2022
+85,Cordarrelle Patterson,79.87,RB,ATL,2022
+86,Damien Harris,81.09,RB,NEP,2022
+87,T.J. Watt,83.21,LB,PIT,2022
+88,Tony Pollard,84.79,RB,DAL,2022
+89,Miles Sanders,84.90,RB,PHI,2022
+90,DeAndre Hopkins,86.29,WR,ARI,2022
+91,Kareem Hunt,86.46,RB,CLE,2022
+92,Rhamondre Stevenson,87.02,RB,NEP,2022
+93,Drake London,87.07,WR,ATL,2022
+94,Christian Kirk,88.90,WR,JAC,2022
+95,Brandon Aiyuk,89.99,WR,SFO,2022
+96,Micah Parsons,90.48,LB,DAL,2022
+97,Tyler Lockett,90.79,WR,SEA,2022
+98,Tyquan Thornton,91.51,WR,NEP,2022
+99,Elijah Moore,92.08,WR,NYJ,2022
+100,Aidan Hutchinson,92.13,DE,DET,2022
+101,Matthew Stafford,92.85,QB,LAR,2022
+102,Kenneth Walker III,93.25,RB,SEA,2022
+103,Myles Garrett,94.08,DE,CLE,2022
+104,Zach Ertz,94.65,TE,ARI,2022
+105,Roquan Smith,94.81,LB,BAL,2022
+106,Dawson Knox,94.95,TE,BUF,2022
+107,Robert Woods,95.75,WR,TEN,2022
+108,DeVonta Smith,96.02,WR,PHI,2022
+109,Nick Bosa,96.48,DE,SFO,2022
+110,Derek Carr,96.80,QB,LVR,2022
+111,Trey Lance,98.20,QB,SFO,2022
+112,Aaron Donald,98.36,DT,LAR,2022
+113,James Cook,100.35,RB,BUF,2022
+114,Chris Olave,100.64,WR,NOS,2022
+115,Shaquille Leonard,100.66,LB,IND,2022
+116,Bobby Wagner,101.06,LB,LAR,2022
+117,Melvin Gordon,101.55,RB,KCC,2022
+118,Jordyn Brooks,101.92,LB,SEA,2022
+119,Devin Lloyd,101.94,LB,JAC,2022
+120,Cade Otton,103.30,TE,TBB,2022
+121,Travon Walker,103.58,DE,JAC,2022
+122,Devin White,104.85,LB,TBB,2022
+123,Greg Dulcich,105.00,TE,DEN,2022
+124,Chase Claypool,105.46,WR,CHI,2022
+125,Kirk Cousins,106.32,QB,MIN,2022
+126,Jerome Ford,106.50,RB,CLE,2022
+127,Jelani Woods,108.35,TE,IND,2022
+128,Keaontay Ingram,108.45,RB,ARI,2022
+129,George Pickens,108.65,WR,PIT,2022
+130,Derwin LAC SJames,108.86,S,LAC,2022
+131,"Bills, Buffalo BUF Def",109.49,Def,BUF,2022
+132,Trey McBride,109.62,TE,ARI,2022
+133,Quay Walker,110.62,LB,GBP,2022
+134,Foyesade Oluokun,111.52,LB,JAC,2022
+135,DeVante Parker,112.58,WR,NEP,2022
+136,D.J. Chark,114.29,WR,DET,2022
+137,C.J. Mosley,114.59,LB,NYJ,2022
+138,Velus Jones,115.08,WR,CHI,2022
+139,Pierre Strong Jr.,115.11,RB,NEP,2022
+140,Cole Kmet,115.24,TE,CHI,2022
+141,Treylon Burks,115.43,WR,TEN,2022
+142,Kadarius Toney,115.72,WR,KCC,2022
+143,Kyle BAL SHamilton,115.75,S,BAL,2022
+144,Malik Willis,115.95,QB,TEN,2022
+145,Skyy Moore,116.34,WR,KCC,2022
+146,Fred Warner,116.59,LB,SFO,2022
+147,Desmond Ridder,116.71,QB,ATL,2022
+148,Pat Freiermuth,117.38,TE,PIT,2022
+149,Khalil Shakir,117.93,WR,BUF,2022
+150,James Robinson,118.08,RB,NYJ,2022
+151,Eric Kendricks,118.71,LB,MIN,2022
+152,Brian Robinson,119.78,RB,WAS,2022
+153,De'Vondre Campbell,119.81,LB,GBP,2022
+154,Nyheim Hines,120.27,RB,BUF,2022
+155,Michael Carter,120.62,RB,NYJ,2022
+156,Mike Gesicki,121.30,TE,MIA,2022
+157,Darrell Henderson,122.07,RB,FA,2022
+158,Lewis MIN SCine,123.92,S,MIN,2022
+159,Alexander Mattison,124.99,RB,MIN,2022
+160,Lavonte David,125.04,LB,TBB,2022
+161,Antoine TBB SWinfield,125.06,S,TBB,2022
+162,Ty Chandler,125.12,RB,MIN,2022
+163,Justin Tucker,125.23,PK,BAL,2022
+164,"Rams, Los Angeles LAR Def",125.63,Def,LAR,2022
+165,Budda ARI SBaker,125.95,S,ARI,2022
+166,Michael Gallup,125.96,WR,DAL,2022
+167,Cameron Heyward,126.50,DT,PIT,2022
+168,Cole Holcomb,126.52,LB,WAS,2022
+169,Denzel Perryman,126.57,LB,LVR,2022
+170,Garrett Wilson,126.62,WR,NYJ,2022
+171,Rachaad White,127.26,RB,TBB,2022
+172,Kyle Philips,127.68,WR,TEN,2022
+173,Kenny Pickett,127.86,QB,PIT,2022
+174,Tua Tagovailoa,127.87,QB,MIA,2022
+175,Danny Gray,128.25,WR,SFO,2022
+176,Tyler Boyd,128.63,WR,CIN,2022
+177,Logan Wilson,128.76,LB,CIN,2022
+178,Isiah Pacheco,129.15,RB,KCC,2022
+179,Kyren Williams,129.29,RB,LAR,2022
+180,Kenneth Gainwell,131.01,RB,PHI,2022
+181,Marvin Jones,131.06,WR,JAC,2022
+182,David Bell,131.10,WR,CLE,2022
+183,Daniel Bellinger,131.24,TE,NYG,2022
+184,Cameron Brate,131.35,TE,TBB,2022
+185,Tyler Allgeier,131.59,RB,ATL,2022
+186,Marlon Mack,132.84,RB,DEN,2022
+187,Romeo Doubs,132.97,WR,GBP,2022
+188,Jamal SEA SAdams,133.16,S,SEA,2022
+189,Jahan Dotson,133.28,WR,WAS,2022
+190,Minkah PIT SFitzpatrick,133.41,S,PIT,2022
+191,"49ers, San Francisco SFO Def",133.64,Def,SFO,2022
+192,Christian Watson,134.36,WR,GBP,2022
+193,Marquez Valdes-Scantling,134.43,WR,KCC,2022
+194,Matt Ryan,134.46,QB,IND,2022
+195,Hunter Henry,134.60,TE,NEP,2022
+196,Cameron Jordan,135.56,DE,NOS,2022
+197,Hassan Haskins,135.75,RB,TEN,2022
+198,Trevor Lawrence,136.07,QB,JAC,2022
+199,Jameis Winston,136.39,QB,NOS,2022
+200,David Njoku,136.60,TE,CLE,2022
+201,"Buccaneers, Tampa Bay TBB Def",136.72,Def,TBB,2022
+202,J.D. McKissic,136.75,RB,WAS,2022
+203,Harrison MIN SSmith,137.15,S,MIN,2022
+204,Jameson Williams,137.50,WR,DET,2022
+205,Ryan Tannehill,137.66,QB,TEN,2022
+206,Justin Fields,138.29,QB,CHI,2022
+207,Zamir White,138.78,RB,LVR,2022
+208,Isaiah Spiller,139.54,RB,LAC,2022
+209,Kyzir White,139.91,LB,PHI,2022
+210,Noah Fant,140.57,TE,SEA,2022
+211,Jakobi Meyers,140.86,WR,NEP,2022
+212,Chandler Jones,141.01,DE,LVR,2022
+213,Julio Jones,141.06,WR,TBB,2022
+214,Evan McPherson,141.18,PK,CIN,2022
+215,"Cowboys, Dallas DAL Def",141.33,Def,DAL,2022
+216,Mac Jones,141.82,QB,NEP,2022
+217,Trevon Diggs,142.19,CB,DAL,2022
+218,Rondale Moore,142.35,WR,ARI,2022
+219,Corey Davis,142.61,WR,NYJ,2022
+220,Jalen Tolbert,143.78,WR,DAL,2022
+221,Trey Hendrickson,143.96,DE,CIN,2022
+222,Jeremy CAR SChinn,143.99,S,CAR,2022
+223,Khalil Herbert,144.01,RB,CHI,2022
+224,Albert Okwuegbunam,145.66,TE,DEN,2022
+225,Daniel Carlson,145.73,PK,LVR,2022
+226,Raheem Mostert,145.85,RB,MIA,2022
+227,Irv Smith Jr.,146.20,TE,MIN,2022
+228,Jarvis Landry,146.33,WR,NOS,2022
+229,Taysom Hill,146.49,TE,NOS,2022
+230,Jamaal Williams,146.49,RB,DET,2022
+231,Alec Pierce,146.72,WR,IND,2022
+232,Wan'Dale Robinson,146.84,WR,NYG,2022
+233,Russell Gage,147.27,WR,TBB,2022
+234,Xavier NYG SMcKinney,147.40,S,NYG,2022
+235,Jordan BUF SPoyer,147.66,S,BUF,2022
+236,Baker Mayfield,147.72,QB,LAR,2022
+237,Jalen ARI SThompson,147.82,S,ARI,2022
+238,Tremaine Edmunds,147.85,LB,BUF,2022
+239,Isaiah McKenzie,148.55,WR,BUF,2022
+240,"Saints, New Orleans NOS Def",148.92,Def,NOS,2022
+241,Jared Goff,149.00,QB,DET,2022
+242,Kenny Moore,149.04,CB,IND,2022
+243,Tyler Bass,149.48,PK,BUF,2022
+244,Isaiah Likely,149.75,TE,BAL,2022
+245,Tyrion Davis-Price,149.84,RB,SFO,2022
+246,Nico Collins,150.14,WR,HOU,2022
+247,Daniel Jones,150.61,QB,NYG,2022
+248,Marcus Mariota,151.64,QB,ATL,2022
+249,Joey Bosa,151.67,LB,LAC,2022
+250,Carson Wentz,151.90,QB,WAS,2022
+251,Davis Mills,151.97,QB,HOU,2022
+252,Matt Gay,152.63,PK,LAR,2022
+253,Jaylen Warren,153.13,RB,PIT,2022
+254,"Colts, Indianapolis IND Def",153.20,Def,IND,2022
+255,Tyler Higbee,154.71,TE,LAR,2022
+256,"Packers, Green Bay GBP Def",154.99,Def,GBP,2022
+257,Darrel Williams,155.35,RB,ARI,2022
+258,Deshaun Watson,155.40,QB,CLE,2022
+259,"Patriots, New England NEP Def",155.74,Def,NEP,2022
+260,Zach Wilson,155.80,QB,NYJ,2022
+261,Josh Palmer,155.84,WR,LAC,2022
+262,Harrison Butker,156.53,PK,KCC,2022
+263,Hayden Hurst,156.85,TE,CIN,2022
+264,"Steelers, Pittsburgh PIT Def",157.58,Def,PIT,2022
+265,Kevin TEN SByard,157.71,S,TEN,2022
+266,Mark Ingram,157.91,RB,NOS,2022
+267,Kendrick Bourne,158.34,WR,NEP,2022
+268,Jerick McKinnon,158.97,RB,KCC,2022
+269,K.J. Osborn,160.51,WR,MIN,2022
+270,Mitchell Trubisky,160.65,QB,PIT,2022
+271,Robbie Anderson,160.69,WR,ARI,2022
+272,Gerald Everett,160.69,TE,LAC,2022
+273,Robert Tonyan,160.83,TE,GBP,2022
+274,Geno Smith,161.14,QB,SEA,2022
+275,Sammy Watkins,162.01,WR,BAL,2022
+276,Ryan Succop,162.15,PK,TBB,2022
+277,"Chargers, Los Angeles LAC Def",162.63,Def,LAC,2022
+278,"Ravens, Baltimore BAL Def",163.13,Def,BAL,2022
+279,Cade York,163.31,PK,CLE,2022
+280,"Titans, Tennessee TEN Def",163.39,Def,TEN,2022
+281,"Broncos, Denver DEN Def",165.67,Def,DEN,2022
+282,Rex Burkhead,165.97,RB,HOU,2022
+283,"Dolphins, Miami MIA Def",166.11,Def,MIA,2022
+284,Chuba Hubbard,166.54,RB,CAR,2022
+285,"Eagles, Philadelphia PHI Def",166.69,Def,PHI,2022
+286,"Vikings, Minnesota MIN Def",166.83,Def,MIN,2022
+287,Evan Engram,166.84,TE,JAC,2022
+288,Kenny Golladay,167.58,WR,NYG,2022
+289,Logan Thomas,168.79,TE,WAS,2022
+290,Bryan Edwards,169.02,WR,FA,2022
+291,"Chiefs, Kansas City KCC Def",169.33,Def,KCC,2022
+292,D'Onta Foreman,169.86,RB,CAR,2022
+293,Younghoe Koo,170.14,PK,ATL,2022
+294,Mike Davis,170.29,RB,FA,2022
+295,A.J. Green,170.43,WR,ARI,2022
+296,Nick Folk,170.45,PK,NEP,2022
+297,Rodrigo Blankenship,171.14,PK,FA,2022
+298,Jeffery Wilson,171.43,RB,MIA,2022
+299,"Bengals, Cincinnati CIN Def",171.85,Def,CIN,2022
+300,Chris Boswell,172.26,PK,PIT,2022
+301,Dontrell Hilliard,172.33,RB,TEN,2022
+302,Jacoby Brissett,172.67,QB,CLE,2022
+303,"Browns, Cleveland CLE Def",173.54,Def,CLE,2022
+304,Austin Hooper,174.63,TE,TEN,2022
+305,Dustin Hopkins,175.12,PK,LAC,2022
+306,Gus Edwards,175.62,RB,BAL,2022
+307,Eno Benjamin,175.73,RB,NOS,2022
+308,Parris Campbell,176.67,WR,IND,2022
+309,Matt Prater,177.32,PK,ARI,2022
+310,Brandon McManus,177.38,PK,DEN,2022
+311,Sony Michel,178.14,RB,FA,2022
+312,Marquez Callaway,179.15,WR,NOS,2022
+313,Kenyan Drake,179.21,RB,BAL,2022
+314,"Bears, Chicago CHI Def",179.48,Def,CHI,2022
+315,Ronald Jones,179.52,RB,KCC,2022
+316,Robbie Gould,179.55,PK,SFO,2022
+317,Van Jefferson,179.62,WR,LAR,2022
+318,Jason Sanders,179.70,PK,MIA,2022
+319,KJ Hamler,179.87,WR,DEN,2022
+320,Wil Lutz,179.90,PK,NOS,2022
+321,Ameer Abdullah,180.19,RB,LVR,2022
+322,Myles Gaskin,180.55,RB,MIA,2022
+323,Odell FA* WRBeckham,180.71,WR,FA*,2022
+324,Greg Joseph,181.67,PK,MIN,2022
+325,Jake Elliott,181.81,PK,PHI,2022
+326,Joshua Kelley,182.09,RB,LAC,2022
+327,"Commanders, Washington WAS Def",182.27,Def,WAS,2022
+328,Boston Scott,182.50,RB,PHI,2022
+329,Mo Alie-Cox,182.62,TE,IND,2022
+330,Donovan Peoples-Jones,182.70,WR,CLE,2022
+331,Brett Maher,182.72,PK,DAL,2022
+332,Devin Duvernay,182.96,WR,BAL,2022
+333,Brevin Jordan,183.16,TE,HOU,2022
+334,Mason Crosby,184.05,PK,GBP,2022
+335,"Cardinals, Arizona ARI Def",184.16,Def,ARI,2022
+336,Zack Moss,184.82,RB,IND,2022
+337,Jimmy Garoppolo,185.02,QB,SFO,2022
+338,Jamison Crowder,185.58,WR,BUF,2022
+339,Randall Cobb,185.71,WR,GBP,2022
+340,Cairo Santos,186.10,PK,CHI,2022
+341,Samaje Perine,186.93,RB,CIN,2022
+342,D'Ernest Johnson,188.30,RB,CLE,2022
+343,"Panthers, Carolina CAR Def",188.36,Def,CAR,2022
+344,Trey Sermon,188.42,RB,PHI,2022
+345,Curtis Samuel,190.62,WR,WAS,2022
+346,Sterling Shepard,191.19,WR,NYG,2022
+347,Matt Breida,193.47,RB,NYG,2022
+348,Nick Westbrook-Ikhine,193.69,WR,TEN,2022
+349,Zay Jones,193.93,WR,JAC,2022
+350,Damien Williams,194.72,RB,FA,2022
+351,Chris Evans,194.75,RB,CIN,2022
+352,Laviska Shenault,200.88,WR,CAR,2022

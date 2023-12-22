@@ -1,0 +1,359 @@
+Rank,Player,Avg Pick,Pos,Tm,Season
+1,Christian McCaffrey,3.79,RB,SFO,2023
+2,Ja'Marr Chase,4.47,WR,CIN,2023
+3,Austin Ekeler,5.71,RB,LAC,2023
+4,Tyreek Hill,7.33,WR,MIA,2023
+5,Bijan Robinson,8.24,RB,ATL,2023
+6,Travis Kelce,8.58,TE,KCC,2023
+7,Stefon Diggs,11.12,WR,BUF,2023
+8,Saquon Barkley,11.20,RB,NYG,2023
+9,CeeDee Lamb,13.03,WR,DAL,2023
+10,Patrick Mahomes,13.94,QB,KCC,2023
+11,Cooper Kupp,13.99,WR,LAR,2023
+12,Derrick Henry,15.40,RB,TEN,2023
+13,Davante Adams,16.19,WR,LVR,2023
+14,A.J. Brown,16.59,WR,PHI,2023
+15,Josh Allen,16.60,QB,BUF,2023
+16,Tony Pollard,16.88,RB,DAL,2023
+17,Amon-Ra St. Brown,17.14,WR,DET,2023
+18,Jalen Hurts,18.50,QB,PHI,2023
+19,Josh Jacobs,19.03,RB,LVR,2023
+20,Garrett Wilson,19.52,WR,NYJ,2023
+21,Jaylen Waddle,23.76,WR,MIA,2023
+22,Jahmyr Gibbs,24.08,RB,DET,2023
+23,Joe Mixon,26.78,RB,CIN,2023
+24,Chris Olave,27.90,WR,NOS,2023
+25,Najee Harris,28.88,RB,PIT,2023
+26,Calvin Ridley,29.03,WR,JAC,2023
+27,DeVonta Smith,29.60,WR,PHI,2023
+28,DK Metcalf,29.76,WR,SEA,2023
+29,Lamar Jackson,30.66,QB,BAL,2023
+30,Rhamondre Stevenson,32.01,RB,NEP,2023
+31,Tee Higgins,32.11,WR,CIN,2023
+32,Mark Andrews,32.93,TE,BAL,2023
+33,Deebo Samuel,33.09,WR,SFO,2023
+34,Joe Burrow,33.59,QB,CIN,2023
+35,Keenan Allen,33.91,WR,LAC,2023
+36,Travis Etienne,34.68,RB,JAC,2023
+37,Aaron Jones,34.71,RB,GBP,2023
+38,Justin Herbert,37.27,QB,LAC,2023
+39,Amari Cooper,40.43,WR,CLE,2023
+40,Kenneth Walker III,40.54,RB,SEA,2023
+41,Justin Fields,43.33,QB,CHI,2023
+42,Christian Watson,45.38,WR,GBP,2023
+43,Breece Hall,46.39,RB,NYJ,2023
+44,DeAndre Hopkins,47.59,WR,TEN,2023
+45,Dameon Pierce,48.95,RB,HOU,2023
+46,T.J. Hockenson,49.06,TE,MIN,2023
+47,D.J. Moore,50.03,WR,CHI,2023
+48,Jonathan Taylor,50.17,RB,IND,2023
+49,Trevor Lawrence,51.18,QB,JAC,2023
+50,George Kittle,52.31,TE,SFO,2023
+51,Chris Godwin,52.88,WR,TBB,2023
+52,Alexander Mattison,53.76,RB,MIN,2023
+53,James Conner,54.84,RB,ARI,2023
+54,Drake London,57.26,WR,ATL,2023
+55,Javonte Williams,57.99,RB,DEN,2023
+56,Miles Sanders,58.08,RB,CAR,2023
+57,Rachaad White,59.30,RB,TBB,2023
+58,Tyler Lockett,60.51,WR,SEA,2023
+59,Terry McLaurin,61.18,WR,WAS,2023
+60,Mike Evans,61.28,WR,TBB,2023
+61,Christian Kirk,62.19,WR,JAC,2023
+62,Brandon Aiyuk,62.39,WR,SFO,2023
+63,Diontae Johnson,62.92,WR,PIT,2023
+64,James Cook,64.62,RB,BUF,2023
+65,Dallas Goedert,64.76,TE,PHI,2023
+66,Alvin Kamara,64.78,RB,NOS,2023
+67,Dalvin Cook,65.90,RB,NYJ,2023
+68,Kyle Pitts,68.55,TE,ATL,2023
+69,Michael Pittman,70.30,WR,IND,2023
+70,David Montgomery,70.49,RB,DET,2023
+71,D'Andre Swift,71.12,RB,PHI,2023
+72,George Pickens,71.21,WR,PIT,2023
+73,Isiah Pacheco,71.25,RB,KCC,2023
+74,Foyesade Oluokun,72.00,LB,JAC,2023
+75,Will Anderson,73.14,DE,HOU,2023
+76,Jordan Addison,73.18,WR,MIN,2023
+77,Jerry Jeudy,73.91,WR,DEN,2023
+78,Roquan Smith,74.81,LB,BAL,2023
+79,Khalil Herbert,75.76,RB,CHI,2023
+80,Jack Campbell,76.66,LB,DET,2023
+81,Jaxon Smith-Njigba,78.69,WR,SEA,2023
+82,Jahan Dotson,78.96,WR,WAS,2023
+83,Zay Flowers,79.60,WR,BAL,2023
+84,Dak Prescott,80.26,QB,DAL,2023
+85,Micah Parsons,80.43,DE,DAL,2023
+86,Evan Engram,81.47,TE,JAC,2023
+87,Marquise Brown,83.22,WR,ARI,2023
+88,Brian Robinson,83.90,RB,WAS,2023
+89,Courtland Sutton,83.90,WR,DEN,2023
+90,Brandin Cooks,84.20,WR,DAL,2023
+91,T.J. Watt,84.24,DE,PIT,2023
+92,Drew Sanders,85.98,LB,DEN,2023
+93,Tua Tagovailoa,86.89,QB,MIA,2023
+94,Zach Charbonnet,87.49,RB,SEA,2023
+95,Will Levis,88.70,QB,TEN,2023
+96,Gabriel Davis,88.79,WR,BUF,2023
+97,Pat Freiermuth,89.73,TE,PIT,2023
+98,AJ Dillon,91.47,RB,GBP,2023
+99,Geno Smith,93.68,QB,SEA,2023
+100,Tyree Wilson,93.84,DE,LVR,2023
+101,Antonio Gibson,93.99,RB,WAS,2023
+102,Jalen HOU SPitre,95.13,S,HOU,2023
+103,Maxx Crosby,95.85,DE,LVR,2023
+104,DeWayne McBride,95.88,RB,FA,2023
+105,C.J. Mosley,96.14,LB,NYJ,2023
+106,JuJu Smith-Schuster,96.24,WR,NEP,2023
+107,Zaire Franklin,96.68,LB,IND,2023
+108,Quentin Johnston,98.65,WR,LAC,2023
+109,Jalen Carter,99.20,DT,PHI,2023
+110,David Njoku,99.59,TE,CLE,2023
+111,Dalton Kincaid,99.83,TE,BUF,2023
+112,Derwin LAC SJames,100.81,S,LAC,2023
+113,Raheem Mostert,100.84,RB,MIA,2023
+114,Odell Beckham,100.87,WR,BAL,2023
+115,C.J. Stroud,101.59,QB,HOU,2023
+116,Dorian Thompson-Robinson,101.82,QB,CLE,2023
+117,Jamaal Williams,102.42,RB,NOS,2023
+118,Bobby Wagner,102.58,LB,SEA,2023
+119,Darnell Washington,103.23,TE,PIT,2023
+120,Aidan O'Connell,103.52,QB,LVR,2023
+121,Myles Garrett,103.77,DE,CLE,2023
+122,Tucker Kraft,104.10,TE,GBP,2023
+123,"49ers, San Francisco SFO Def",104.19,Def,SFO,2023
+124,Israel Abanikanda,104.50,RB,NYJ,2023
+125,Charlie Jones,104.80,WR,CIN,2023
+126,Jerick McKinnon,104.85,RB,KCC,2023
+127,A.T. Perry,105.22,WR,NOS,2023
+128,Skyy Moore,105.96,WR,KCC,2023
+129,Cedric Tillman,106.09,WR,CLE,2023
+130,Tyler Scott,107.08,WR,CHI,2023
+131,Nick Bosa,107.55,DE,SFO,2023
+132,Bobby Okereke,107.63,LB,NYG,2023
+133,Tank Bigsby,108.63,RB,JAC,2023
+134,Bryce Young,108.94,QB,CAR,2023
+135,Zach Evans,109.16,RB,LAR,2023
+136,Kadarius Toney,109.28,WR,KCC,2023
+137,Samaje Perine,109.55,RB,DEN,2023
+138,Josh Downs,109.76,WR,IND,2023
+139,Ezekiel Elliott,109.84,RB,NEP,2023
+140,Brian DET SBranch,110.29,S,DET,2023
+141,Kayshon Boutte,110.51,WR,NEP,2023
+142,Jordan CIN SBattle,110.77,S,CIN,2023
+143,Michael Mayer,111.38,TE,LVR,2023
+144,De'Von Achane,111.62,RB,MIA,2023
+145,Haason Reddick,112.04,DE,PHI,2023
+146,Justin Tucker,112.11,PK,BAL,2023
+147,Logan Wilson,112.21,LB,CIN,2023
+148,Elijah Moore,112.36,WR,CLE,2023
+149,Fred Warner,113.43,LB,SFO,2023
+150,"Eagles, Philadelphia PHI Def",113.65,Def,PHI,2023
+151,Luke Schoonmaker,115.45,TE,DAL,2023
+152,Michael Wilson,115.46,WR,ARI,2023
+153,Jared Goff,115.63,QB,DET,2023
+154,Chris Rodriguez,116.28,RB,WAS,2023
+155,Tyjae Spears,116.29,RB,TEN,2023
+156,Trey Palmer,116.32,WR,TBB,2023
+157,Nico Collins,116.38,WR,HOU,2023
+158,Frankie Luvu,116.39,LB,CAR,2023
+159,Jaylen Warren,116.39,RB,PIT,2023
+160,Sam LaPorta,116.50,TE,DET,2023
+161,"Cowboys, Dallas DAL Def",116.88,Def,DAL,2023
+162,Jakobi Meyers,117.27,WR,LVR,2023
+163,Shaquille Leonard,117.46,LB,FA,2023
+164,Treylon Burks,117.47,WR,TEN,2023
+165,Dalton Schultz,117.72,TE,HOU,2023
+166,Roschon Johnson,117.83,RB,CHI,2023
+167,Minkah PIT SFitzpatrick,117.93,S,PIT,2023
+168,Pete Werner,120.18,LB,NOS,2023
+169,Juwan Johnson,120.20,TE,NOS,2023
+170,Kendre Miller,120.21,RB,NOS,2023
+171,Josey Jewell,120.33,LB,DEN,2023
+172,Aidan Hutchinson,120.77,DE,DET,2023
+173,Harold Landry,120.81,DE,TEN,2023
+174,Aaron Donald,120.86,DT,LAR,2023
+175,Allen Lazard,121.62,WR,NYJ,2023
+176,Romeo Doubs,121.68,WR,GBP,2023
+177,Marvin Mims,122.47,WR,DEN,2023
+178,Devin White,122.56,LB,TBB,2023
+179,Tyler Higbee,124.37,TE,LAR,2023
+180,Zay Jones,124.38,WR,JAC,2023
+181,Kayvon Thibodeaux,124.82,DE,NYG,2023
+182,Kenneth Gainwell,125.04,RB,PHI,2023
+183,Jonathan Mingo,125.23,WR,CAR,2023
+184,Budda ARI SBaker,125.30,S,ARI,2023
+185,Jalin Hyatt,125.99,WR,NYG,2023
+186,Derek Carr,126.34,QB,NOS,2023
+187,Tank Dell,126.72,WR,HOU,2023
+188,Rashee Rice,126.80,WR,KCC,2023
+189,Puka Nacua,127.32,WR,LAR,2023
+190,"Patriots, New England NEP Def",127.49,Def,NEP,2023
+191,Rashaad Penny,128.64,RB,PHI,2023
+192,Jayden Reed,128.65,WR,GBP,2023
+193,Rashod Bateman,129.06,WR,BAL,2023
+194,"Bills, Buffalo BUF Def",129.48,Def,BUF,2023
+195,Cole Kmet,129.62,TE,CHI,2023
+196,Adam Thielen,130.32,WR,CAR,2023
+197,Baltimore BAL TMPKRavens,130.39,TMPK,BAL,2023
+198,Marquez Valdes-Scantling,131.34,WR,KCC,2023
+199,Matthew Stafford,131.57,QB,LAR,2023
+200,Brock Purdy,131.71,QB,SFO,2023
+201,Elijah Mitchell,131.97,RB,SFO,2023
+202,Jaleel McLaughlin,132.19,RB,DEN,2023
+203,Sean Tucker,133.03,RB,TBB,2023
+204,Russell Wilson,133.21,QB,DEN,2023
+205,Jordan Love,133.70,QB,GBP,2023
+206,Tyler Allgeier,133.73,RB,ATL,2023
+207,Sam Howell,133.91,QB,WAS,2023
+208,D.J. Chark,134.14,WR,CAR,2023
+209,Deuce Vaughn,134.17,RB,DAL,2023
+210,Eric Kendricks,134.31,LB,LAC,2023
+211,Kenny Pickett,134.81,QB,PIT,2023
+212,T.J. Edwards,135.46,LB,CHI,2023
+213,Evan McPherson,136.23,PK,CIN,2023
+214,Daniel Carlson,136.46,PK,LVR,2023
+215,"Jets, New York NYJ Def",136.55,Def,NYJ,2023
+216,Kyle BAL SHamilton,136.57,S,BAL,2023
+217,Harrison Butker,137.22,PK,KCC,2023
+218,Jimmy Garoppolo,137.36,QB,LVR,2023
+219,Brian Burns,137.54,DE,CAR,2023
+220,Chigoziem Okonkwo,138.16,TE,TEN,2023
+221,Jaquan CHI SBrisker,138.38,S,CHI,2023
+222,Ernest Jones,138.50,LB,LAR,2023
+223,Alex Singleton,139.17,LB,DEN,2023
+224,"Steelers, Pittsburgh PIT Def",141.34,Def,PIT,2023
+225,Tremaine Edmunds,141.81,LB,CHI,2023
+226,Mac Jones,142.02,QB,NEP,2023
+227,Jameson Williams,142.22,WR,DET,2023
+228,Quinnen Williams,142.46,DT,NYJ,2023
+229,Divine Deablo,142.82,LB,LVR,2023
+230,Danielle Hunter,143.11,DE,MIN,2023
+231,Ryan Tannehill,143.17,QB,TEN,2023
+232,Baker Mayfield,143.32,QB,TBB,2023
+233,Tyler Bass,143.36,PK,BUF,2023
+234,Devin Singletary,143.63,RB,HOU,2023
+235,Jake Elliott,143.65,PK,PHI,2023
+236,Desmond Ridder,144.43,QB,ATL,2023
+237,Taysom Hill,144.49,TE,NOS,2023
+238,Antoine TBB SWinfield,145.10,S,TBB,2023
+239,De'Vondre Campbell,145.24,LB,GBP,2023
+240,Van Jefferson,145.45,WR,ATL,2023
+241,Tyler Boyd,145.53,WR,CIN,2023
+242,"Ravens, Baltimore BAL Def",145.75,Def,BAL,2023
+243,L'Jarius Sneed,146.00,CB,KCC,2023
+244,"Saints, New Orleans NOS Def",146.25,Def,NOS,2023
+245,"Chiefs, Kansas City KCC Def",147.00,Def,KCC,2023
+246,Dre Greenlaw,147.91,LB,SFO,2023
+247,Jordyn Brooks,148.97,LB,SEA,2023
+248,Jonathan GBP SOwens,149.28,S,GBP,2023
+249,Rondale Moore,149.78,WR,ARI,2023
+250,Kyler Murray,150.43,QB,ARI,2023
+251,Rico Dowdle,150.46,RB,DAL,2023
+252,Gerald Everett,150.59,TE,LAC,2023
+253,"Jaguars, Jacksonville JAC Def",151.35,Def,JAC,2023
+254,K.J. Osborn,152.19,WR,MIN,2023
+255,Jeffery Wilson,153.61,RB,MIA,2023
+256,"Dolphins, Miami MIA Def",154.01,Def,MIA,2023
+257,Zamir White,154.36,RB,LVR,2023
+258,Jake Ferguson,154.78,TE,DAL,2023
+259,Anders Carlson,154.86,PK,GBP,2023
+260,Lavonte David,154.97,LB,TBB,2023
+261,Younghoe Koo,155.17,PK,ATL,2023
+262,Darnell Mooney,155.20,WR,CHI,2023
+263,Harrison MIN SSmith,155.60,S,MIN,2023
+264,Las Vegas LVR TMPKRaiders,156.03,TMPK,LVR,2023
+265,Brett Maher,156.27,PK,FA,2023
+266,Jake Moody,156.48,PK,SFO,2023
+267,Kyle NEP SDugger,156.65,S,NEP,2023
+268,Cincinnati CIN TMPKBengals,156.77,TMPK,CIN,2023
+269,Chuba Hubbard,158.41,RB,CAR,2023
+270,Brandon Aubrey,158.42,PK,DAL,2023
+271,Deon Jackson,158.51,RB,FA,2023
+272,"Bengals, Cincinnati CIN Def",158.54,Def,CIN,2023
+273,Kansas City KCC TMPKChiefs,158.65,TMPK,KCC,2023
+274,Cameron Dicker,158.79,PK,LAC,2023
+275,Zack Moss,159.12,RB,IND,2023
+276,DeVante Parker,159.60,WR,NEP,2023
+277,DeShon MIA SElliott,159.98,S,MIA,2023
+278,Irv Smith Jr.,160.13,TE,CIN,2023
+279,Ty Chandler,160.66,RB,MIN,2023
+280,D'Onta Foreman,160.85,RB,CHI,2023
+281,"Packers, Green Bay GBP Def",161.69,Def,GBP,2023
+282,"Lions, Detroit DET Def",161.90,Def,DET,2023
+283,Jerome Ford,162.02,RB,CLE,2023
+284,Buffalo BUF TMPKBills,162.30,TMPK,BUF,2023
+285,Donovan Peoples-Jones,162.52,WR,DET,2023
+286,Isaiah Hodgins,162.70,WR,NYG,2023
+287,Chad Ryland,163.26,PK,NEP,2023
+288,"Broncos, Denver DEN Def",163.27,Def,DEN,2023
+289,"Browns, Cleveland CLE Def",164.16,Def,CLE,2023
+290,Tyler Conklin,164.33,TE,NYJ,2023
+291,Jason Myers,165.62,PK,SEA,2023
+292,"Commanders, Washington WAS Def",165.84,Def,WAS,2023
+293,Chris Boswell,165.88,PK,PIT,2023
+294,Riley Patterson,165.98,PK,DET,2023
+295,Darius Slayton,166.09,WR,NYG,2023
+296,Michael Gallup,166.20,WR,DAL,2023
+297,"Colts, Indianapolis IND Def",166.26,Def,IND,2023
+298,Clyde Edwards-Helaire,166.63,RB,KCC,2023
+299,Curtis Samuel,166.95,WR,WAS,2023
+300,Philadelphia PHI TMPKEagles,167.47,TMPK,PHI,2023
+301,"Seahawks, Seattle SEA Def",167.52,Def,SEA,2023
+302,Kareem Hunt,167.63,RB,CLE,2023
+303,Greg Zuerlein,167.98,PK,NYJ,2023
+304,Gus Edwards,168.39,RB,BAL,2023
+305,Kamren WAS SCurl,168.71,S,WAS,2023
+306,Hunter Henry,168.74,TE,NEP,2023
+307,Cordarrelle Patterson,169.30,RB,ATL,2023
+308,Hunter Renfrow,169.83,WR,LVR,2023
+309,Rayshawn JAC SJenkins,170.19,S,JAC,2023
+310,Matt Gay,170.27,PK,IND,2023
+311,Parris Campbell,170.90,WR,NYG,2023
+312,Hayden Hurst,171.15,TE,CAR,2023
+313,Wan'Dale Robinson,171.29,WR,NYG,2023
+314,Chase Edmonds,171.55,RB,TBB,2023
+315,"Chargers, Los Angeles LAC Def",171.58,Def,LAC,2023
+316,Jason Sanders,171.92,PK,MIA,2023
+317,Joshua Kelley,172.09,RB,LAC,2023
+318,"Titans, Tennessee TEN Def",172.10,Def,TEN,2023
+319,"Rams, Los Angeles LAR Def",172.11,Def,LAR,2023
+320,Greg Joseph,172.59,PK,MIN,2023
+321,Noah Fant,172.63,TE,SEA,2023
+322,Rashid Shaheed,172.78,WR,NOS,2023
+323,Leonard Fournette,172.84,RB,BUF,2023
+324,John Metchie,173.10,WR,HOU,2023
+325,Alec Pierce,173.25,WR,IND,2023
+326,Chris Evans,173.86,RB,CIN,2023
+327,Brandon McManus,174.72,PK,JAC,2023
+328,Mike Gesicki,174.77,TE,NEP,2023
+329,"Vikings, Minnesota MIN Def",175.00,Def,MIN,2023
+330,Dustin Hopkins,175.03,PK,CLE,2023
+331,"Buccaneers, Tampa Bay TBB Def",175.21,Def,TBB,2023
+332,Trayveon Williams,175.66,RB,CIN,2023
+333,Wil Lutz,175.70,PK,DEN,2023
+334,"Giants, New York NYG Def",175.91,Def,NYG,2023
+335,Richie James,176.74,WR,KCC,2023
+336,Trey McBride,177.92,TE,ARI,2023
+337,Nick Folk,178.09,PK,TEN,2023
+338,Keaontay Ingram,178.63,RB,ARI,2023
+339,Robert Woods,178.90,WR,HOU,2023
+340,Chase Claypool,180.74,WR,MIA,2023
+341,Matt Prater,180.78,PK,ARI,2023
+342,Los Angeles LAC TMPKChargers,180.95,TMPK,LAC,2023
+343,Atlanta ATL TMPKFalcons,181.69,TMPK,ATL,2023
+344,Dallas DAL TMPKCowboys,182.82,TMPK,DAL,2023
+345,"Panthers, Carolina CAR Def",182.89,Def,CAR,2023
+346,Marvin Jones,183.28,WR,FA,2023
+347,Isaiah Likely,183.45,TE,BAL,2023
+348,Josh Reynolds,184.29,WR,DET,2023
+349,Latavius Murray,184.30,RB,BUF,2023
+350,Allen Robinson,185.02,WR,PIT,2023
+351,Mecole Hardman,187.04,WR,KCC,2023
+352,San Francisco SFO TMPK49ers,187.63,TMPK,SFO,2023
+353,Michael Carter,188.10,RB,ARI,2023
+354,Detroit DET TMPKLions,190.61,TMPK,DET,2023
+355,Seattle SEA TMPKSeahawks,190.75,TMPK,SEA,2023
+356,Cade Otton,191.88,TE,TBB,2023
+357,Mack Hollins,191.95,WR,ATL,2023
+358,Matt Breida,192.21,RB,NYG,2023
